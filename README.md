@@ -17,9 +17,23 @@ objets peuvent être trouvés dans d'autres jeux.
 - **Client en jeu** (script REFramework) : connexion au serveur, envoi des checks, réception des objets.
 - **apworld `resident_evil_requiem`** : le monde Archipelago pour générer les parties.
 
+## Captures d'écran
+
+| Accueil du lanceur | Options du joueur (YAML) |
+|---|---|
+| ![Accueil](docs/screenshots/home.png) | ![Rejoindre un multimonde](docs/screenshots/join.png) |
+| **Héberger un multimonde** | **État de la configuration** |
+| ![Héberger](docs/screenshots/host.png) | ![Configuration](docs/screenshots/setup.png) |
+
+**Client en jeu** (menu REFramework, touche Insert) :
+
+![Client en jeu](docs/screenshots/client_ingame.jpg)
+
 ## Fonctionnement en jeu
 
-- Les objets au sol, dans les tiroirs, coffres-forts, casiers, etc. des 20 chapitres sont des checks.
+- Les objets au sol, dans les tiroirs, coffres-forts, casiers, etc. des 20 chapitres sont des checks :
+  **484 checks** en difficulté Standard avec les objets clés à leur place, **563** avec les objets clés
+  mélangés (dont 79 objets clés). Classic et Insanity en ajoutent quelques-uns.
 - Ramasser un check contenant **ton propre objet AP** te le donne directement dans l'inventaire
   (option ; s'il n'y a pas de place, il part au coffre).
 - Ramasser un check contenant **l'objet d'un autre joueur** ne te donne pas l'objet du jeu d'origine.
