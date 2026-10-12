@@ -1,6 +1,6 @@
 <a id="english"></a>
 
-# Re9 archipelago — 1.0.0 (alpha)
+# Re9 archipelago — 1.0.3 (alpha)
 
 **English** | [Français](#francais)
 
