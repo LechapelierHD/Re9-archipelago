@@ -13,6 +13,22 @@ may be found in other games.
 > **Alpha version**: the mod is playable from start to finish, but bugs may remain.
 > Back up your RE9 saves before playing.
 
+## What's new in the latest update (1.0.23)
+
+> **New game required** (apworld 1.0.4): games generated with an older version are no longer compatible.
+
+- No more starting items.
+- Received items go straight into the **played character's inventory** (ammo, healing, key items of the
+  current chapter); the rest, or what does not fit, goes to the **item box**. While playing Leon, items wait for Grace.
+- **F7** opens the item box from anywhere.
+- **Debug** tab: take an item from the item box into your inventory, give yourself an item if a check failed.
+- New notifications: type, big item name, sender and destination, rarity color, timer bar ("Test" button in Customize).
+- Reorganized window: chapter skip in **Guidance**; problems, journal and item box tools in **Debug**;
+  "Hints and commands" renamed **Commands**.
+- Launcher: click the latest update on the **Updates** page to show or hide its notes.
+- Fixes: joining the same game no longer resets the session (no more duplicate items); no startup error
+  when session files are missing.
+
 ## What the mod includes
 
 - **"Re9 archipelago" launcher** (Windows): join or host a multiworld, install REFramework, the in-game
@@ -138,6 +154,23 @@ objets peuvent être trouvés dans d'autres jeux.
 
 > **Version alpha** : le mod est jouable du début à la fin, mais il peut rester des bugs.
 > Fais une sauvegarde de tes parties RE9 avant de jouer.
+
+## Nouveautés de la dernière mise à jour (1.0.23)
+
+> **Nouvelle partie à générer** (apworld 1.0.4) : les parties créées avec une ancienne version ne sont plus compatibles.
+
+- Plus aucun objet donné au départ.
+- Les objets reçus vont directement dans l'**inventaire du personnage joué** (munitions, soins, objets clés
+  du chapitre en cours) ; le reste, ou ce qui ne tient pas, va au **coffre**. Pendant Leon, ils attendent Grace.
+- **F7** ouvre le coffre de n'importe où.
+- Onglet **Debug** : prendre un objet du coffre dans son inventaire, se donner un objet si un check a raté.
+- Nouvelles notifications : type, nom de l'objet en grand, expéditeur et destination, couleur de rareté,
+  barre de temps (bouton « Tester » dans Personnaliser).
+- Fenêtre réorganisée : saut de chapitre dans **Guidage** ; « Un problème ? », journal et outils du coffre
+  dans **Debug** ; « Indices et commandes » devient **Commandes**.
+- Lanceur : sur la page **Mises à jour**, clique sur la dernière mise à jour pour afficher ou cacher ses notes.
+- Corrections : rejoindre la même partie ne remet plus la session à zéro (plus d'objets en double) ; plus
+  d'erreur au démarrage quand les fichiers de session n'existent pas.
 
 ## Ce que contient le mod
 
