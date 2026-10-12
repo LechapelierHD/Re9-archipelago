@@ -1,4 +1,4 @@
-﻿<a id="english"></a>
+<a id="english"></a>
 
 # Re9 archipelago — 1.0.0 alpha
 
