@@ -20,8 +20,8 @@ may be found in other games.
   **Update** button (the **Updates** tab shows what the latest update added).
   Available in English and French (**Language** button at the bottom left).
 - **In-game client** (REFramework script): server connection, sending checks, receiving items.
-- **Chapter skip** (optional, installed from *Setup status*): as Grace, press F on the first
-  investigation point to jump to the chosen chapter. The checks of skipped chapters are sent
+- **Chapter skip** (optional, installed from *Setup status*, settings in the **Guidance** tab): as Grace,
+  press F on the billboard (first investigation point) to skip ahead. The checks of skipped chapters are sent
   (or their items go to the item box when offline). Save before skipping.
 - **`resident_evil_requiem` apworld**: the Archipelago world used to generate games.
 
@@ -42,20 +42,25 @@ may be found in other games.
 ## How it works in game
 
 - Items on the floor, in drawers, safes, lockers, etc. across the 20 chapters (**Ch1 to Ch20**, in story
-  order) are checks: **484 checks** on Standard difficulty with key items in place, **561** with shuffled
-  key items (including 77 key items). Classic and Insanity add a few more (up to 527 / 608).
+  order) are checks. Their number depends on the difficulty and options (for example **535 checks** on
+  Modern with shuffled key items). No items are given at the start of a game.
 - The Old Key and the Wire Cutters at the very start are not checks: you pick them up normally.
 - Locations are named `ChN Area - Item` (e.g. `Ch1 AbandonedHotel - Wire Cutters`).
 - Picking up a check that holds **one of your own AP items** puts it straight into your inventory
   (option; if there is no room, it goes to the item box).
 - Picking up a check that holds **another player's item** does not give you the original game item.
-- Items received from other players arrive in the **item box** of the save rooms.
+- Items received from other players go straight into the **played character's inventory** (ammo, healing,
+  key items of the current chapter); the rest, or what does not fit, goes to the **item box**.
+  While playing Leon, received items wait until you are back on Grace.
+- **F7** opens the item box screen from anywhere.
 - The item name and its owner are shown on pickup ("Found: Green Herb for Bob"), in the game's language.
 - Names are shown above nearby checks not done yet (Guidance tab).
-- Notifications, progress bar and client window (**Insert** key, REFramework menu),
-  customizable colors, English / French.
-- **Goal**: beat the final boss, then click "Yes, I beat the final boss" in the client window to send
-  the victory.
+- Notifications (item, sender, destination, rarity color), progress bar and client window (**Insert** key,
+  REFramework menu), customizable colors, English / French.
+- **Debug** tab (enable "Developer tools" in **Customize**): resend checks, redeliver lost items, take an
+  item from the item box into your inventory, give yourself an item if a check failed, journal.
+- **Goal**: beat the final boss, then click "Yes, I beat the final boss" in the client's **Debug** tab
+  to send the victory.
 
 ## YAML options
 
@@ -141,8 +146,9 @@ objets peuvent être trouvés dans d'autres jeux.
   les mises à jour avec le bouton **Mettre à jour** (l'onglet **Mises à jour** montre les nouveautés de
   la dernière mise à jour). En français ou en anglais.
 - **Client en jeu** (script REFramework) : connexion au serveur, envoi des checks, réception des objets.
-- **Saut de chapitre** (optionnel, à installer depuis *État de la configuration*) : avec Grace, F sur
-  le premier point d'enquête saute au chapitre choisi. Les checks des chapitres sautés sont envoyés
+- **Saut de chapitre** (optionnel, à installer depuis *État de la configuration*, réglages dans l'onglet
+  **Guidage**) : avec Grace, F sur le panneau publicitaire (premier point d'enquête) fait sauter des
+  chapitres. Les checks des chapitres sautés sont envoyés
   (ou leurs objets vont au coffre hors connexion). Sauvegarde avant de sauter.
 - **apworld `resident_evil_requiem`** : le monde Archipelago pour générer les parties.
 
@@ -154,21 +160,26 @@ langue par défaut).
 ## Fonctionnement en jeu
 
 - Les objets au sol, dans les tiroirs, coffres-forts, casiers, etc. des 20 chapitres (**Ch1 à Ch20**,
-  dans l'ordre de l'histoire) sont des checks : **484 checks** en difficulté Standard avec les objets
-  clés à leur place, **561** avec les objets clés mélangés (dont 77 objets clés). Classic et Insanity en
-  ajoutent quelques-uns (jusqu'à 527 / 608).
+  dans l'ordre de l'histoire) sont des checks. Leur nombre dépend de la difficulté et des options (par
+  exemple **535 checks** en Modern avec les objets clés mélangés). Aucun objet n'est donné au départ.
 - L'Old Key et les Wire Cutters du tout début ne sont pas des checks : elles se ramassent normalement.
 - Les locations s'appellent `ChN Zone - Objet` (ex. `Ch1 AbandonedHotel - Wire Cutters`).
 - Ramasser un check contenant **ton propre objet AP** te le donne directement dans l'inventaire
   (option ; s'il n'y a pas de place, il part au coffre).
 - Ramasser un check contenant **l'objet d'un autre joueur** ne te donne pas l'objet du jeu d'origine.
-- Les objets reçus des autres joueurs arrivent dans le **coffre** des salles de sauvegarde.
+- Les objets reçus des autres joueurs vont directement dans l'**inventaire du personnage joué**
+  (munitions, soins, objets clés du chapitre en cours) ; le reste, ou ce qui ne tient pas, va au **coffre**.
+  Pendant Leon, les objets reçus attendent le retour sur Grace.
+- **F7** ouvre l'écran du coffre de n'importe où.
 - Nom de l'objet et du joueur affiché au ramassage (« Trouvé : Herbe verte pour Bob »), dans la langue du jeu.
 - Noms affichés au-dessus des checks proches pas encore faits (onglet Guidage).
-- Notifications, bandeau de progression et fenêtre du client (touche **Insert**, menu REFramework),
-  couleurs personnalisables, français / anglais.
-- **Objectif** : battre le dernier boss, puis cliquer sur « Oui, j'ai battu le dernier boss » dans la
-  fenêtre du client pour envoyer la victoire.
+- Notifications (objet, expéditeur, destination, couleur de rareté), bandeau de progression et fenêtre du
+  client (touche **Insert**, menu REFramework), couleurs personnalisables, français / anglais.
+- Onglet **Debug** (case « Outils développeur » dans **Personnaliser**) : renvoyer les checks, redonner
+  des objets perdus, prendre un objet du coffre dans son inventaire, se donner un objet si un check a
+  raté, journal.
+- **Objectif** : battre le dernier boss, puis cliquer sur « Oui, j'ai battu le dernier boss » dans
+  l'onglet **Debug** du client pour envoyer la victoire.
 
 ## Options du YAML
 
