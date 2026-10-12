@@ -94,7 +94,7 @@ Resident Evil Requiem:
 
 Requirements: Resident Evil Requiem (Steam), Windows, and [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) 0.6.8 or newer to host or generate.
 
-1. Download the launcher package and extract it anywhere.
+1. Download `Resident-Evil-9-AP-1.0.0-alpha.zip` from the [latest release](https://github.com/LechapelierHD/Re9-archipelago/releases/latest) and extract it anywhere.
 2. Run `RE9.AP.Launcher.exe`.
 3. Choose **Join a multiworld** (or **Host a multiworld**) and follow the steps:
    the launcher installs REFramework, the client and the apworld.
@@ -213,7 +213,7 @@ Resident Evil Requiem:
 
 Prérequis : Resident Evil Requiem (Steam), Windows, et [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) 0.6.8 ou plus récent pour héberger ou générer.
 
-1. Télécharge le paquet du lanceur et décompresse-le où tu veux.
+1. Télécharge `Resident-Evil-9-AP-1.0.0-alpha.zip` dans la [dernière release](https://github.com/LechapelierHD/Re9-archipelago/releases/latest) et décompresse-le où tu veux.
 2. Lance `RE9.AP.Launcher.exe`.
 3. Choisis **Rejoindre un multimonde** (ou **Héberger un multimonde**) et suis les étapes :
    le lanceur installe REFramework, le client et l'apworld.
