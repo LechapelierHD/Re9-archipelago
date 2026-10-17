@@ -248,6 +248,22 @@
     <h1 class="brand">Resident Evil<br><span>Requiem AP</span></h1>
     <p class="tagline">Guide rapide et générateur YAML pour le client RE9 Archipelago.</p>
 
+    <h2>Source code</h2>
+    <div class="step">
+        <div class="download-box">
+            <div class="info">
+                <strong>Source code</strong>
+                <p>Sources du projet (client Lua, apworld Python, lanceur C#).</p>
+                <p class="hint" id="sourceVersionHint">Lien vers le zip Source code de la release.</p>
+            </div>
+            <a class="btn disabled" id="sourceDownloadBtn" href="#" target="_blank" rel="noopener noreferrer">Télécharger</a>
+        </div>
+        <label for="sourceUrl">Lien de téléchargement du source code</label>
+        <input id="sourceUrl" type="url" placeholder="https://…/RE9-AP-Source.zip" autocomplete="off">
+        <label for="sourceVersion">Version affichée (optionnel)</label>
+        <input id="sourceVersion" type="text" placeholder="ex. 1.0.54" autocomplete="off">
+    </div>
+
     <h2>Télécharger le client</h2>
     <div class="step">
         <div class="download-box">
@@ -261,7 +277,7 @@
         <label for="clientUrl">Lien de téléchargement du client</label>
         <input id="clientUrl" type="url" placeholder="https://…/RE9.AP.Client.zip" autocomplete="off">
         <label for="clientVersion">Version affichée (optionnel)</label>
-        <input id="clientVersion" type="text" placeholder="ex. 1.0.50" autocomplete="off">
+        <input id="clientVersion" type="text" placeholder="ex. 1.0.54" autocomplete="off">
     </div>
 
     <h2>1. Installation</h2>
@@ -369,9 +385,11 @@
     const toastEl = $("toast");
     let toastTimer;
 
-    // Client privé : https://github.com/LechapelierHD/Re9-archipelago (releases)
-    const CLIENT_DOWNLOAD_URL = "https://github.com/LechapelierHD/Re9-archipelago/releases/download/v1.0.50/RE9-AP-Client-1.0.50.zip";
-    const CLIENT_VERSION = "1.0.50";
+    // Releases : https://github.com/LechapelierHD/Re9-archipelago/releases
+    const SOURCE_DOWNLOAD_URL = "https://github.com/LechapelierHD/Re9-archipelago/releases/download/v1.0.54/RE9-AP-Source-1.0.54.zip";
+    const SOURCE_VERSION = "1.0.54";
+    const CLIENT_DOWNLOAD_URL = "https://github.com/LechapelierHD/Re9-archipelago/releases/download/v1.0.54/RE9-AP-Client-1.0.54.zip";
+    const CLIENT_VERSION = "1.0.54";
 
     function toast(msg) {
         toastEl.textContent = msg;
@@ -380,19 +398,35 @@
         toastTimer = setTimeout(() => toastEl.classList.remove("show"), 2200);
     }
 
-    function syncClientDownload() {
-        const url = ($("clientUrl").value || "").trim();
-        const version = ($("clientVersion").value || "").trim();
-        const btn = $("clientDownloadBtn");
-        const hint = $("clientVersionHint");
+    function syncDownload(urlId, versionId, btnId, hintId, emptyHint) {
+        const url = ($(urlId).value || "").trim();
+        const version = ($(versionId).value || "").trim();
+        const btn = $(btnId);
+        const hint = $(hintId);
         const valid = /^https?:\/\//i.test(url);
 
         btn.href = valid ? url : "#";
         btn.classList.toggle("disabled", !valid);
         hint.textContent = valid
             ? (version ? `Version ${version} — clic sur Télécharger.` : "Lien prêt — clic sur Télécharger.")
-            : "Colle l’URL du client dans le champ ci-dessous (GitHub, Nexus, Drive…).";
+            : emptyHint;
     }
+
+    function syncSourceDownload() {
+        syncDownload("sourceUrl", "sourceVersion", "sourceDownloadBtn", "sourceVersionHint",
+            "Colle l’URL du source code dans le champ ci-dessous.");
+    }
+
+    function syncClientDownload() {
+        syncDownload("clientUrl", "clientVersion", "clientDownloadBtn", "clientVersionHint",
+            "Colle l’URL du client dans le champ ci-dessous (GitHub, Nexus, Drive…).");
+    }
+
+    if (SOURCE_DOWNLOAD_URL) $("sourceUrl").value = SOURCE_DOWNLOAD_URL;
+    if (SOURCE_VERSION) $("sourceVersion").value = SOURCE_VERSION;
+    $("sourceUrl").addEventListener("input", syncSourceDownload);
+    $("sourceVersion").addEventListener("input", syncSourceDownload);
+    syncSourceDownload();
 
     if (CLIENT_DOWNLOAD_URL) $("clientUrl").value = CLIENT_DOWNLOAD_URL;
     if (CLIENT_VERSION) $("clientVersion").value = CLIENT_VERSION;
