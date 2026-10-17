@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RE9 AP — Configuration</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg0: #0a0c0e;
+            --bg1: #12161a;
+            --bg2: #1a2128;
+            --line: #2a333c;
+            --text: #e8ecef;
+            --muted: #8a969f;
+            --accent: #c9a227;
+            --accent-dim: #8a7020;
+            --danger: #9b2c2c;
+            --ok: #3d8f5a;
+            --focus: #d4b84a;
+        }
+
+        * { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            color: var(--text);
+            font-family: "IBM Plex Sans", sans-serif;
+            background:
+                radial-gradient(1200px 600px at 10% -10%, rgba(155, 44, 44, 0.22), transparent 55%),
+                radial-gradient(900px 500px at 90% 0%, rgba(201, 162, 39, 0.12), transparent 50%),
+                linear-gradient(180deg, #0d1013 0%, var(--bg0) 40%, #080a0c 100%);
+        }
+
+        .wrap {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 48px 20px 72px;
+        }
+
+        .brand {
+            font-family: "Barlow Condensed", sans-serif;
+            font-weight: 800;
+            font-size: clamp(2.6rem, 8vw, 4.2rem);
+            letter-spacing: 0.04em;
+            line-height: 0.95;
+            text-transform: uppercase;
+            margin: 0 0 8px;
+            color: #f2f4f6;
+        }
+
+        .brand span {
+            color: var(--accent);
+        }
+
+        .tagline {
+            margin: 0 0 36px;
+            color: var(--muted);
+            font-size: 1.05rem;
+            max-width: 36ch;
+        }
+
+        h2 {
+            font-family: "Barlow Condensed", sans-serif;
+            font-weight: 700;
+            font-size: 1.55rem;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            margin: 36px 0 12px;
+            color: var(--accent);
+        }
+
+        .step {
+            background: linear-gradient(180deg, var(--bg2), var(--bg1));
+            border: 1px solid var(--line);
+            border-left: 3px solid var(--accent);
+            padding: 16px 18px;
+            margin: 0 0 12px;
+        }
+
+        .step p {
+            margin: 0;
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        .step .hint {
+            margin-top: 8px;
+            color: var(--muted);
+            font-size: 0.9rem;
+        }
+
+        label {
+            display: block;
+            margin: 14px 0 6px;
+            font-size: 0.92rem;
+            color: var(--muted);
+        }
+
+        input, select, textarea {
+            width: 100%;
+            background: #0e1216;
+            color: var(--text);
+            border: 1px solid var(--line);
+            padding: 11px 12px;
+            font: inherit;
+            border-radius: 2px;
+        }
+
+        input:focus, select:focus, textarea:focus {
+            outline: 1px solid var(--focus);
+            border-color: var(--focus);
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        @media (max-width: 560px) {
+            .row { grid-template-columns: 1fr; }
+        }
+
+        .actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 18px;
+        }
+
+        button {
+            font-family: "Barlow Condensed", sans-serif;
+            font-weight: 700;
+            font-size: 1.15rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            border: none;
+            padding: 12px 18px;
+            cursor: pointer;
+            background: var(--accent);
+            color: #14110a;
+        }
+
+        button.secondary {
+            background: transparent;
+            color: var(--text);
+            border: 1px solid var(--line);
+        }
+
+        button:hover { filter: brightness(1.08); }
+        button.secondary:hover { border-color: var(--accent); color: var(--accent); }
+
+        a.btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-family: "Barlow Condensed", sans-serif;
+            font-weight: 700;
+            font-size: 1.15rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            text-decoration: none;
+            padding: 12px 18px;
+            background: var(--accent);
+            color: #14110a;
+        }
+
+        a.btn:hover { filter: brightness(1.08); }
+
+        a.btn.disabled {
+            pointer-events: none;
+            opacity: 0.45;
+            filter: none;
+        }
+
+        .download-box {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 14px;
+        }
+
+        .download-box .info {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .download-box .info strong {
+            display: block;
+            font-family: "Barlow Condensed", sans-serif;
+            font-size: 1.25rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+
+        #preview {
+            margin-top: 14px;
+            min-height: 180px;
+            font-family: ui-monospace, "Cascadia Code", Consolas, monospace;
+            font-size: 0.82rem;
+            line-height: 1.45;
+            white-space: pre;
+            resize: vertical;
+        }
+
+        .toast {
+            position: fixed;
+            left: 50%;
+            bottom: 24px;
+            transform: translateX(-50%) translateY(120%);
+            background: var(--bg2);
+            border: 1px solid var(--ok);
+            color: var(--text);
+            padding: 12px 18px;
+            opacity: 0;
+            transition: transform 0.35s ease, opacity 0.35s ease;
+            z-index: 20;
+            pointer-events: none;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+
+        .meta {
+            margin-top: 40px;
+            padding-top: 16px;
+            border-top: 1px solid var(--line);
+            color: var(--muted);
+            font-size: 0.85rem;
+        }
+
+        .meta code {
+            color: var(--accent);
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <h1 class="brand">Resident Evil<br><span>Requiem AP</span></h1>
+    <p class="tagline">Guide rapide et générateur YAML pour le client RE9 Archipelago.</p>
+
+    <h2>Télécharger le client</h2>
+    <div class="step">
+        <div class="download-box">
+            <div class="info">
+                <strong>RE9 AP Client</strong>
+                <p>Launcher + scripts Archipelago pour Resident Evil Requiem.</p>
+                <p class="hint" id="clientVersionHint">Colle l’URL du client dans le champ ci-dessous (GitHub, Nexus, Drive…).</p>
+            </div>
+            <a class="btn disabled" id="clientDownloadBtn" href="#" target="_blank" rel="noopener noreferrer">Télécharger</a>
+        </div>
+        <label for="clientUrl">Lien de téléchargement du client</label>
+        <input id="clientUrl" type="url" placeholder="https://…/RE9.AP.Client.zip" autocomplete="off">
+        <label for="clientVersion">Version affichée (optionnel)</label>
+        <input id="clientVersion" type="text" placeholder="ex. 1.0.50" autocomplete="off">
+    </div>
+
+    <h2>1. Installation</h2>
+    <div class="step">
+        <p>Installe <strong>Resident Evil Requiem</strong> via Steam, télécharge le client ci-dessus, puis lance <code>RE9.AP.Launcher.exe</code>.</p>
+        <p class="hint">Le launcher pose REFramework + les scripts Lua ArchipelagoRE9. Relance le jeu après une mise à jour de patch.</p>
+    </div>
+
+    <h2>2. Options YAML</h2>
+    <div class="step">
+        <div class="row">
+            <div>
+                <label for="playerName">Nom du slot (16 car. max)</label>
+                <input id="playerName" type="text" maxlength="16" value="Player" autocomplete="off">
+            </div>
+            <div>
+                <label for="description">Description</label>
+                <input id="description" type="text" value="RE9 AP config">
+            </div>
+        </div>
+
+        <label for="difficulty">Difficulté (doit matcher ta save)</label>
+        <select id="difficulty">
+            <option value="casual">Casual</option>
+            <option value="modern" selected>Modern</option>
+            <option value="classic">Classic</option>
+            <option value="insanity">Insanity</option>
+        </select>
+
+        <div class="row">
+            <div>
+                <label for="keyItems">Key Items</label>
+                <select id="keyItems">
+                    <option value="vanilla" selected>Vanilla (sûr)</option>
+                    <option value="shuffled">Shuffled</option>
+                </select>
+            </div>
+            <div>
+                <label for="flagItems">Flag Items</label>
+                <select id="flagItems">
+                    <option value="vanilla" selected>Vanilla (sûr)</option>
+                    <option value="shuffled">Shuffled</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row">
+            <div>
+                <label for="enemyDrops">Enemy Drops (0–50)</label>
+                <input id="enemyDrops" type="number" min="0" max="50" value="15">
+            </div>
+            <div>
+                <label for="deathLink">Death Link</label>
+                <select id="deathLink">
+                    <option value="false" selected>Off</option>
+                    <option value="true">On</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="row">
+            <div>
+                <label for="accessibility">Accessibility</label>
+                <select id="accessibility">
+                    <option value="full" selected>Full</option>
+                    <option value="minimal">Minimal</option>
+                </select>
+            </div>
+            <div>
+                <label for="balancing">Progression Balancing</label>
+                <select id="balancing">
+                    <option value="disabled">Disabled (0)</option>
+                    <option value="normal" selected>Normal (50)</option>
+                    <option value="extreme">Extreme (99)</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="actions">
+            <button type="button" id="generateBtn">Générer le YAML</button>
+            <button type="button" class="secondary" id="copyBtn">Copier</button>
+            <button type="button" class="secondary" id="downloadBtn">Télécharger .yaml</button>
+        </div>
+
+        <label for="preview">Aperçu</label>
+        <textarea id="preview" readonly spellcheck="false"></textarea>
+    </div>
+
+    <h2>3. Connexion in-game</h2>
+    <div class="step">
+        <p>Génère le multiworld avec Archipelago (apworld <strong>Resident Evil Requiem</strong>), puis dans le jeu ouvre l’UI RE9 AP :</p>
+        <p class="hint">Serveur · Nom du slot · Mot de passe → <strong>Enregistrer et connecter</strong>. La difficulté YAML doit être celle de ta save.</p>
+    </div>
+
+    <p class="meta">
+        Client cible : dossier <code>Resident Evil 9 AP</code> · jeu AP : <code>Resident Evil Requiem</code>
+    </p>
+</div>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(function () {
+    const $ = (id) => document.getElementById(id);
+    const toastEl = $("toast");
+    let toastTimer;
+
+    // Client privé : https://github.com/LechapelierHD/Re9-archipelago (releases)
+    const CLIENT_DOWNLOAD_URL = "https://github.com/LechapelierHD/Re9-archipelago/releases/download/v1.0.50/RE9-AP-Client-1.0.50.zip";
+    const CLIENT_VERSION = "1.0.50";
+
+    function toast(msg) {
+        toastEl.textContent = msg;
+        toastEl.classList.add("show");
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => toastEl.classList.remove("show"), 2200);
+    }
+
+    function syncClientDownload() {
+        const url = ($("clientUrl").value || "").trim();
+        const version = ($("clientVersion").value || "").trim();
+        const btn = $("clientDownloadBtn");
+        const hint = $("clientVersionHint");
+        const valid = /^https?:\/\//i.test(url);
+
+        btn.href = valid ? url : "#";
+        btn.classList.toggle("disabled", !valid);
+        hint.textContent = valid
+            ? (version ? `Version ${version} — clic sur Télécharger.` : "Lien prêt — clic sur Télécharger.")
+            : "Colle l’URL du client dans le champ ci-dessous (GitHub, Nexus, Drive…).";
+    }
+
+    if (CLIENT_DOWNLOAD_URL) $("clientUrl").value = CLIENT_DOWNLOAD_URL;
+    if (CLIENT_VERSION) $("clientVersion").value = CLIENT_VERSION;
+    $("clientUrl").addEventListener("input", syncClientDownload);
+    $("clientVersion").addEventListener("input", syncClientDownload);
+    syncClientDownload();
+
+    function choiceBlock(selected, options) {
+        return options.map((opt) =>
+            `    ${opt}: ${opt === selected ? 50 : 0}`
+        ).join("\n");
+    }
+
+    function buildYaml() {
+        const name = ($("playerName").value || "Player").trim().slice(0, 16);
+        const description = ($("description").value || "RE9 AP config").trim();
+        const difficulty = $("difficulty").value;
+        const keyItems = $("keyItems").value;
+        const flagItems = $("flagItems").value;
+        let drops = parseInt($("enemyDrops").value, 10);
+        if (Number.isNaN(drops)) drops = 15;
+        drops = Math.max(0, Math.min(50, drops));
+        $("enemyDrops").value = String(drops);
+        const deathLink = $("deathLink").value;
+        const accessibility = $("accessibility").value;
+        const balancing = $("balancing").value;
+
+        return `# Generated for Resident Evil Requiem (RE9 AP)
+name: ${name}
+description: ${description}
+game: Resident Evil Requiem
+requires:
+  version: 0.6.8
+
+Resident Evil Requiem:
+  progression_balancing:
+${choiceBlock(balancing, ["random", "random-low", "random-high", "disabled", "normal", "extreme"])}
+
+  accessibility:
+${choiceBlock(accessibility, ["full", "minimal"])}
+
+  game_difficulty:
+${choiceBlock(difficulty, ["casual", "modern", "classic", "insanity"])}
+
+  key_items:
+${choiceBlock(keyItems, ["vanilla", "shuffled"])}
+
+  flag_items:
+${choiceBlock(flagItems, ["vanilla", "shuffled"])}
+
+  enemy_drops:
+    ${drops}: 50
+
+  death_link:
+    'false': ${deathLink === "false" ? 50 : 0}
+    'true': ${deathLink === "true" ? 50 : 0}
+`;
+    }
+
+    function refresh() {
+        $("preview").value = buildYaml();
+    }
+
+    $("generateBtn").addEventListener("click", () => {
+        refresh();
+        toast("YAML généré pour Resident Evil Requiem");
+    });
+
+    $("copyBtn").addEventListener("click", async () => {
+        refresh();
+        try {
+            await navigator.clipboard.writeText($("preview").value);
+            toast("YAML copié");
+        } catch {
+            $("preview").select();
+            document.execCommand("copy");
+            toast("YAML copié");
+        }
+    });
+
+    $("downloadBtn").addEventListener("click", () => {
+        refresh();
+        const name = ($("playerName").value || "Player").trim().slice(0, 16) || "Player";
+        const blob = new Blob([$("preview").value], { type: "text/yaml;charset=utf-8" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = `${name.replace(/[^\w\-]+/g, "_")}_RE9.yaml`;
+        a.click();
+        URL.revokeObjectURL(a.href);
+        toast("Fichier .yaml téléchargé");
+    });
+
+    [
+        "playerName", "description", "difficulty", "keyItems", "flagItems",
+        "enemyDrops", "deathLink", "accessibility", "balancing"
+    ].forEach((id) => $(id).addEventListener("input", refresh));
+
+    refresh();
+})();
+</script>
+</body>
+</html>
