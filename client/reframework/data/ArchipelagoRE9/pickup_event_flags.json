@@ -1,0 +1,29 @@
+{
+  "_provenance": "RE9 equivalent of RE4R pickup_event_flags.json. Locations whose vanilla item is category Flag: AP check/receive must re-fire Acquired+Pickedup (and related) so cutscenes / story usage still work. retro_heal = safe to re-apply for already-checked locations.",
+  "locations": {
+    "7091019": {
+      "name": "Ch3 Area - Lighter",
+      "game_id": "it99_05_000",
+      "item": "Lighter",
+      "retro_heal": true
+    },
+    "7091156": {
+      "name": "Ch5 st30_031 CoinLocker - Override Manual",
+      "game_id": "it99_50_011",
+      "item": "Override Manual",
+      "retro_heal": true
+    },
+    "7091334": {
+      "name": "Ch10 LMD - Unknown Item (it99_05_002)",
+      "game_id": "it99_05_002",
+      "item": "Unknown Item (it99_05_002)",
+      "retro_heal": true
+    }
+  },
+  "items": {
+    "it99_05_000": { "name": "Lighter", "blackboard": "HasLighter" },
+    "it99_05_001": { "name": "Flashlight", "blackboard": "HasFlashLight" },
+    "it99_05_002": { "name": "Unknown Item (it99_05_002)" },
+    "it99_50_011": { "name": "Override Manual" }
+  }
+}

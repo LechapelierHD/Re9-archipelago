@@ -1,0 +1,1792 @@
+{
+    "numero":  14,
+    "chapitre":  "Chap4_20",
+    "nombre":  119,
+    "items":  [
+                  {
+                      "nom":  "Distributor",
+                      "item_id":  "it60_00_097",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_213_Gimmick_Unique",
+                      "position":  {
+                                       "x":  46.16,
+                                       "y":  12.25,
+                                       "z":  -282.3
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_213_Gimmick_Unique/it60_00_097@46.2,12.3,-282.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_213_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Battery",
+                      "item_id":  "it60_00_092",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique",
+                      "position":  {
+                                       "x":  80.86,
+                                       "y":  -7.16,
+                                       "z":  -291.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique/it60_00_092@80.9,-7.2,-291.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  20,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique",
+                      "position":  {
+                                       "x":  78.03,
+                                       "y":  -8.87,
+                                       "z":  -259.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique/it40_03_000@78.0,-8.9,-259.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  20,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique",
+                      "position":  {
+                                       "x":  98.37,
+                                       "y":  -8.87,
+                                       "z":  -281.61
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique/it40_03_000@98.4,-8.9,-281.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique",
+                      "position":  {
+                                       "x":  97.94,
+                                       "y":  -8.87,
+                                       "z":  -281.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique/it40_05_000@97.9,-8.9,-281.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_214_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Battery",
+                      "item_id":  "it60_00_092",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_216_Gimmick_Unique",
+                      "position":  {
+                                       "x":  146.21,
+                                       "y":  -9.96,
+                                       "z":  -258.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_216_Gimmick_Unique/it60_00_092@146.2,-10.0,-259.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_216_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Rusty Crank",
+                      "item_id":  "it60_00_103",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_218_Gimmick_Unique",
+                      "position":  {
+                                       "x":  94.46,
+                                       "y":  -1.82,
+                                       "z":  -275.53
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_218_Gimmick_Unique/it60_00_103@94.5,-1.8,-275.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_218_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Broken Signal Receiver",
+                      "item_id":  "it60_00_108",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_220_Gimmick_Unique",
+                      "position":  {
+                                       "x":  91.53,
+                                       "y":  20.1,
+                                       "z":  -276.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_220_Gimmick_Unique/it60_00_108@91.5,20.1,-276.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_220_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Gas Can with Fuel",
+                      "item_id":  "it60_00_095",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_221_Gimmick_Unique",
+                      "position":  {
+                                       "x":  111,
+                                       "y":  -3.2,
+                                       "z":  -348.45
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_221_Gimmick_Unique/it60_00_095@111.0,-3.2,-348.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_221_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Relay",
+                      "item_id":  "it60_00_098",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_227_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -34.14,
+                                       "y":  26.75,
+                                       "z":  -267.61
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_227_Gimmick_Unique/it60_00_098@-34.1,26.8,-267.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_227_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  3,
+                      "zone":  "Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_235_Gimmick_Unique",
+                      "position":  {
+                                       "x":  37.46,
+                                       "y":  -2.37,
+                                       "z":  -315.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_235_Gimmick_Unique/it40_01_000@37.5,-2.4,-315.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Gimmick/Chap4_20_Gimmick_Unique/st40_235_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "BSAA Container Key",
+                      "item_id":  "it60_00_091",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  92.4,
+                                       "y":  -3.44,
+                                       "z":  -295.8
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it60_00_091@92.4,-3.4,-295.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "Cedarbrook Apartments Key",
+                      "item_id":  "it60_00_094",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  42.61,
+                                       "y":  6.09,
+                                       "z":  -254.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it60_00_094@42.6,6.1,-254.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "Gas Can",
+                      "item_id":  "it60_00_093",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  131.47,
+                                       "y":  -2.26,
+                                       "z":  -314.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it60_00_093@131.5,-2.3,-314.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "Repair Kit",
+                      "item_id":  "it60_00_109",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  25.99,
+                                       "y":  -2.27,
+                                       "z":  -268.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it60_00_109@26.0,-2.3,-268.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "Tactical Tracker",
+                      "item_id":  "it99_50_007",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  32.96,
+                                       "y":  -2.31,
+                                       "z":  -273.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it99_50_007@33.0,-2.3,-274.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "Valve Handwheel",
+                      "item_id":  "it60_00_104",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_00",
+                      "position":  {
+                                       "x":  143.63,
+                                       "y":  -17.23,
+                                       "z":  -246.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00/it60_00_104@143.6,-17.2,-246.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_00"
+                  },
+                  {
+                      "nom":  "it10_10_006",
+                      "item_id":  "it10_10_006",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01",
+                      "position":  {
+                                       "x":  54.34,
+                                       "y":  0.84,
+                                       "z":  -264.73
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/it10_10_006@54.3,0.8,-264.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/リソース",
+                      "position":  {
+                                       "x":  43.31,
+                                       "y":  12.77,
+                                       "z":  -254.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース/it00_00_000@43.3,12.8,-254.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/リソース",
+                      "position":  {
+                                       "x":  56.49,
+                                       "y":  4.77,
+                                       "z":  -281.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース/it00_00_000@56.5,4.8,-281.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/リソース",
+                      "position":  {
+                                       "x":  70.22,
+                                       "y":  0.4,
+                                       "z":  -267.29
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース/it50_00_014@70.2,0.4,-267.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/リソース"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット",
+                      "position":  {
+                                       "x":  47.77,
+                                       "y":  0.73,
+                                       "z":  -258.99
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット/it00_00_000@47.8,0.7,-259.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット"
+                  },
+                  {
+                      "nom":  "Gunpowder (Small)",
+                      "item_id":  "it50_00_001",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット",
+                      "position":  {
+                                       "x":  39,
+                                       "y":  -3.25,
+                                       "z":  -258.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット/it50_00_001@39.0,-3.3,-258.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット",
+                      "position":  {
+                                       "x":  35.72,
+                                       "y":  -2.2,
+                                       "z":  -256.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット/it20_00_000@35.7,-2.2,-256.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット",
+                      "position":  {
+                                       "x":  28.71,
+                                       "y":  -2.48,
+                                       "z":  -270.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット/it40_00_000@28.7,-2.5,-270.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット",
+                      "position":  {
+                                       "x":  28.49,
+                                       "y":  -2.48,
+                                       "z":  -269.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット/it40_01_000@28.5,-2.5,-270.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_01/直置き/背景セット"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  70.51,
+                                       "y":  0.6,
+                                       "z":  -266.77
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it40_02_000@70.5,0.6,-266.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  88.01,
+                                       "y":  -8.98,
+                                       "z":  -289.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it50_00_014@88.0,-9.0,-289.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  77.45,
+                                       "y":  -8.7,
+                                       "z":  -259.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it20_00_000@77.5,-8.7,-259.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  95.19,
+                                       "y":  -7.75,
+                                       "z":  -252.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it40_05_000@95.2,-7.8,-252.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  85.98,
+                                       "y":  -6.59,
+                                       "z":  -250.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it50_00_002@86.0,-6.6,-250.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  88.59,
+                                       "y":  -8.98,
+                                       "z":  -290.3
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it40_01_000@88.6,-9.0,-290.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  88.37,
+                                       "y":  -8.97,
+                                       "z":  -290.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it99_50_008@88.4,-9.0,-290.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/sapwner",
+                      "position":  {
+                                       "x":  95.74,
+                                       "y":  -7.75,
+                                       "z":  -250.93
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner/it99_50_008@95.7,-7.8,-250.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/sapwner"
+                  },
+                  {
+                      "nom":  "Gal",
+                      "item_id":  "it10_03_000",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/直置き",
+                      "position":  {
+                                       "x":  86.08,
+                                       "y":  -7.66,
+                                       "z":  -288.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き/it10_03_000@86.1,-7.7,-288.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/直置き",
+                      "position":  {
+                                       "x":  90.43,
+                                       "y":  -6.83,
+                                       "z":  -251.53
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き/it00_00_000@90.4,-6.8,-251.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/直置き",
+                      "position":  {
+                                       "x":  111.59,
+                                       "y":  -8.85,
+                                       "z":  -272.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き/it70_05_000@111.6,-8.9,-272.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_02/直置き",
+                      "position":  {
+                                       "x":  105.4,
+                                       "y":  -8.91,
+                                       "z":  -267.74
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き/it40_01_000@105.4,-8.9,-267.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_02/直置き"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  138.16,
+                                       "y":  -10.66,
+                                       "z":  -247.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it00_00_000@138.2,-10.7,-247.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  178.78,
+                                       "y":  -12.45,
+                                       "z":  -256.22
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it00_00_000@178.8,-12.5,-256.2",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  133.87,
+                                       "y":  -6.84,
+                                       "z":  -258.7
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it50_00_014@133.9,-6.8,-258.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "it10_10_006",
+                      "item_id":  "it10_10_006",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  174.34,
+                                       "y":  -17.23,
+                                       "z":  -250.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it10_10_006@174.3,-17.2,-250.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  146.94,
+                                       "y":  -18.27,
+                                       "z":  -245.04
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it40_01_000@146.9,-18.3,-245.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_03",
+                      "position":  {
+                                       "x":  172.09,
+                                       "y":  -17.23,
+                                       "z":  -243.38
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03/it99_50_008@172.1,-17.2,-243.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_03"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04",
+                      "position":  {
+                                       "x":  123.6,
+                                       "y":  -2.44,
+                                       "z":  -335.77
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/it50_00_002@123.6,-2.4,-335.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04/Spawner",
+                      "position":  {
+                                       "x":  132.92,
+                                       "y":  -3.15,
+                                       "z":  -315.77
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner/it00_00_000@132.9,-3.2,-315.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04/Spawner",
+                      "position":  {
+                                       "x":  88.5,
+                                       "y":  2.55,
+                                       "z":  -316.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner/it20_00_000@88.5,2.6,-316.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04/Spawner",
+                      "position":  {
+                                       "x":  133.6,
+                                       "y":  -3.1,
+                                       "z":  -321.55
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner/it40_05_000@133.6,-3.1,-321.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04/Spawner",
+                      "position":  {
+                                       "x":  121.4,
+                                       "y":  -3.1,
+                                       "z":  -320.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner/it40_01_000@121.4,-3.1,-321.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_04/Spawner",
+                      "position":  {
+                                       "x":  97.61,
+                                       "y":  -3.24,
+                                       "z":  -324.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner/it99_50_008@97.6,-3.2,-324.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_04/Spawner"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05",
+                      "position":  {
+                                       "x":  86.96,
+                                       "y":  -3.24,
+                                       "z":  -269.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/it00_00_000@87.0,-3.2,-269.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05",
+                      "position":  {
+                                       "x":  109.69,
+                                       "y":  9.18,
+                                       "z":  -270.9
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/it40_05_000@109.7,9.2,-270.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05",
+                      "position":  {
+                                       "x":  101.53,
+                                       "y":  2.17,
+                                       "z":  -269.97
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/it40_01_000@101.5,2.2,-270.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  79.24,
+                                       "y":  16.3,
+                                       "z":  -245.38
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_02_000@79.2,16.3,-245.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  89.45,
+                                       "y":  -2.46,
+                                       "z":  -267.97
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_03_000@89.5,-2.5,-268.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  90.06,
+                                       "y":  -2.46,
+                                       "z":  -267.82
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_03_000@90.1,-2.5,-267.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  109.01,
+                                       "y":  12.81,
+                                       "z":  -260.83
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it00_01_000@109.0,12.8,-260.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  90.3,
+                                       "y":  -2.46,
+                                       "z":  -267.98
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_05_000@90.3,-2.5,-268.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  91.95,
+                                       "y":  15.45,
+                                       "z":  -254.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_05_000@92.0,15.5,-254.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  113.3,
+                                       "y":  8.25,
+                                       "z":  -281.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_05_000@113.3,8.3,-281.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  89.74,
+                                       "y":  -2.47,
+                                       "z":  -267.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_01_000@89.7,-2.5,-268.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  91.92,
+                                       "y":  16.29,
+                                       "z":  -251.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it40_01_000@91.9,16.3,-251.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Stacked Hand Grenade",
+                      "item_id":  "it20_00_004",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  101.78,
+                                       "y":  2.33,
+                                       "z":  -270.26
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it20_00_004@101.8,2.3,-270.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_05/Spawner",
+                      "position":  {
+                                       "x":  78.5,
+                                       "y":  15.25,
+                                       "z":  -266.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner/it99_50_008@78.5,15.3,-266.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_05/Spawner"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06",
+                      "position":  {
+                                       "x":  54.02,
+                                       "y":  6.98,
+                                       "z":  -182.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/it00_00_000@54.0,7.0,-182.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06",
+                      "position":  {
+                                       "x":  59.11,
+                                       "y":  11.02,
+                                       "z":  -181.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/it50_00_014@59.1,11.0,-181.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06",
+                      "position":  {
+                                       "x":  61.58,
+                                       "y":  7.09,
+                                       "z":  -208.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/it40_00_000@61.6,7.1,-209.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06",
+                      "position":  {
+                                       "x":  55.34,
+                                       "y":  6.32,
+                                       "z":  -208.19
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/it50_00_002@55.3,6.3,-208.2",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06/Spawner",
+                      "position":  {
+                                       "x":  -4.9,
+                                       "y":  30.38,
+                                       "z":  -251.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner/it20_00_000@-4.9,30.4,-251.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06/Spawner",
+                      "position":  {
+                                       "x":  36.64,
+                                       "y":  8.82,
+                                       "z":  -239.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner/it20_00_000@36.6,8.8,-239.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06/Spawner",
+                      "position":  {
+                                       "x":  -1.76,
+                                       "y":  24.42,
+                                       "z":  -237.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner/it40_00_000@-1.8,24.4,-237.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_06/Spawner",
+                      "position":  {
+                                       "x":  36.64,
+                                       "y":  8.82,
+                                       "z":  -239.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner/it40_03_000@36.6,8.8,-239.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_06/Spawner"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -40.17,
+                                       "y":  31.32,
+                                       "z":  -278.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it40_02_000@-40.2,31.3,-278.2",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -80.03,
+                                       "y":  37.54,
+                                       "z":  -255
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it00_00_000@-80.0,37.5,-255.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -39.89,
+                                       "y":  31.36,
+                                       "z":  -278.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it20_00_000@-39.9,31.4,-278.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -39.52,
+                                       "y":  31.32,
+                                       "z":  -278.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it40_03_000@-39.5,31.3,-278.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -80.83,
+                                       "y":  39.05,
+                                       "z":  -254.89
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it40_05_000@-80.8,39.1,-254.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07",
+                      "position":  {
+                                       "x":  -31.2,
+                                       "y":  26.71,
+                                       "z":  -267.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/it99_50_008@-31.2,26.7,-267.2",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -47.98,
+                                       "y":  25.94,
+                                       "z":  -237.36
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it00_00_000@-48.0,25.9,-237.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -42.34,
+                                       "y":  26.78,
+                                       "z":  -267.04
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it00_00_000@-42.3,26.8,-267.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -45.17,
+                                       "y":  26.93,
+                                       "z":  -249.49
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it50_00_014@-45.2,26.9,-249.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -30.22,
+                                       "y":  26.62,
+                                       "z":  -267.13
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it20_00_000_01@-30.2,26.6,-267.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -30.12,
+                                       "y":  26.59,
+                                       "z":  -267.11
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it20_00_000@-30.1,26.6,-267.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -45.67,
+                                       "y":  30.3,
+                                       "z":  -250.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it00_01_000@-45.7,30.3,-250.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/SubFolder",
+                      "position":  {
+                                       "x":  -45.49,
+                                       "y":  30.27,
+                                       "z":  -249.61
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder/it99_50_008@-45.5,30.3,-249.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/SubFolder"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_07/屋上",
+                      "position":  {
+                                       "x":  -49.47,
+                                       "y":  30.43,
+                                       "z":  -231.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/屋上/it40_01_000@-49.5,30.4,-231.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_07/屋上"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  140.04,
+                                       "y":  -2.72,
+                                       "z":  -267.04
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_02_000@140.0,-2.7,-267.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  94.89,
+                                       "y":  -3.38,
+                                       "z":  -320.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_00_000@94.9,-3.4,-320.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  98.4,
+                                       "y":  -3.14,
+                                       "z":  -286.56
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_00_000@98.4,-3.1,-286.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  159.14,
+                                       "y":  -3.2,
+                                       "z":  -289.38
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_00_000@159.1,-3.2,-289.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  74.67,
+                                       "y":  -2.74,
+                                       "z":  -295.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it50_00_014@74.7,-2.7,-295.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  201.75,
+                                       "y":  -8.94,
+                                       "z":  -293.68
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it50_00_014@201.8,-8.9,-293.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  127.56,
+                                       "y":  -2.39,
+                                       "z":  -297.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it20_00_000@127.6,-2.4,-297.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  137.62,
+                                       "y":  -3.03,
+                                       "z":  -320.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it20_00_000@137.6,-3.0,-320.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  19.04,
+                                       "y":  -2.48,
+                                       "z":  -308.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_00_000@19.0,-2.5,-308.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  205.77,
+                                       "y":  -9.38,
+                                       "z":  -303.45
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_00_000@205.8,-9.4,-303.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Marksman 1A",
+                      "item_id":  "it10_05_001",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  175.86,
+                                       "y":  -3.72,
+                                       "z":  -299.32
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it10_05_001@175.9,-3.7,-299.3",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  85.29,
+                                       "y":  -2.25,
+                                       "z":  -288.73
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_01_000@85.3,-2.3,-288.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  136.65,
+                                       "y":  -3.05,
+                                       "z":  -320.75
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_01_000@136.7,-3.1,-320.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Mixed Herb (G+G)",
+                      "item_id":  "it00_00_100",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  61.98,
+                                       "y":  1.52,
+                                       "z":  -320.84
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it00_00_100@62.0,1.5,-320.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  3,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  -25.39,
+                                       "y":  -2.99,
+                                       "z":  -297.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_05_000@-25.4,-3.0,-297.2",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  62.22,
+                                       "y":  1.51,
+                                       "z":  -320.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_05_000@62.2,1.5,-320.8",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  176.03,
+                                       "y":  -3.69,
+                                       "z":  -299.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_05_000_01@176.0,-3.7,-299.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  54.25,
+                                       "y":  -2.83,
+                                       "z":  -325.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it50_00_002@54.3,-2.8,-325.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  62.84,
+                                       "y":  1.51,
+                                       "z":  -320.73
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it50_00_002@62.8,1.5,-320.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  62.56,
+                                       "y":  1.5,
+                                       "z":  -320.88
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_01_000@62.6,1.5,-320.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  139.77,
+                                       "y":  -2.75,
+                                       "z":  -266.9
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it40_01_000@139.8,-2.8,-266.9",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Stacked Hand Grenade",
+                      "item_id":  "it20_00_004",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  140.56,
+                                       "y":  -2.71,
+                                       "z":  -267.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it20_00_004@140.6,-2.7,-267.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  45.02,
+                                       "y":  -10.73,
+                                       "z":  -303.6
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it99_50_008@45.0,-10.7,-303.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08",
+                      "position":  {
+                                       "x":  140.36,
+                                       "y":  -2.74,
+                                       "z":  -267.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/it99_50_008@140.4,-2.7,-267.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/LMD",
+                      "position":  {
+                                       "x":  29.73,
+                                       "y":  -3.24,
+                                       "z":  -281.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/LMD/it70_05_000@29.7,-3.2,-281.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/LMD"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/LMD",
+                      "position":  {
+                                       "x":  84.03,
+                                       "y":  -3.07,
+                                       "z":  -289.99
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/LMD/it70_05_000@84.0,-3.1,-290.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/LMD"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  79.24,
+                                       "y":  -3.2,
+                                       "z":  -278.6
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it40_02_000@79.2,-3.2,-278.6",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  58.56,
+                                       "y":  -5.25,
+                                       "z":  -285.02
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it20_00_000@58.6,-5.3,-285.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  -3.43,
+                                       "y":  -3.45,
+                                       "z":  -306.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it40_00_000@-3.4,-3.5,-306.0",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  90.5,
+                                       "y":  -3.25,
+                                       "z":  -314.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it40_05_000@90.5,-3.3,-314.4",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Stacked Hand Grenade",
+                      "item_id":  "it20_00_004",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  55.89,
+                                       "y":  -3.25,
+                                       "z":  -324.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it20_00_004@55.9,-3.3,-324.5",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  63.37,
+                                       "y":  10.15,
+                                       "z":  -207.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it99_50_008@63.4,10.2,-207.7",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス",
+                      "position":  {
+                                       "x":  99.12,
+                                       "y":  -3.24,
+                                       "z":  -275.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス/it99_50_008@99.1,-3.2,-275.1",
+                      "dossier":  "MainGame/Chap4_20/Chap4_20_Item/Chap4_20_Item_08/落とせる備品ボックス"
+                  }
+              ]
+}

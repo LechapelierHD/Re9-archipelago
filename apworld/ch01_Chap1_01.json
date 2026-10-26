@@ -1,0 +1,127 @@
+{
+    "numero":  1,
+    "chapitre":  "Chap1_01",
+    "nombre":  8,
+    "items":  [
+                  {
+                      "nom":  "Old Key",
+                      "item_id":  "it60_00_089",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Gimmick/st10_005_Gimmick",
+                      "position":  {
+                                       "x":  -71.31,
+                                       "y":  2.61,
+                                       "z":  81.71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Gimmick/st10_005_Gimmick/it60_00_089@-71.3,2.6,81.7",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Gimmick/st10_005_Gimmick"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -54.09,
+                                       "y":  1.54,
+                                       "z":  93.3
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@-54.1,1.5,93.3",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  57.38,
+                                       "y":  0.24,
+                                       "z":  11.5
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@57.4,0.2,11.5",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "Emergency Exit Key",
+                      "item_id":  "it60_00_080",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -58.38,
+                                       "y":  1.01,
+                                       "z":  94.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it60_00_080@-58.4,1.0,94.1",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -57.3,
+                                       "y":  6.71,
+                                       "z":  95.57
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it00_00_000@-57.3,6.7,95.6",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "Photo of Grace",
+                      "item_id":  "it60_00_083",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -71.31,
+                                       "y":  2.61,
+                                       "z":  81.71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it60_00_083@-71.3,2.6,81.7",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "The Wrenwood Hotel Floor Plan",
+                      "item_id":  "it99_00_004",
+                      "categorie":  "Map",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -53.11,
+                                       "y":  2.53,
+                                       "z":  85.6
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_00_004@-53.1,2.5,85.6",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  },
+                  {
+                      "nom":  "Wire Cutters",
+                      "item_id":  "it60_00_076",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "AbandonedHotel_Item",
+                      "position":  {
+                                       "x":  -56.37,
+                                       "y":  7.73,
+                                       "z":  94.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_01/AbandonedHotel_Item/it60_00_076@-56.4,7.7,94.1",
+                      "dossier":  "MainGame/Chap1_01/AbandonedHotel_Item"
+                  }
+              ]
+}

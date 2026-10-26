@@ -1,0 +1,113 @@
+<UserControl x:Class="RE9.AP.Launcher.Views.SetupView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <StackPanel>
+    <TextBlock Style="{StaticResource PageTitleStyle}" Text="État de la configuration" />
+    <TextBlock Style="{StaticResource BodyTextStyle}" Text="Tout ce dont RE Requiem a besoin pour jouer en Archipelago. Le lanceur ne modifie pas les fichiers .pak du jeu : il ajoute REFramework et les scripts du client." />
+
+    <Border Style="{StaticResource SectionRuleStyle}">
+      <TextBlock Style="{StaticResource SectionHeaderStyle}" Text="RESIDENT EVIL REQUIEM" />
+    </Border>
+    <TextBlock Style="{StaticResource FieldLabelStyle}" Margin="0,0,0,6" Text="Dossier du jeu" />
+    <Grid Margin="0,0,0,14">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="Auto" />
+      </Grid.ColumnDefinitions>
+      <TextBox x:Name="GamePathBox" Padding="6,5" TextChanged="GamePathBox_TextChanged" />
+      <Button Grid.Column="1" Margin="10,0,0,0" Padding="12,5" Content="Détecter (Steam)" Click="Detect_Click" />
+      <Button Grid.Column="2" Margin="10,0,0,0" Padding="12,5" Content="Parcourir..." Click="Browse_Click" />
+    </Grid>
+
+    <Border Style="{StaticResource CardStyle}">
+      <StackPanel x:Name="Rows">
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="GameIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Jeu" />
+            <TextBlock x:Name="GameText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <Button Grid.Column="2" Padding="12,5" Content="Ouvrir le dossier" Click="OpenGame_Click" />
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="RefIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="REFramework" />
+            <TextBlock x:Name="RefText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <Button x:Name="RefButton" Grid.Column="2" Padding="12,5" Content="Installer REFramework" Click="InstallRef_Click" />
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="ClientIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Client Archipelago RE Requiem" />
+            <TextBlock x:Name="ClientText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <StackPanel Grid.Column="2" Orientation="Horizontal">
+            <Button x:Name="ClientButton" Padding="12,5" Content="Installer" Click="InstallClient_Click" />
+            <Button x:Name="RemoveButton" Margin="8,0,0,0" Padding="12,5" Content="Retirer" Click="RemoveClient_Click" />
+          </StackPanel>
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="SkipIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Saut de chapitre (optionnel)" />
+            <TextBlock x:Name="SkipText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <StackPanel Grid.Column="2" Orientation="Horizontal">
+            <Button x:Name="SkipButton" Padding="12,5" Content="Installer" Click="InstallSkip_Click" />
+            <Button x:Name="SkipRemoveButton" Margin="8,0,0,0" Padding="12,5" Content="Retirer" Click="RemoveSkip_Click" />
+          </StackPanel>
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="ConnIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Connexion enregistrée" />
+            <TextBlock x:Name="ConnText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <Button Grid.Column="2" Padding="12,5" Content="Ouvrir les données" Click="OpenData_Click" />
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}" Margin="0">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="LegacyIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Anciens scripts (RE9-AP-Client)" />
+            <TextBlock x:Name="LegacyText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+        </Grid>
+      </StackPanel>
+    </Border>
+    <CheckBox x:Name="LegacyCheck" Margin="0,2,0,0" Content="Désactiver les anciens scripts AP__client.lua et pickup.lua à l'installation (sinon les objets seraient bloqués et injectés en double)" Checked="LegacyCheck_Changed" Unchecked="LegacyCheck_Changed" />
+
+    <Border Style="{StaticResource SectionRuleStyle}">
+      <TextBlock Style="{StaticResource SectionHeaderStyle}" Text="ARCHIPELAGO (HÔTE SEULEMENT)" />
+    </Border>
+    <Border Style="{StaticResource CardStyle}">
+      <StackPanel>
+        <Grid Style="{StaticResource StatusRowStyle}">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="ApIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="Archipelago" />
+            <TextBlock x:Name="ApText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+        </Grid>
+        <Grid Style="{StaticResource StatusRowStyle}" Margin="0">
+          <Grid.ColumnDefinitions><ColumnDefinition Width="30" /><ColumnDefinition Width="*" /><ColumnDefinition Width="Auto" /></Grid.ColumnDefinitions>
+          <TextBlock x:Name="WorldIcon" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" VerticalAlignment="Center" />
+          <StackPanel Grid.Column="1">
+            <TextBlock FontWeight="SemiBold" Text="apworld RE Requiem" />
+            <TextBlock x:Name="WorldText" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          </StackPanel>
+          <Button x:Name="WorldButton" Grid.Column="2" Padding="12,5" Content="Installer" Click="InstallWorld_Click" />
+        </Grid>
+      </StackPanel>
+    </Border>
+  </StackPanel>
+</UserControl>

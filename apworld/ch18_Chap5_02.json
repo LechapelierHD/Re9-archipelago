@@ -1,0 +1,1072 @@
+{
+    "numero":  18,
+    "chapitre":  "Chap5_02",
+    "nombre":  71,
+    "items":  [
+                  {
+                      "nom":  "Magnetic Key",
+                      "item_id":  "it60_00_112",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_023_Gimmick_Unique",
+                      "position":  {
+                                       "x":  49.8,
+                                       "y":  19.45,
+                                       "z":  -43.89
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_023_Gimmick_Unique/it60_00_112@49.8,19.5,-43.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_023_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Override Key (Dump Control Room)",
+                      "item_id":  "it60_00_113",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_029_Gimmick_Unique",
+                      "position":  {
+                                       "x":  101.1,
+                                       "y":  27.39,
+                                       "z":  -81.8
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_029_Gimmick_Unique/it60_00_113@101.1,27.4,-81.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_029_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Animus Orb",
+                      "item_id":  "it60_00_105",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_030_Gimmick_Unique/KeyItem_Box",
+                      "position":  {
+                                       "x":  70.75,
+                                       "y":  27.63,
+                                       "z":  -90.8
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_030_Gimmick_Unique/KeyItem_Box/it60_00_105@70.8,27.6,-90.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_030_Gimmick_Unique/KeyItem_Box"
+                  },
+                  {
+                      "nom":  "Noblesse Orb",
+                      "item_id":  "it60_00_107",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_034_Gimmick_Unique/KeyItem_Box",
+                      "position":  {
+                                       "x":  0.9,
+                                       "y":  26.1,
+                                       "z":  -93.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_034_Gimmick_Unique/KeyItem_Box/it60_00_107@0.9,26.1,-93.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_034_Gimmick_Unique/KeyItem_Box"
+                  },
+                  {
+                      "nom":  "Override Key (Bioweapon Repository 11)",
+                      "item_id":  "it60_00_114",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_040_Gimmick_Unique/Door",
+                      "position":  {
+                                       "x":  -26.62,
+                                       "y":  17.21,
+                                       "z":  -47.2
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_040_Gimmick_Unique/Door/it60_00_114@-26.6,17.2,-47.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Gimmick/Chap5_02_Gimmick_Unique/st50_040_Gimmick_Unique/Door"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -34.42,
+                                       "y":  16.46,
+                                       "z":  -45.62
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it40_02_000@-34.4,16.5,-45.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  38.38,
+                                       "y":  14.8,
+                                       "z":  -18.87
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it40_02_000@38.4,14.8,-18.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -49.09,
+                                       "y":  8.17,
+                                       "z":  -33.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it00_00_000@-49.1,8.2,-33.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -33.07,
+                                       "y":  9.15,
+                                       "z":  -44.13
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it00_00_000@-33.1,9.2,-44.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -62.68,
+                                       "y":  8.2,
+                                       "z":  -49.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it50_00_014@-62.7,8.2,-49.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -29.16,
+                                       "y":  16.2,
+                                       "z":  -50.72
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it20_00_000@-29.2,16.2,-50.7",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Hand Grenade",
+                      "item_id":  "it20_00_000",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  14.43,
+                                       "y":  14.85,
+                                       "z":  -47.23
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it20_00_000@14.4,14.9,-47.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "it10_10_011",
+                      "item_id":  "it10_10_011",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -21.47,
+                                       "y":  15.53,
+                                       "z":  -44.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it10_10_011@-21.5,15.5,-44.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "it10_10_011",
+                      "item_id":  "it10_10_011",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -14.28,
+                                       "y":  15.54,
+                                       "z":  -47.11
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it10_10_011_01@-14.3,15.5,-47.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -30.03,
+                                       "y":  16.2,
+                                       "z":  -50.75
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it00_01_000@-30.0,16.2,-50.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  12.13,
+                                       "y":  14.82,
+                                       "z":  -61.58
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it00_01_000@12.1,14.8,-61.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  31.55,
+                                       "y":  14.2,
+                                       "z":  -15.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it50_00_002@31.6,14.2,-15.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01",
+                      "position":  {
+                                       "x":  -17.52,
+                                       "y":  16.7,
+                                       "z":  -48.23
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/it99_50_008@-17.5,16.7,-48.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -19.85,
+                                       "y":  15.5,
+                                       "z":  -41
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_03_000@-19.9,15.5,-41.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -12.5,
+                                       "y":  15.5,
+                                       "z":  -39.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_03_000@-12.5,15.5,-39.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -12.55,
+                                       "y":  15.5,
+                                       "z":  -43.55
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it00_01_000@-12.6,15.5,-43.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -22.75,
+                                       "y":  15.5,
+                                       "z":  -45.45
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_05_000@-22.8,15.5,-45.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -17.5,
+                                       "y":  15.56,
+                                       "z":  -43.5
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_05_000@-17.5,15.6,-43.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -22.8,
+                                       "y":  15.57,
+                                       "z":  -49.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_01_000@-22.8,15.6,-49.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_01/ラストの敵",
+                      "position":  {
+                                       "x":  -10.75,
+                                       "y":  15.5,
+                                       "z":  -40.97
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵/it40_01_000@-10.8,15.5,-41.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_01/ラストの敵"
+                  },
+                  {
+                      "nom":  "Blood Collector",
+                      "item_id":  "it99_06_000",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  46.1,
+                                       "y":  25.9,
+                                       "z":  -55.44
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_06_000@46.1,25.9,-55.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Bottle of Acid",
+                      "item_id":  "it20_00_005",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  14.49,
+                                       "y":  26.16,
+                                       "z":  -85.29
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_005@14.5,26.2,-85.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Bottle of Acid",
+                      "item_id":  "it20_00_005",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  34.77,
+                                       "y":  25.94,
+                                       "z":  -51.12
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_005@34.8,25.9,-51.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Bottle of Acid",
+                      "item_id":  "it20_00_005",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  94.04,
+                                       "y":  27.46,
+                                       "z":  -80.13
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_005@94.0,27.5,-80.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Bottle of Acid",
+                      "item_id":  "it20_00_005",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  96.29,
+                                       "y":  27.46,
+                                       "z":  -81.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_005@96.3,27.5,-81.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  0.91,
+                                       "y":  27.38,
+                                       "z":  -87.75
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@0.9,27.4,-87.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  10.61,
+                                       "y":  22.46,
+                                       "z":  -67.36
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@10.6,22.5,-67.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  16.88,
+                                       "y":  25,
+                                       "z":  -82.32
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003@16.9,25.0,-82.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  34.63,
+                                       "y":  25.94,
+                                       "z":  -51.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003@34.6,25.9,-51.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  36.29,
+                                       "y":  25.85,
+                                       "z":  -55.44
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@36.3,25.9,-55.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  82.27,
+                                       "y":  27.3,
+                                       "z":  -64.26
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@82.3,27.3,-64.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  84.61,
+                                       "y":  27.4,
+                                       "z":  -55.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@84.6,27.4,-55.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  87.7,
+                                       "y":  27.4,
+                                       "z":  -76.45
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_003_01@87.7,27.4,-76.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  16.95,
+                                       "y":  22.16,
+                                       "z":  -53.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it00_00_000@17.0,22.2,-53.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  86.76,
+                                       "y":  27.33,
+                                       "z":  -71.14
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it00_00_000@86.8,27.3,-71.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  8,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  4.41,
+                                       "y":  22.87,
+                                       "z":  -66.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it40_00_000@4.4,22.9,-66.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  4.61,
+                                       "y":  25,
+                                       "z":  -73.22
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it40_00_000@4.6,25.0,-73.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  89.07,
+                                       "y":  27.47,
+                                       "z":  -76.57
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it40_00_000@89.1,27.5,-76.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  8,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  96.44,
+                                       "y":  27.47,
+                                       "z":  -77.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it40_00_000@96.4,27.5,-77.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Hip Pouch",
+                      "item_id":  "it99_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  11.57,
+                                       "y":  22.41,
+                                       "z":  -67.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_01_000@11.6,22.4,-67.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  40,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  8.95,
+                                       "y":  22.49,
+                                       "z":  -71.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it70_01_000_01@9.0,22.5,-71.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  40,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  12.65,
+                                       "y":  25,
+                                       "z":  -93.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it70_01_000_01@12.7,25.0,-93.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  20,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  93.76,
+                                       "y":  26.5,
+                                       "z":  -83.67
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it70_01_000_01@93.8,26.5,-83.7",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  9.4,
+                                       "y":  25.75,
+                                       "z":  -92.18
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_50_003@9.4,25.8,-92.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  46.05,
+                                       "y":  25.9,
+                                       "z":  -55.15
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_50_003@46.1,25.9,-55.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  1.2,
+                                       "y":  22.47,
+                                       "z":  -72.44
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_012@1.2,22.5,-72.4",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  46.72,
+                                       "y":  25.52,
+                                       "z":  -61.84
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_012@46.7,25.5,-61.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  65.75,
+                                       "y":  27.38,
+                                       "z":  -90.55
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_012@65.8,27.4,-90.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  101.07,
+                                       "y":  27.35,
+                                       "z":  -80.51
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_012@101.1,27.4,-80.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  7.82,
+                                       "y":  22.51,
+                                       "z":  -71.91
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it10_20_003@7.8,22.5,-71.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  80.06,
+                                       "y":  27.33,
+                                       "z":  -76.22
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it10_20_003@80.1,27.3,-76.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  6.36,
+                                       "y":  25.75,
+                                       "z":  -95.28
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it00_01_000_02@6.4,25.8,-95.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  34.82,
+                                       "y":  25.94,
+                                       "z":  -51.23
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it00_01_000@34.8,25.9,-51.2",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  88.86,
+                                       "y":  27.46,
+                                       "z":  -76.56
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it00_01_000@88.9,27.5,-76.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Molotov Cocktail",
+                      "item_id":  "it20_00_002",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  77.1,
+                                       "y":  27.26,
+                                       "z":  -84.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_002@77.1,27.3,-84.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Molotov Cocktail",
+                      "item_id":  "it20_00_002",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  89.03,
+                                       "y":  27.45,
+                                       "z":  -76.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it20_00_002@89.0,27.5,-76.5",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  1.54,
+                                       "y":  25,
+                                       "z":  -61.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_002@1.5,25.0,-61.8",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  2.05,
+                                       "y":  22.41,
+                                       "z":  -72.3
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_002@2.1,22.4,-72.3",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  4.25,
+                                       "y":  22.41,
+                                       "z":  -80.98
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_002@4.3,22.4,-81.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  15.79,
+                                       "y":  22.87,
+                                       "z":  -72.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it50_00_002@15.8,22.9,-72.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  12.66,
+                                       "y":  22.48,
+                                       "z":  -81.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_06_004@12.7,22.5,-81.1",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02",
+                      "position":  {
+                                       "x":  65.78,
+                                       "y":  27.25,
+                                       "z":  -87.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/it99_06_004@65.8,27.3,-87.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02"
+                  },
+                  {
+                      "nom":  "it60_99_006",
+                      "item_id":  "it60_99_006",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02/キーアイテム",
+                      "position":  {
+                                       "x":  97.86,
+                                       "y":  27.4,
+                                       "z":  -82.94
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム/it60_99_006@97.9,27.4,-82.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム"
+                  },
+                  {
+                      "nom":  "it60_99_007",
+                      "item_id":  "it60_99_007",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02/キーアイテム",
+                      "position":  {
+                                       "x":  49.77,
+                                       "y":  19.37,
+                                       "z":  -43.86
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム/it60_99_007@49.8,19.4,-43.9",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム"
+                  },
+                  {
+                      "nom":  "it60_99_008",
+                      "item_id":  "it60_99_008",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02/キーアイテム",
+                      "position":  {
+                                       "x":  70.93,
+                                       "y":  27.37,
+                                       "z":  -94.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム/it60_99_008@70.9,27.4,-94.6",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム"
+                  },
+                  {
+                      "nom":  "it60_99_009",
+                      "item_id":  "it60_99_009",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_02_Item/Item_02/キーアイテム",
+                      "position":  {
+                                       "x":  0.78,
+                                       "y":  25.87,
+                                       "z":  -94.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム/it60_99_009@0.8,25.9,-95.0",
+                      "dossier":  "MainGame/Chap5_02/Chap5_02_Item/Item_02/キーアイテム"
+                  }
+              ]
+}

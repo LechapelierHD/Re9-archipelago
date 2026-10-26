@@ -1,0 +1,142 @@
+{
+    "numero":  11,
+    "chapitre":  "Chap3_05",
+    "nombre":  9,
+    "items":  [
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  150.58,
+                                       "y":  -10.69,
+                                       "z":  -25.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it40_02_000@150.6,-10.7,-25.8",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  166.48,
+                                       "y":  -11.4,
+                                       "z":  -20.92
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it40_02_000@166.5,-11.4,-20.9",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  5,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  187.4,
+                                       "y":  -5.2,
+                                       "z":  -14.62
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it40_02_000@187.4,-5.2,-14.6",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Crank Lever",
+                      "item_id":  "it60_00_111",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  140.32,
+                                       "y":  -10.85,
+                                       "z":  -28.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it60_00_111_01@140.3,-10.9,-28.4",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  188.68,
+                                       "y":  -5.2,
+                                       "z":  -14.37
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it99_50_003@188.7,-5.2,-14.4",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  170.53,
+                                       "y":  -11.14,
+                                       "z":  -26.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it00_01_000@170.5,-11.1,-26.6",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  188.4,
+                                       "y":  -5.19,
+                                       "z":  -14.36
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it00_01_000@188.4,-5.2,-14.4",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Molotov Cocktail",
+                      "item_id":  "it20_00_002",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  175.42,
+                                       "y":  -11.17,
+                                       "z":  -28.43
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it20_00_002@175.4,-11.2,-28.4",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap3_05_Item",
+                      "position":  {
+                                       "x":  188.58,
+                                       "y":  -5.31,
+                                       "z":  -6.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_05/Chap3_05_Item/it99_06_004@188.6,-5.3,-6.3",
+                      "dossier":  "MainGame/Chap3_05/Chap3_05_Item"
+                  }
+              ]
+}

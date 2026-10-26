@@ -1,0 +1,112 @@
+{
+    "numero":  4,
+    "chapitre":  "Chap3_10",
+    "nombre":  7,
+    "items":  [
+                  {
+                      "nom":  "Fuse",
+                      "item_id":  "it60_00_040",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_001_Gimmick_Common",
+                      "position":  {
+                                       "x":  12.15,
+                                       "y":  8.61,
+                                       "z":  38.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_001_Gimmick_Common/it60_00_040@12.2,8.6,38.5",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_001_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Moon Quartz",
+                      "item_id":  "it60_00_049",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_049@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Star Quartz",
+                      "item_id":  "it60_00_050",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_050@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Sun Quartz",
+                      "item_id":  "it60_00_048",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_048@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Gimmick/Chap3_10_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Item",
+                      "position":  {
+                                       "x":  51.98,
+                                       "y":  3.22,
+                                       "z":  71.86
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Item/it40_00_000@52.0,3.2,71.9",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Item"
+                  },
+                  {
+                      "nom":  "Mixed Herb (G+G)",
+                      "item_id":  "it00_00_100",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Item",
+                      "position":  {
+                                       "x":  31.82,
+                                       "y":  3.99,
+                                       "z":  67.24
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Item/it00_00_100@31.8,4.0,67.2",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Item"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap3_10_Item",
+                      "position":  {
+                                       "x":  7.85,
+                                       "y":  2.3,
+                                       "z":  49.15
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_10/Chap3_10_Item/it99_50_008@7.9,2.3,49.2",
+                      "dossier":  "MainGame/Chap3_10/Chap3_10_Item"
+                  }
+              ]
+}

@@ -1,0 +1,16 @@
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+_publish/
+.vs/
+__pycache__/
+*.pyc
+*.pdb
+*.user
+*.exe
+launcher/update_token.txt
+client/launcher/update_token.txt
+client/launcher/Chapter Skip natives MCS/
+client/launcher/assets/natives/
+client/launcher/assets/reframework/
+.env

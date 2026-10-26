@@ -1,0 +1,3857 @@
+{
+    "game":  "Resident Evil Requiem",
+    "location_by_key":  {
+                            "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@-54.1,1.5,93.3":  7091000,
+                            "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@57.4,0.2,11.5":  7091001,
+                            "ctx::19c86058-0000-0000-ffff-ffff00009a00":  7091002,
+                            "fp::MainGame/Chap1_01/AbandonedHotel_Item/it00_00_000":  7091003,
+                            "ctx::19c86058-0000-0000-ffff-ffff00009e00":  7091004,
+                            "ctx::19c86058-0000-0000-ffff-ffff00001c00":  7091005,
+                            "ctx::19c86058-0000-0000-ffff-ffff00009c00":  7091006,
+                            "ctx::19c86058-0000-0000-ffff-ffff00000800":  7091007,
+                            "ctx::19c86058-0000-0000-ffff-ffff00008f00":  7091008,
+                            "ctx::19288148-0000-0000-0700-000002008e00":  7091009,
+                            "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_02":  7091010,
+                            "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_01":  7091011,
+                            "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008":  7091012,
+                            "ctx::0000000b-0000-0000-7e5a-9b2000000030":  7091013,
+                            "ctx::19288148-0000-0000-0700-000004009d00":  7091014,
+                            "ctx::19288148-0000-0000-0700-000004002300":  7091015,
+                            "ctx::19c86058-0000-0000-ffff-ffff00005000":  7091016,
+                            "ctx::19c86058-0000-0000-ffff-ffff0000da00":  7091017,
+                            "ctx::19288148-0000-0000-0700-00000400b800":  7091018,
+                            "fp::MainGame/Chap3_01/Chap3_01_Item/CLASSIC_INSANITY_ONLY/it99_50_003":  7091019,
+                            "ctx::19c86058-0000-0000-ffff-ffff00003d00":  7091020,
+                            "ctx::19c86058-0000-0000-ffff-ffff0000c600":  7091021,
+                            "ctx::19c86058-0000-0000-ffff-ffff0000b000":  7091022,
+                            "ctx::19c86058-0000-0000-ffff-ffff00005a00@50.6,7.3,35.6":  7091023,
+                            "ctx::19c86058-0000-0000-ffff-ffff00005a00@51.3,9.8,33.6":  7091024,
+                            "ctx::19288148-0000-0000-0600-000002006300":  7091025,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_50_005":  7091026,
+                            "ctx::19288148-0000-0000-0600-000002001a00":  7091027,
+                            "ctx::19288148-0000-0000-0600-000002007500":  7091028,
+                            "ctx::19288148-0000-0000-0600-000002007f00":  7091029,
+                            "ctx::19288148-0000-0000-0600-00000200e900":  7091030,
+                            "ctx::00000006-0000-0000-7e5a-9b1000000060":  7091031,
+                            "ctx::19288148-0000-0000-0600-000002005800":  7091032,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005":  7091033,
+                            "ctx::19288148-0000-0000-0600-000002002e00":  7091034,
+                            "ctx::19288148-0000-0000-0600-000002004e00@-5.4,2.6,43.9":  7091035,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_01_000":  7091036,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_50_006":  7091037,
+                            "ctx::19288148-0000-0000-0600-00000200d500":  7091038,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it60_00_069":  7091039,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_07_001":  7091040,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it10_00_003_01":  7091041,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it99_50_003_01":  7091042,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it50_00_012":  7091043,
+                            "ca1d5a1d-e264-428a-b4a4-c270e2d4c0d7":  7091044,
+                            "f168f0c9-94f1-05e7-0ddd-906451c22f68":  7091045,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/クラフト系/it50_00_002_02":  7091046,
+                            "3ab53d4c-b9ac-07e2-0ab6-a41170a0df02":  7091047,
+                            "a4b3fe21-5a7b-45b0-a80e-f8a9b1e7a244":  7091048,
+                            "e807bd70-ccce-47f1-aa91-93cf47569333":  7091049,
+                            "2bf0130c-08c9-0a0f-301b-333a32e671a4":  7091050,
+                            "622f6cdb-4e5f-0ff3-1d29-f8951d1e93cd":  7091051,
+                            "d0472a71-9d2d-040f-0347-8f94f555d785":  7091052,
+                            "da107f78-0338-4eec-8d00-53d0f3fa0be2":  7091053,
+                            "0d0f8dfe-0e91-411e-891b-4f5571eb10bd":  7091054,
+                            "e555cc10-3149-42aa-994f-c3d4583eeaa0":  7091055,
+                            "dff72e04-ffba-4317-9374-c7b5758f79c6":  7091056,
+                            "1862b5f0-b719-4cdc-aa86-2f4b628483c8":  7091057,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it00_00_000_01":  7091058,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it40_00_000":  7091059,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it99_50_001":  7091060,
+                            "f816f4a0-dc95-4ac9-9be1-e352f0d19208":  7091061,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it60_00_120":  7091062,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it20_00_003":  7091063,
+                            "fcb39261-6247-07ca-2e8a-3fdeb1d26e96":  7091064,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it99_50_003":  7091065,
+                            "720581aa-0b3a-075a-21f0-4e6ccc37b537":  7091066,
+                            "7d808b19-93c6-0db0-26d5-26c9432764d3":  7091067,
+                            "c96153a7-3b1e-4f42-b7b1-a445fb5d4835":  7091068,
+                            "4f1db711-54d5-4fbe-8ae7-a445cf062a50":  7091069,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系/it00_00_000_01":  7091070,
+                            "ctx::19288148-0000-0000-0600-000002000600":  7091071,
+                            "09d7da94-f7ca-4350-97c2-03494029dfdc":  7091072,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_018":  7091073,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it40_00_000":  7091074,
+                            "ctx::19288148-0000-0000-0600-00000000ee00":  7091075,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002_02":  7091076,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002":  7091077,
+                            "ctx::19288148-0000-0000-0600-00000000e200":  7091078,
+                            "ctx::19288148-0000-0000-0600-00000200b600":  7091079,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it99_06_004":  7091080,
+                            "ctx::19288148-0000-0000-0600-00000200ae00":  7091081,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it60_00_065":  7091082,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_018":  7091083,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CASUAL_MODERN_ONLY/it00_00_000_01":  7091084,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_50_003":  7091085,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012":  7091086,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_06_004":  7091087,
+                            "ctx::19288148-0000-0000-0800-00000200ef00":  7091088,
+                            "ctx::19288148-0000-0000-0800-000002007800":  7091089,
+                            "ctx::19288148-0000-0000-0800-00000000db00":  7091090,
+                            "ctx::19288148-0000-0000-0800-000002004800":  7091091,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000":  7091092,
+                            "ctx::19288148-0000-0000-0800-000002001700":  7091093,
+                            "86aba77b-7f32-4839-80f1-b00b5c460191":  7091094,
+                            "ccf57bdf-34ed-0817-0b51-23d971b355d6":  7091095,
+                            "2d043292-6252-0685-0597-5e4dc46441a0":  7091096,
+                            "f43bfcdd-4321-4860-ac30-462ec12708b4":  7091097,
+                            "5e21ba1c-eccd-40c8-99cf-4cbf15ced177":  7091098,
+                            "c1166cc3-8681-4b30-be3b-fb0d7aa4e66f":  7091099,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01":  7091100,
+                            "ctx::19288148-0000-0000-0600-000002003600@-14.7,8.1,25.5":  7091101,
+                            "ctx::19288148-0000-0000-0600-000002004800":  7091102,
+                            "ctx::19288148-0000-0000-0600-00000200e600":  7091103,
+                            "ctx::19288148-0000-0000-0600-000002003700":  7091104,
+                            "ctx::19288148-0000-0000-0600-000002008400":  7091105,
+                            "ctx::19288148-0000-0000-0600-000002004e00@-49.3,12.3,10.5":  7091106,
+                            "ctx::19288148-0000-0000-0600-000002005000":  7091107,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it40_00_000":  7091108,
+                            "ctx::19288148-0000-0000-0600-000002002600":  7091109,
+                            "ctx::19288148-0000-0000-0600-000002002c00":  7091110,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it10_20_003":  7091111,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_051":  7091112,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_053":  7091113,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it10_00_003":  7091114,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it99_06_000":  7091115,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_065":  7091116,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_064":  7091117,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_067":  7091118,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_063":  7091119,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_055":  7091120,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_073":  7091121,
+                            "01e530ab-9394-41db-958a-03bf5b161dac":  7091122,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_004":  7091123,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_047":  7091124,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/INSANITYONLY/it60_00_047":  7091125,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it10_00_001":  7091126,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_077":  7091127,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/INSANITYONLY/it60_00_077":  7091128,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_074":  7091129,
+                            "3cad65bc-3ea2-467f-9e0d-af716f7788db":  7091130,
+                            "3f15d974-8029-43c3-9a5b-f42de8effdc1":  7091130,
+                            "c94d0b2f-ee9a-481a-89ed-952dd29baa4b":  7091130,
+                            "1d04028e-627e-49ef-a76e-45b0fa91ba05":  7091131,
+                            "566b2bc9-9695-0957-0e47-b0f43a28c20d":  7091131,
+                            "f46e7505-137e-4553-8ce9-c2ce83357318":  7091131,
+                            "36eccb4f-d6bb-44f6-9c30-a92a80a66872":  7091132,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/it60_00_046":  7091133,
+                            "ctx::19288148-0000-0000-0600-000006004a00":  7091134,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_005":  7091135,
+                            "ctx::19288148-0000-0000-0600-00000600d500":  7091136,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it40_00_000":  7091137,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_01_000":  7091138,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_011":  7091139,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it10_20_007":  7091140,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_004":  7091141,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_002":  7091142,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_034_Gimmick_Common/it70_01_000":  7091143,
+                            "ctx::19288148-0000-0000-0800-00000200b600":  7091144,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_035_Gimmick_Common/it70_01_000":  7091145,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_044_Gimmick_Common/it70_01_000":  7091146,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_047_Gimmick_Common/it60_00_049":  7091147,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_057_Gimmick_Common/it70_01_000":  7091148,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_059_Gimmick_Common/it70_01_000":  7091149,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_062_Gimmick_Common/it70_01_000":  7091150,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_066_Gimmick_Common/it60_00_122":  7091151,
+                            "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_066_Gimmick_Common/it60_00_048":  7091152,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it60_00_075":  7091153,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it10_02_000":  7091154,
+                            "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it60_00_045":  7091155,
+                            "03950108-b3f2-4d0a-b4dd-22f8bc53e352":  7091156,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it30_00_702":  7091157,
+                            "ctx::19288148-0000-0000-0700-00000200ea00":  7091158,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_00_000":  7091159,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_03_000":  7091160,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it00_01_000":  7091161,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it00_00_100":  7091162,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_05_000":  7091163,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_01_000":  7091164,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it99_50_008":  7091165,
+                            "ca6ee631-1835-4e7f-9c89-a13cd066bde7":  7091166,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_50_003_01":  7091167,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012":  7091168,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_06_004":  7091169,
+                            "ctx::19288148-0000-0000-0600-000002007300":  7091170,
+                            "ctx::19288148-0000-0000-0600-000002000b00":  7091171,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系/it50_00_002_02":  7091172,
+                            "2afe11f8-46d4-065a-1cb6-afe7da213357":  7091173,
+                            "ctx::19288148-0000-0000-0600-000002003600@-21.3,3.6,14.6":  7091174,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it20_00_003":  7091175,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it50_00_018":  7091176,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it00_00_000_01":  7091177,
+                            "ctx::19288148-0000-0000-0600-000002003f00":  7091178,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it40_00_000":  7091179,
+                            "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it99_06_004":  7091180
+                        },
+    "locations":  [
+                      {
+                          "id":  7091000,
+                          "name":  "Ch1.01 AbandonedHotel - Antique Coin #1",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@-54.1,1.5,93.3"
+                                   ],
+                          "pos":  [
+                                      -54.09,
+                                      1.54,
+                                      93.3
+                                  ],
+                          "difficulties":  [
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091001,
+                          "name":  "Ch1.01 AbandonedHotel - Antique Coin #2",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_01/AbandonedHotel_Item/it99_50_005@57.4,0.2,11.5"
+                                   ],
+                          "pos":  [
+                                      57.38,
+                                      0.24,
+                                      11.5
+                                  ],
+                          "difficulties":  [
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091002,
+                          "name":  "Ch1.01 AbandonedHotel - Emergency Exit Key",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Emergency Exit Key",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00009a00"
+                                   ],
+                          "pos":  [
+                                      -58.38,
+                                      1.01,
+                                      94.06
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091003,
+                          "name":  "Ch1.01 AbandonedHotel - Green Herb",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_01/AbandonedHotel_Item/it00_00_000"
+                                   ],
+                          "pos":  [
+                                      -57.3,
+                                      6.71,
+                                      95.57
+                                  ],
+                          "difficulties":  [
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091004,
+                          "name":  "Ch1.01 AbandonedHotel - Photo of Grace",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Photo of Grace",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00009e00"
+                                   ],
+                          "pos":  [
+                                      -71.31,
+                                      2.61,
+                                      81.71
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091005,
+                          "name":  "Ch1.01 AbandonedHotel - The Wrenwood Hotel Floor Plan",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "The Wrenwood Hotel Floor Plan",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00001c00"
+                                   ],
+                          "pos":  [
+                                      -53.11,
+                                      2.53,
+                                      85.6
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091006,
+                          "name":  "Ch1.01 AbandonedHotel - Wire Cutters",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Wire Cutters",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00009c00"
+                                   ],
+                          "pos":  [
+                                      -56.37,
+                                      7.73,
+                                      94.06
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091007,
+                          "name":  "Ch1.01 AbandonedHotel st10_005 - Old Key",
+                          "chapter":  "Ch1.01",
+                          "stage":  "st10_000",
+                          "vanilla_item":  "Old Key",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00000800"
+                                   ],
+                          "pos":  [
+                                      -71.31,
+                                      2.61,
+                                      81.71
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091008,
+                          "name":  "Ch1.10 st10_303 - Green Herb",
+                          "chapter":  "Ch1.10",
+                          "stage":  "st10_303",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00008f00"
+                                   ],
+                          "pos":  [
+                                      -50.22,
+                                      0.5,
+                                      -42.33
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091009,
+                          "name":  "Ch1.10 st10_303 - Handgun Ammo",
+                          "chapter":  "Ch1.10",
+                          "stage":  "st10_303",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  10,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0700-000002008e00"
+                                   ],
+                          "pos":  [
+                                      -51.74,
+                                      0.02,
+                                      -37.48
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091010,
+                          "name":  "Ch1.10 st10_303 - Tracking Module (Common) #1",
+                          "chapter":  "Ch1.10",
+                          "stage":  "st10_303",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_02"
+                                   ],
+                          "pos":  [
+                                      -37.96,
+                                      0.65,
+                                      5.89
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091011,
+                          "name":  "Ch1.10 st10_303 - Tracking Module (Common) #2",
+                          "chapter":  "Ch1.10",
+                          "stage":  "st10_303",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_01"
+                                   ],
+                          "pos":  [
+                                      -47.91,
+                                      0.56,
+                                      -9.05
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091012,
+                          "name":  "Ch1.10 st10_303 - Tracking Module (Common) #3",
+                          "chapter":  "Ch1.10",
+                          "stage":  "st10_303",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008"
+                                   ],
+                          "pos":  [
+                                      7.8,
+                                      0.89,
+                                      9.16
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091013,
+                          "name":  "Ch3.01 st30_001 - Antique Coin",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::0000000b-0000-0000-7e5a-9b2000000030"
+                                   ],
+                          "pos":  [
+                                      47.51,
+                                      9.29,
+                                      28.81
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091014,
+                          "name":  "Ch3.01 st30_001 - Cherub Key",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Cherub Key",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0700-000004009d00"
+                                   ],
+                          "pos":  [
+                                      14.14,
+                                      7.28,
+                                      45.28
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091015,
+                          "name":  "Ch3.01 st30_001 - Empty Bottle #1",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0700-000004002300"
+                                   ],
+                          "pos":  [
+                                      13.07,
+                                      7.29,
+                                      19.17
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091016,
+                          "name":  "Ch3.01 st30_001 - Empty Bottle #2",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00005000"
+                                   ],
+                          "pos":  [
+                                      48.94,
+                                      8.11,
+                                      22.86
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091017,
+                          "name":  "Ch3.01 st30_001 - Fuse",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Fuse",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff0000da00"
+                                   ],
+                          "pos":  [
+                                      12.15,
+                                      8.61,
+                                      38.51
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091018,
+                          "name":  "Ch3.01 st30_001 - Green Herb",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0700-00000400b800"
+                                   ],
+                          "pos":  [
+                                      47.64,
+                                      8.5,
+                                      28.88
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091019,
+                          "name":  "Ch3.01 st30_001 - Ink Ribbon",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Ink Ribbon",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_01/Chap3_01_Item/CLASSIC_INSANITY_ONLY/it99_50_003"
+                                   ],
+                          "pos":  [
+                                      13.93,
+                                      8.08,
+                                      14.69
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091020,
+                          "name":  "Ch3.01 st30_001 - Lighter",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Lighter",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00003d00"
+                                   ],
+                          "pos":  [
+                                      8.86,
+                                      8.47,
+                                      15.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091021,
+                          "name":  "Ch3.01 st30_001 - Med Injector",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Med Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff0000c600"
+                                   ],
+                          "pos":  [
+                                      42.39,
+                                      7.29,
+                                      35.73
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091022,
+                          "name":  "Ch3.01 st30_003 - Fuse",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Fuse",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff0000b000"
+                                   ],
+                          "pos":  [
+                                      8.48,
+                                      8.86,
+                                      15.16
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091023,
+                          "name":  "Ch3.01 st30_004 - Empty Bottle",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00005a00@50.6,7.3,35.6"
+                                   ],
+                          "pos":  [
+                                      50.64,
+                                      7.28,
+                                      35.6
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091024,
+                          "name":  "Ch3.01 st30_004 - Screwdriver",
+                          "chapter":  "Ch3.01",
+                          "stage":  "st30_001",
+                          "vanilla_item":  "Screwdriver",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19c86058-0000-0000-ffff-ffff00005a00@51.3,9.8,33.6"
+                                   ],
+                          "pos":  [
+                                      51.27,
+                                      9.77,
+                                      33.63
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091025,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002006300"
+                                   ],
+                          "pos":  [
+                                      -19.81,
+                                      3.39,
+                                      33.45
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091026,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_50_005"
+                                   ],
+                          "pos":  [
+                                      -20.57,
+                                      3.13,
+                                      40.15
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091027,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002001a00"
+                                   ],
+                          "pos":  [
+                                      20.58,
+                                      3.46,
+                                      41.13
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091028,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #4",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002007500"
+                                   ],
+                          "pos":  [
+                                      20.56,
+                                      3.46,
+                                      41.27
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091029,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #5",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002007f00"
+                                   ],
+                          "pos":  [
+                                      -27.96,
+                                      7.97,
+                                      15.93
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091030,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #6",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000200e900"
+                                   ],
+                          "pos":  [
+                                      31.06,
+                                      8.14,
+                                      39.23
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091031,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #7",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::00000006-0000-0000-7e5a-9b1000000060"
+                                   ],
+                          "pos":  [
+                                      32.73,
+                                      3.07,
+                                      39.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091032,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #8",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002005800"
+                                   ],
+                          "pos":  [
+                                      -38.68,
+                                      3.18,
+                                      8.46
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091033,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #9",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005"
+                                   ],
+                          "pos":  [
+                                      -40.61,
+                                      2.65,
+                                      19.91
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091034,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #10",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002002e00"
+                                   ],
+                          "pos":  [
+                                      48.59,
+                                      2.75,
+                                      41.62
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091035,
+                          "name":  "Ch3.02 Collectibles - Antique Coin #11",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002004e00@-5.4,2.6,43.9"
+                                   ],
+                          "pos":  [
+                                      -5.38,
+                                      2.64,
+                                      43.85
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091036,
+                          "name":  "Ch3.02 Collectibles - Hip Pouch",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Hip Pouch",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_01_000"
+                                   ],
+                          "pos":  [
+                                      -31.56,
+                                      3.28,
+                                      19.15
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091037,
+                          "name":  "Ch3.02 Collectibles - Lockpick #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Lockpick",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_50_006"
+                                   ],
+                          "pos":  [
+                                      -42.38,
+                                      8.08,
+                                      29.38
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091038,
+                          "name":  "Ch3.02 Collectibles - Lockpick #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Lockpick",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000200d500"
+                                   ],
+                          "pos":  [
+                                      56.56,
+                                      8.18,
+                                      57.69
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091039,
+                          "name":  "Ch3.02 Collectibles - Pantry Key",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Pantry Key",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it60_00_069"
+                                   ],
+                          "pos":  [
+                                      28.65,
+                                      3.63,
+                                      48.33
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091040,
+                          "name":  "Ch3.02 Collectibles - Stakeout Takeout Charm",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Stakeout Takeout Charm",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/収集系/it99_07_001"
+                                   ],
+                          "pos":  [
+                                      -43.07,
+                                      3.33,
+                                      27.84
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091041,
+                          "name":  "Ch3.02 East 1st - B934",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "B934",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it10_00_003_01"
+                                   ],
+                          "pos":  [
+                                      23.19,
+                                      3.42,
+                                      42.36
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091042,
+                          "name":  "Ch3.02 East 1st - Ink Ribbon",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it99_50_003_01"
+                                   ],
+                          "pos":  [
+                                      28.81,
+                                      3.01,
+                                      46.08
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091043,
+                          "name":  "Ch3.02 East 1st - Ink Ribbon Tin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon Tin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it50_00_012"
+                                   ],
+                          "pos":  [
+                                      40.56,
+                                      3.03,
+                                      27.41
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091044,
+                          "name":  "Ch3.02 East 1st - Tracking Module (Common) #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "ca1d5a1d-e264-428a-b4a4-c270e2d4c0d7"
+                                   ],
+                          "pos":  [
+                                      28.87,
+                                      8.29,
+                                      49.24
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091045,
+                          "name":  "Ch3.02 East 1st - Tracking Module (Common) #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "f168f0c9-94f1-05e7-0ddd-906451c22f68"
+                                   ],
+                          "pos":  [
+                                      52.31,
+                                      3.39,
+                                      42.84
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091046,
+                          "name":  "Ch3.02 East 1st Craft - Scrap",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/クラフト系/it50_00_002_02"
+                                   ],
+                          "pos":  [
+                                      27.02,
+                                      3.2,
+                                      48.42
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091047,
+                          "name":  "Ch3.02 East 1st Drawer - Handgun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "3ab53d4c-b9ac-07e2-0ab6-a41170a0df02"
+                                   ],
+                          "pos":  [
+                                      -34.9,
+                                      8.12,
+                                      30.95
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091048,
+                          "name":  "Ch3.02 East 1st Drawer - Rare Metal",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Rare Metal",
+                          "amount":  1,
+                          "keys":  [
+                                       "a4b3fe21-5a7b-45b0-a80e-f8a9b1e7a244"
+                                   ],
+                          "pos":  [
+                                      16.77,
+                                      2.33,
+                                      42.85
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091049,
+                          "name":  "Ch3.02 East 1st Drawer - Scrap #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "e807bd70-ccce-47f1-aa91-93cf47569333"
+                                   ],
+                          "pos":  [
+                                      22.66,
+                                      2.86,
+                                      42.54
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091050,
+                          "name":  "Ch3.02 East 1st Drawer - Scrap #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "2bf0130c-08c9-0a0f-301b-333a32e671a4"
+                                   ],
+                          "pos":  [
+                                      26.46,
+                                      2.9,
+                                      38.66
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091051,
+                          "name":  "Ch3.02 East 1st Drawer - Scrap #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "622f6cdb-4e5f-0ff3-1d29-f8951d1e93cd"
+                                   ],
+                          "pos":  [
+                                      43.13,
+                                      3.5,
+                                      16.13
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091052,
+                          "name":  "Ch3.02 East 1st Drawer - Scrap #4",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "d0472a71-9d2d-040f-0347-8f94f555d785"
+                                   ],
+                          "pos":  [
+                                      46.51,
+                                      7.28,
+                                      43.97
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091053,
+                          "name":  "Ch3.02 East 1st Drawer - Scrap #5",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "da107f78-0338-4eec-8d00-53d0f3fa0be2"
+                                   ],
+                          "pos":  [
+                                      56.33,
+                                      7.33,
+                                      51.89
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091054,
+                          "name":  "Ch3.02 East 1st Enemy Drop 1 - Antique Coin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "0d0f8dfe-0e91-411e-891b-4f5571eb10bd"
+                                   ],
+                          "pos":  [
+                                      32.43,
+                                      7.29,
+                                      53.76
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091055,
+                          "name":  "Ch3.02 East 1st Enemy Drop 1 - Eye Spy Charm",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Eye Spy Charm",
+                          "amount":  1,
+                          "keys":  [
+                                       "e555cc10-3149-42aa-994f-c3d4583eeaa0"
+                                   ],
+                          "pos":  [
+                                      35.39,
+                                      2.45,
+                                      30.15
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091056,
+                          "name":  "Ch3.02 East 1st Enemy Drop 1 - Med Injector #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_056",
+                          "vanilla_item":  "Med Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "dff72e04-ffba-4317-9374-c7b5758f79c6"
+                                   ],
+                          "pos":  [
+                                      23.39,
+                                      2.36,
+                                      27.07
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091057,
+                          "name":  "Ch3.02 East 1st Enemy Drop 1 - Med Injector #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Med Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "1862b5f0-b719-4cdc-aa86-2f4b628483c8"
+                                   ],
+                          "pos":  [
+                                      32.76,
+                                      7.28,
+                                      43.19
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091058,
+                          "name":  "Ch3.02 East 1st Floor - Green Herb",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_055",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it00_00_000_01"
+                                   ],
+                          "pos":  [
+                                      14,
+                                      2.28,
+                                      21.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091059,
+                          "name":  "Ch3.02 East 1st Floor - Handgun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  8,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      27.99,
+                                      3.19,
+                                      48.26
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091060,
+                          "name":  "Ch3.02 East 1st Floor - Hemolytic Injector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Hemolytic Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/東1st/直置き系/it99_50_001"
+                                   ],
+                          "pos":  [
+                                      26.94,
+                                      3.14,
+                                      24.96
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091061,
+                          "name":  "Ch3.02 East 2nd - Antique Coin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "f816f4a0-dc95-4ac9-9be1-e352f0d19208"
+                                   ],
+                          "pos":  [
+                                      52.21,
+                                      3.39,
+                                      41.33
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091062,
+                          "name":  "Ch3.02 East 2nd - Blood Specimen (Polymerized)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Specimen (Polymerized)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it60_00_120"
+                                   ],
+                          "pos":  [
+                                      27.55,
+                                      3.2,
+                                      48.29
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091063,
+                          "name":  "Ch3.02 East 2nd - Empty Bottle",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it20_00_003"
+                                   ],
+                          "pos":  [
+                                      26.73,
+                                      3.2,
+                                      48.26
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091064,
+                          "name":  "Ch3.02 East 2nd - Handgun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "fcb39261-6247-07ca-2e8a-3fdeb1d26e96"
+                                   ],
+                          "pos":  [
+                                      -68.03,
+                                      1.59,
+                                      69.02
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091065,
+                          "name":  "Ch3.02 East 2nd - Ink Ribbon",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it99_50_003"
+                                   ],
+                          "pos":  [
+                                      70.51,
+                                      2.77,
+                                      25.96
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091066,
+                          "name":  "Ch3.02 East 2nd - Lockpick",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Lockpick",
+                          "amount":  1,
+                          "keys":  [
+                                       "720581aa-0b3a-075a-21f0-4e6ccc37b537"
+                                   ],
+                          "pos":  [
+                                      -34.3,
+                                      2.29,
+                                      48.03
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091067,
+                          "name":  "Ch3.02 East 2nd - Makeshift Knife",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Makeshift Knife",
+                          "amount":  1,
+                          "keys":  [
+                                       "7d808b19-93c6-0db0-26d5-26c9432764d3"
+                                   ],
+                          "pos":  [
+                                      -32.63,
+                                      8.49,
+                                      30.95
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091068,
+                          "name":  "Ch3.02 East 2nd - Scrap #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "c96153a7-3b1e-4f42-b7b1-a445fb5d4835"
+                                   ],
+                          "pos":  [
+                                      -19.43,
+                                      7.82,
+                                      35.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091069,
+                          "name":  "Ch3.02 East 2nd - Scrap #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "4f1db711-54d5-4fbe-8ae7-a445cf062a50"
+                                   ],
+                          "pos":  [
+                                      -44.14,
+                                      9.79,
+                                      55.65
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091070,
+                          "name":  "Ch3.02 East 2nd Craft - Green Herb #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系/it00_00_000_01"
+                                   ],
+                          "pos":  [
+                                      48.23,
+                                      2.28,
+                                      25.58
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091071,
+                          "name":  "Ch3.02 East 2nd Craft - Green Herb #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002000600"
+                                   ],
+                          "pos":  [
+                                      69.42,
+                                      2.54,
+                                      22.4
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091072,
+                          "name":  "Ch3.02 East 2nd Floor - 12.7x55mm Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "12.7x55mm Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "09d7da94-f7ca-4350-97c2-03494029dfdc"
+                                   ],
+                          "pos":  [
+                                      26.04,
+                                      3.19,
+                                      48.39
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091073,
+                          "name":  "Ch3.02 East 2nd Floor - Empty Injector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Empty Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_018"
+                                   ],
+                          "pos":  [
+                                      48,
+                                      3.24,
+                                      20.79
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091074,
+                          "name":  "Ch3.02 East 2nd Floor - Handgun Ammo #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  9,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      50.86,
+                                      3.28,
+                                      21.33
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091075,
+                          "name":  "Ch3.02 East 2nd Floor - Handgun Ammo #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  12,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000000ee00"
+                                   ],
+                          "pos":  [
+                                      65.3,
+                                      3.24,
+                                      25.54
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091076,
+                          "name":  "Ch3.02 East 2nd Floor - Scrap #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002_02"
+                                   ],
+                          "pos":  [
+                                      47.8,
+                                      3.91,
+                                      21.74
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091077,
+                          "name":  "Ch3.02 East 2nd Floor - Scrap #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002"
+                                   ],
+                          "pos":  [
+                                      55.85,
+                                      3.16,
+                                      9.4
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091078,
+                          "name":  "Ch3.02 East 2nd Floor - Scrap #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000000e200"
+                                   ],
+                          "pos":  [
+                                      66.54,
+                                      3.2,
+                                      22.24
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091079,
+                          "name":  "Ch3.02 East 2nd Floor - Transfusion Bag #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000200b600"
+                                   ],
+                          "pos":  [
+                                      46.38,
+                                      3.48,
+                                      18.92
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091080,
+                          "name":  "Ch3.02 East 2nd Floor - Transfusion Bag #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it99_06_004"
+                                   ],
+                          "pos":  [
+                                      52.34,
+                                      3.02,
+                                      24.51
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091081,
+                          "name":  "Ch3.02 East 2nd Floor - Transfusion Bag #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000200ae00"
+                                   ],
+                          "pos":  [
+                                      61.7,
+                                      3.28,
+                                      6.95
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091082,
+                          "name":  "Ch3.02 Hall+West 1st - Blood Specimen (Converged)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Specimen (Converged)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it60_00_065"
+                                   ],
+                          "pos":  [
+                                      -29.38,
+                                      8.58,
+                                      33.22
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091083,
+                          "name":  "Ch3.02 Hall+West 1st - Empty Injector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Empty Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_018"
+                                   ],
+                          "pos":  [
+                                      -29.94,
+                                      3.21,
+                                      36.07
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091084,
+                          "name":  "Ch3.02 Hall+West 1st - Green Herb",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CASUAL_MODERN_ONLY/it00_00_000_01"
+                                   ],
+                          "pos":  [
+                                      -15.83,
+                                      2.29,
+                                      28.42
+                                  ],
+                          "difficulties":  [
+                                               "Casual",
+                                               "Modern"
+                                           ]
+                      },
+                      {
+                          "id":  7091085,
+                          "name":  "Ch3.02 Hall+West 1st - Ink Ribbon",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_50_003"
+                                   ],
+                          "pos":  [
+                                      -14.87,
+                                      3.18,
+                                      25.6
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091086,
+                          "name":  "Ch3.02 Hall+West 1st - Ink Ribbon Tin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon Tin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012"
+                                   ],
+                          "pos":  [
+                                      -18.44,
+                                      3.04,
+                                      41.76
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091087,
+                          "name":  "Ch3.02 Hall+West 1st - Transfusion Bag",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_06_004"
+                                   ],
+                          "pos":  [
+                                      -20.99,
+                                      3.21,
+                                      14.88
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091088,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  60,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-00000200ef00"
+                                   ],
+                          "pos":  [
+                                      -15.55,
+                                      2.29,
+                                      10.98
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091089,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  70,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-000002007800"
+                                   ],
+                          "pos":  [
+                                      -16.37,
+                                      0.8,
+                                      52.8
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091090,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  70,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-00000000db00"
+                                   ],
+                          "pos":  [
+                                      -21.7,
+                                      7.29,
+                                      45.95
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091091,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #4",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  30,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-000002004800"
+                                   ],
+                          "pos":  [
+                                      30.3,
+                                      2.28,
+                                      44.83
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091092,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #5",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  80,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      42.71,
+                                      7.28,
+                                      42.24
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091093,
+                          "name":  "Ch3.02 Hall+West 1st Blood - Infected Blood #6",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  100,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-000002001700"
+                                   ],
+                          "pos":  [
+                                      -43.93,
+                                      2.96,
+                                      19.27
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091094,
+                          "name":  "Ch3.02 Hall+West 1st Drawer - Handgun Ammo #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "86aba77b-7f32-4839-80f1-b00b5c460191"
+                                   ],
+                          "pos":  [
+                                      24.76,
+                                      2.25,
+                                      19.46
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091095,
+                          "name":  "Ch3.02 Hall+West 1st Drawer - Handgun Ammo #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "ccf57bdf-34ed-0817-0b51-23d971b355d6"
+                                   ],
+                          "pos":  [
+                                      -46.71,
+                                      2.28,
+                                      7.14
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091096,
+                          "name":  "Ch3.02 Hall+West 1st Drawer - Makeshift Knife",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Makeshift Knife",
+                          "amount":  1,
+                          "keys":  [
+                                       "2d043292-6252-0685-0597-5e4dc46441a0"
+                                   ],
+                          "pos":  [
+                                      -23.41,
+                                      3.5,
+                                      12.9
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091097,
+                          "name":  "Ch3.02 Hall+West 1st Drawer - Rare Metal #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Rare Metal",
+                          "amount":  1,
+                          "keys":  [
+                                       "f43bfcdd-4321-4860-ac30-462ec12708b4"
+                                   ],
+                          "pos":  [
+                                      -21.15,
+                                      7.28,
+                                      31.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091098,
+                          "name":  "Ch3.02 Hall+West 1st Drawer - Rare Metal #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Rare Metal",
+                          "amount":  1,
+                          "keys":  [
+                                       "5e21ba1c-eccd-40c8-99cf-4cbf15ced177"
+                                   ],
+                          "pos":  [
+                                      -41.16,
+                                      2.28,
+                                      22.06
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091099,
+                          "name":  "Ch3.02 Hall+West 1st Enemy Drop - Antique Coin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "c1166cc3-8681-4b30-be3b-fb0d7aa4e66f"
+                                   ],
+                          "pos":  [
+                                      -35.63,
+                                      7.28,
+                                      14.84
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091100,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01"
+                                   ],
+                          "pos":  [
+                                      -10.4,
+                                      1.78,
+                                      45.48
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091101,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002003600@-14.7,8.1,25.5"
+                                   ],
+                          "pos":  [
+                                      -14.69,
+                                      8.08,
+                                      25.5
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091102,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002004800"
+                                   ],
+                          "pos":  [
+                                      -26.32,
+                                      3.29,
+                                      33.54
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091103,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #4",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000200e600"
+                                   ],
+                          "pos":  [
+                                      -27.26,
+                                      8.08,
+                                      6.36
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091104,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #5",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002003700"
+                                   ],
+                          "pos":  [
+                                      -35.18,
+                                      3.2,
+                                      16.1
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091105,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #6",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002008400"
+                                   ],
+                          "pos":  [
+                                      43.58,
+                                      8.75,
+                                      60.39
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091106,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #7",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002004e00@-49.3,12.3,10.5"
+                                   ],
+                          "pos":  [
+                                      -49.31,
+                                      12.3,
+                                      10.46
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091107,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Green Herb #8",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002005000"
+                                   ],
+                          "pos":  [
+                                      -6.97,
+                                      8.28,
+                                      45.03
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091108,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Handgun Ammo #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  6,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      -19.41,
+                                      8.04,
+                                      25.81
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091109,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Handgun Ammo #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002002600"
+                                   ],
+                          "pos":  [
+                                      -23.77,
+                                      3.14,
+                                      15.21
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091110,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Handgun Ammo #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002002c00"
+                                   ],
+                          "pos":  [
+                                      -51,
+                                      13.19,
+                                      20.99
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091111,
+                          "name":  "Ch3.02 Hall+West 1st Floor - Makeshift Knife",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Makeshift Knife",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/ホール＋西1st/直置き系/it10_20_003"
+                                   ],
+                          "pos":  [
+                                      -41.96,
+                                      3.18,
+                                      26
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091112,
+                          "name":  "Ch3.02 Key Items - Artificial Heart",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Artificial Heart",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_051"
+                                   ],
+                          "pos":  [
+                                      -61.59,
+                                      2.88,
+                                      9.5
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091113,
+                          "name":  "Ch3.02 Key Items - Artificial Lungs",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Artificial Lungs",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_053"
+                                   ],
+                          "pos":  [
+                                      -61.51,
+                                      2.47,
+                                      68.83
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091114,
+                          "name":  "Ch3.02 Key Items - B934",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "B934",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it10_00_003"
+                                   ],
+                          "pos":  [
+                                      -15.73,
+                                      2.29,
+                                      14.18
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091115,
+                          "name":  "Ch3.02 Key Items - Blood Collector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Collector (it99_06_000)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it99_06_000"
+                                   ],
+                          "pos":  [
+                                      40.07,
+                                      3.13,
+                                      21.34
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091116,
+                          "name":  "Ch3.02 Key Items - Blood Specimen (Converged)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Specimen (Converged)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_065"
+                                   ],
+                          "pos":  [
+                                      30.12,
+                                      3.41,
+                                      48.41
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091117,
+                          "name":  "Ch3.02 Key Items - Blood Specimen (Denatured)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Specimen (Denatured)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_064"
+                                   ],
+                          "pos":  [
+                                      36.31,
+                                      3.12,
+                                      21.7
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091118,
+                          "name":  "Ch3.02 Key Items - Blood Specimen (Reversible)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Blood Specimen (Reversible)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_067"
+                                   ],
+                          "pos":  [
+                                      47.69,
+                                      3.26,
+                                      19.25
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091119,
+                          "name":  "Ch3.02 Key Items - Corrosive",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Corrosive",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_063"
+                                   ],
+                          "pos":  [
+                                      28.14,
+                                      8.22,
+                                      50.44
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091120,
+                          "name":  "Ch3.02 Key Items - ID Wristband (Level 1)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "ID Wristband (Level 1)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_055"
+                                   ],
+                          "pos":  [
+                                      43.99,
+                                      7.31,
+                                      48.66
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091121,
+                          "name":  "Ch3.02 Key Items - Organ Transport Box",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Organ Transport Box",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_073"
+                                   ],
+                          "pos":  [
+                                      -61.51,
+                                      2.47,
+                                      68.83
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091122,
+                          "name":  "Ch3.02 Key Items - Pantry Key",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Pantry Key",
+                          "amount":  1,
+                          "keys":  [
+                                       "01e530ab-9394-41db-958a-03bf5b161dac"
+                                   ],
+                          "pos":  [
+                                      -28.53,
+                                      2.29,
+                                      42.93
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091123,
+                          "name":  "Ch3.02 Key Items - Pencil",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Pencil",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it60_00_004"
+                                   ],
+                          "pos":  [
+                                      -20.94,
+                                      8.06,
+                                      43.54
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091124,
+                          "name":  "Ch3.02 Key Items - Red Jewel #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Red Jewel",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_047"
+                                   ],
+                          "pos":  [
+                                      -16.89,
+                                      8.19,
+                                      32.2
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091125,
+                          "name":  "Ch3.02 Key Items - Red Jewel #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Red Jewel",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/INSANITYONLY/it60_00_047"
+                                   ],
+                          "pos":  [
+                                      -21.47,
+                                      8.28,
+                                      46.67
+                                  ],
+                          "difficulties":  [
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091126,
+                          "name":  "Ch3.02 Key Items - S\u0026S M232",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "S\u0026S M232",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/キーアイテム系/it10_00_001"
+                                   ],
+                          "pos":  [
+                                      -32.24,
+                                      8.13,
+                                      11.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091127,
+                          "name":  "Ch3.02 Key Items - Unicorn Trinket Box #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Unicorn Trinket Box",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_077"
+                                   ],
+                          "pos":  [
+                                      -16.89,
+                                      8.19,
+                                      32.2
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091128,
+                          "name":  "Ch3.02 Key Items - Unicorn Trinket Box #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Unicorn Trinket Box",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/INSANITYONLY/it60_00_077"
+                                   ],
+                          "pos":  [
+                                      -21.47,
+                                      8.28,
+                                      46.67
+                                  ],
+                          "difficulties":  [
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091129,
+                          "name":  "Ch3.02 Key Items - Wrench",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Wrench",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/Chap3_02_Item_00/キーアイテム系/it60_00_074"
+                                   ],
+                          "pos":  [
+                                      -37.44,
+                                      3.17,
+                                      45.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091130,
+                          "name":  "Ch3.02 Safe - Antique Coin #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "3cad65bc-3ea2-467f-9e0d-af716f7788db",
+                                       "3f15d974-8029-43c3-9a5b-f42de8effdc1",
+                                       "c94d0b2f-ee9a-481a-89ed-952dd29baa4b"
+                                   ],
+                          "pos":  [
+                                      25.66,
+                                      3.25,
+                                      31.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091131,
+                          "name":  "Ch3.02 Safe - Antique Coin #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "1d04028e-627e-49ef-a76e-45b0fa91ba05",
+                                       "566b2bc9-9695-0957-0e47-b0f43a28c20d",
+                                       "f46e7505-137e-4553-8ce9-c2ce83357318"
+                                   ],
+                          "pos":  [
+                                      -34.23,
+                                      8.38,
+                                      7.62
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091132,
+                          "name":  "Ch3.02 st30_005 - ID Wristband (Level 2)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "ID Wristband (Level 2)",
+                          "amount":  1,
+                          "keys":  [
+                                       "36eccb4f-d6bb-44f6-9c30-a92a80a66872"
+                                   ],
+                          "pos":  [
+                                      24.36,
+                                      2.31,
+                                      27.07
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091133,
+                          "name":  "Ch3.02 st30_031 - East Wing Keycard",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "East Wing Keycard",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/it60_00_046"
+                                   ],
+                          "pos":  [
+                                      -23.84,
+                                      2.28,
+                                      32.09
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091134,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Antique Coin #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000006004a00"
+                                   ],
+                          "pos":  [
+                                      -20.9,
+                                      3.08,
+                                      39.17
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091135,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Antique Coin #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_005"
+                                   ],
+                          "pos":  [
+                                      -21.04,
+                                      3.08,
+                                      39.64
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091136,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Antique Coin #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-00000600d500"
+                                   ],
+                          "pos":  [
+                                      -21.2,
+                                      3.08,
+                                      38.98
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091137,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Handgun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  30,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      -25.48,
+                                      3.49,
+                                      38.69
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091138,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Hip Pouch",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Hip Pouch",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_01_000"
+                                   ],
+                          "pos":  [
+                                      -25.44,
+                                      3.43,
+                                      39.35
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091139,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Override Manual",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Override Manual",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_011"
+                                   ],
+                          "pos":  [
+                                      -25.5,
+                                      3.51,
+                                      36.81
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091140,
+                          "name":  "Ch3.02 st30_031 CoinLocker - R.I.P. Knife",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "R.I.P. Knife",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it10_20_007"
+                                   ],
+                          "pos":  [
+                                      -25.55,
+                                      3.53,
+                                      37.37
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091141,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Stabilizer",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Stabilizer",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_004"
+                                   ],
+                          "pos":  [
+                                      -25.5,
+                                      3.5,
+                                      38.72
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091142,
+                          "name":  "Ch3.02 st30_031 CoinLocker - Steroids",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Steroids",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_002"
+                                   ],
+                          "pos":  [
+                                      -25.5,
+                                      3.52,
+                                      37.47
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091143,
+                          "name":  "Ch3.02 st30_034 - Infected Blood",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  60,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_034_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      -39.27,
+                                      2.64,
+                                      32.2
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091144,
+                          "name":  "Ch3.02 st30_035 - Infected Blood #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  50,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0800-00000200b600"
+                                   ],
+                          "pos":  [
+                                      -42.83,
+                                      2.63,
+                                      31.94
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091145,
+                          "name":  "Ch3.02 st30_035 - Infected Blood #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  50,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_035_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      -42.81,
+                                      2.63,
+                                      32.85
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091146,
+                          "name":  "Ch3.02 st30_044 - Infected Blood",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  50,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_044_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      -49.04,
+                                      7.65,
+                                      11.25
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091147,
+                          "name":  "Ch3.02 st30_047 - Moon Quartz",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Moon Quartz",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_047_Gimmick_Common/it60_00_049"
+                                   ],
+                          "pos":  [
+                                      -23.98,
+                                      8.78,
+                                      38.31
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091148,
+                          "name":  "Ch3.02 st30_057 - Infected Blood",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  50,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_057_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      22.96,
+                                      2.62,
+                                      19.39
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091149,
+                          "name":  "Ch3.02 st30_059 - Infected Blood",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  60,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_059_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      41.47,
+                                      2.62,
+                                      22.4
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091150,
+                          "name":  "Ch3.02 st30_062 - Infected Blood",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Infected Blood",
+                          "amount":  70,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_062_Gimmick_Common/it70_01_000"
+                                   ],
+                          "pos":  [
+                                      57.86,
+                                      2.62,
+                                      17.6
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091151,
+                          "name":  "Ch3.02 st30_066 - Leatherbound Notebook",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Leatherbound Notebook",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_066_Gimmick_Common/it60_00_122"
+                                   ],
+                          "pos":  [
+                                      50.82,
+                                      8.63,
+                                      60.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091152,
+                          "name":  "Ch3.02 st30_066 - Sun Quartz",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Sun Quartz",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Gimmick/Chap3_02_Gimmick_Common/st30_066_Gimmick_Common/it60_00_048"
+                                   ],
+                          "pos":  [
+                                      50.89,
+                                      8.79,
+                                      60.84
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091153,
+                          "name":  "Ch3.02 Story Pickup - ID Wristband (Level 3)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "ID Wristband (Level 3)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it60_00_075"
+                                   ],
+                          "pos":  [
+                                      68.1,
+                                      3.05,
+                                      26.68
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091154,
+                          "name":  "Ch3.02 Story Pickup - Requiem",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Requiem",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it10_02_000"
+                                   ],
+                          "pos":  [
+                                      6.85,
+                                      7.28,
+                                      38.15
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091155,
+                          "name":  "Ch3.02 Story Pickup - West Wing Keycard",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "West Wing Keycard",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/Chap3_02_Item/FlowTryPickup/it60_00_045"
+                                   ],
+                          "pos":  [
+                                      -17.21,
+                                      0.8,
+                                      52.34
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091156,
+                          "name":  "Ch3.02 Tomahawk Shelf - Compensator",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Compensator",
+                          "amount":  1,
+                          "keys":  [
+                                       "03950108-b3f2-4d0a-b4dd-22f8bc53e352"
+                                   ],
+                          "pos":  [
+                                      -9.93,
+                                      14.57,
+                                      41.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091157,
+                          "name":  "Ch3.02 Tomahawk Shelf - Connoisseur Charm",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Connoisseur Charm",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it30_00_702"
+                                   ],
+                          "pos":  [
+                                      -45.41,
+                                      3.42,
+                                      35.81
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091158,
+                          "name":  "Ch3.02 Tomahawk Shelf - Handgun Ammo #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  10,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0700-00000200ea00"
+                                   ],
+                          "pos":  [
+                                      -31.47,
+                                      3.42,
+                                      17.34
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091159,
+                          "name":  "Ch3.02 Tomahawk Shelf - Handgun Ammo #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  15,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      -34.66,
+                                      8.41,
+                                      31.01
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091160,
+                          "name":  "Ch3.02 Tomahawk Shelf - Machine Gun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Machine Gun Ammo",
+                          "amount":  40,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_03_000"
+                                   ],
+                          "pos":  [
+                                      -31.4,
+                                      3.42,
+                                      17.08
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091161,
+                          "name":  "Ch3.02 Tomahawk Shelf - Med Injector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Med Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it00_01_000"
+                                   ],
+                          "pos":  [
+                                      -31.53,
+                                      3.42,
+                                      16.96
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091162,
+                          "name":  "Ch3.02 Tomahawk Shelf - Mixed Herb (G+G)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Mixed Herb (G+G)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it00_00_100"
+                                   ],
+                          "pos":  [
+                                      -35.11,
+                                      8.42,
+                                      31.07
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091163,
+                          "name":  "Ch3.02 Tomahawk Shelf - Rifle Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Rifle Ammo",
+                          "amount":  4,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_05_000"
+                                   ],
+                          "pos":  [
+                                      -45.4,
+                                      3.41,
+                                      36.34
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091164,
+                          "name":  "Ch3.02 Tomahawk Shelf - Shotgun Shells",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Shotgun Shells",
+                          "amount":  4,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it40_01_000"
+                                   ],
+                          "pos":  [
+                                      -45.39,
+                                      3.41,
+                                      36.07
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091165,
+                          "name":  "Ch3.02 Tomahawk Shelf - Tracking Module (Common)",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Tracking Module (Common)",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/トマホーク棚/it99_50_008"
+                                   ],
+                          "pos":  [
+                                      -45.36,
+                                      3.41,
+                                      35.66
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091166,
+                          "name":  "Ch3.02 West 2nd - Antique Coin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Antique Coin",
+                          "amount":  1,
+                          "keys":  [
+                                       "ca6ee631-1835-4e7f-9c89-a13cd066bde7"
+                                   ],
+                          "pos":  [
+                                      -19.28,
+                                      3.14,
+                                      32.03
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091167,
+                          "name":  "Ch3.02 West 2nd - Ink Ribbon",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_50_003_01"
+                                   ],
+                          "pos":  [
+                                      -45.26,
+                                      3.61,
+                                      30.97
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091168,
+                          "name":  "Ch3.02 West 2nd - Ink Ribbon Tin",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Ink Ribbon Tin",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012"
+                                   ],
+                          "pos":  [
+                                      48.82,
+                                      8.09,
+                                      55.84
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091169,
+                          "name":  "Ch3.02 West 2nd - Transfusion Bag",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_06_004"
+                                   ],
+                          "pos":  [
+                                      -33.13,
+                                      7.94,
+                                      37.38
+                                  ],
+                          "difficulties":  [
+                                               "Classic",
+                                               "Insanity"
+                                           ]
+                      },
+                      {
+                          "id":  7091170,
+                          "name":  "Ch3.02 West 2nd Craft - Scrap #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002007300"
+                                   ],
+                          "pos":  [
+                                      -36.07,
+                                      3.25,
+                                      51.71
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091171,
+                          "name":  "Ch3.02 West 2nd Craft - Scrap #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002000b00"
+                                   ],
+                          "pos":  [
+                                      -42.25,
+                                      3.61,
+                                      34.05
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091172,
+                          "name":  "Ch3.02 West 2nd Craft - Scrap #3",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Scrap",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系/it50_00_002_02"
+                                   ],
+                          "pos":  [
+                                      -58.71,
+                                      2.19,
+                                      7.95
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091173,
+                          "name":  "Ch3.02 West 2nd Floor - 12.7x55mm Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "12.7x55mm Ammo",
+                          "amount":  1,
+                          "keys":  [
+                                       "2afe11f8-46d4-065a-1cb6-afe7da213357"
+                                   ],
+                          "pos":  [
+                                      -42.62,
+                                      3.13,
+                                      28.66
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091174,
+                          "name":  "Ch3.02 West 2nd Floor - Empty Bottle #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002003600@-21.3,3.6,14.6"
+                                   ],
+                          "pos":  [
+                                      -21.29,
+                                      3.57,
+                                      14.64
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091175,
+                          "name":  "Ch3.02 West 2nd Floor - Empty Bottle #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Empty Bottle",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it20_00_003"
+                                   ],
+                          "pos":  [
+                                      -38.72,
+                                      8.08,
+                                      33.33
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091176,
+                          "name":  "Ch3.02 West 2nd Floor - Empty Injector",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Empty Injector",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it50_00_018"
+                                   ],
+                          "pos":  [
+                                      -28.49,
+                                      8.48,
+                                      31.16
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091177,
+                          "name":  "Ch3.02 West 2nd Floor - Green Herb #1",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it00_00_000_01"
+                                   ],
+                          "pos":  [
+                                      -40.34,
+                                      8.09,
+                                      22.94
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091178,
+                          "name":  "Ch3.02 West 2nd Floor - Green Herb #2",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_006",
+                          "vanilla_item":  "Green Herb",
+                          "amount":  1,
+                          "keys":  [
+                                       "ctx::19288148-0000-0000-0600-000002003f00"
+                                   ],
+                          "pos":  [
+                                      -41.45,
+                                      3.28,
+                                      42.1
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091179,
+                          "name":  "Ch3.02 West 2nd Floor - Handgun Ammo",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Handgun Ammo",
+                          "amount":  10,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it40_00_000"
+                                   ],
+                          "pos":  [
+                                      -31.43,
+                                      3.3,
+                                      18.35
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      },
+                      {
+                          "id":  7091180,
+                          "name":  "Ch3.02 West 2nd Floor - Transfusion Bag",
+                          "chapter":  "Ch3.02",
+                          "stage":  "st30_005",
+                          "vanilla_item":  "Transfusion Bag",
+                          "amount":  1,
+                          "keys":  [
+                                       "fp::MainGame/Chap3_02/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it99_06_004"
+                                   ],
+                          "pos":  [
+                                      -65.15,
+                                      2.29,
+                                      11.39
+                                  ],
+                          "difficulties":  [
+
+                                           ]
+                      }
+                  ],
+    "item_game_id_by_ap_id":  {
+                                  "7090000":  "it00_00_000",
+                                  "7090001":  "it00_00_100",
+                                  "7090002":  "it00_00_200",
+                                  "7090003":  "it00_01_000",
+                                  "7090004":  "it10_00_000",
+                                  "7090005":  "it10_00_001",
+                                  "7090006":  "it10_00_002",
+                                  "7090007":  "it10_00_003",
+                                  "7090008":  "it10_00_004",
+                                  "7090009":  "it10_00_005",
+                                  "7090010":  "it10_00_006",
+                                  "7090011":  "it10_01_000",
+                                  "7090012":  "it10_01_002",
+                                  "7090013":  "it10_01_003",
+                                  "7090014":  "it10_02_000",
+                                  "7090015":  "it10_03_000",
+                                  "7090016":  "it10_03_001",
+                                  "7090017":  "it10_03_003",
+                                  "7090018":  "it10_04_000",
+                                  "7090019":  "it10_05_000",
+                                  "7090020":  "it10_05_001",
+                                  "7090021":  "it10_05_002",
+                                  "7090022":  "it10_10_000",
+                                  "7090023":  "it10_10_001",
+                                  "7090024":  "it10_10_002",
+                                  "7090025":  "it10_20_001",
+                                  "7090026":  "it10_20_003",
+                                  "7090027":  "it10_20_005",
+                                  "7090028":  "it10_20_006",
+                                  "7090029":  "it10_20_007",
+                                  "7090030":  "it10_20_008",
+                                  "7090031":  "it10_30_000",
+                                  "7090032":  "it10_30_001",
+                                  "7090033":  "it10_30_002",
+                                  "7090034":  "it20_00_000",
+                                  "7090035":  "it20_00_002",
+                                  "7090036":  "it20_00_003",
+                                  "7090037":  "it20_00_004",
+                                  "7090038":  "it20_00_005",
+                                  "7090039":  "it30_00_100",
+                                  "7090040":  "it30_00_101",
+                                  "7090041":  "it30_00_102",
+                                  "7090042":  "it30_00_103",
+                                  "7090043":  "it30_00_104",
+                                  "7090044":  "it30_00_105",
+                                  "7090045":  "it30_00_106",
+                                  "7090046":  "it30_00_107",
+                                  "7090047":  "it30_00_108",
+                                  "7090048":  "it30_00_109",
+                                  "7090049":  "it30_00_200",
+                                  "7090050":  "it30_00_201",
+                                  "7090051":  "it30_00_202",
+                                  "7090052":  "it30_00_203",
+                                  "7090053":  "it30_00_204",
+                                  "7090054":  "it30_00_205",
+                                  "7090055":  "it30_00_300",
+                                  "7090056":  "it30_00_301",
+                                  "7090057":  "it30_00_302",
+                                  "7090058":  "it30_00_303",
+                                  "7090059":  "it30_00_304",
+                                  "7090060":  "it30_00_305",
+                                  "7090061":  "it30_00_306",
+                                  "7090062":  "it30_00_307",
+                                  "7090063":  "it30_00_308",
+                                  "7090064":  "it30_00_309",
+                                  "7090065":  "it30_00_310",
+                                  "7090066":  "it30_00_311",
+                                  "7090067":  "it30_00_400",
+                                  "7090068":  "it30_00_401",
+                                  "7090069":  "it30_00_402",
+                                  "7090070":  "it30_00_403",
+                                  "7090071":  "it30_00_404",
+                                  "7090072":  "it30_00_405",
+                                  "7090073":  "it30_00_406",
+                                  "7090074":  "it30_00_407",
+                                  "7090075":  "it30_00_500",
+                                  "7090076":  "it30_00_501",
+                                  "7090077":  "it30_00_502",
+                                  "7090078":  "it30_00_503",
+                                  "7090079":  "it30_00_504",
+                                  "7090080":  "it30_00_505",
+                                  "7090081":  "it30_00_506",
+                                  "7090082":  "it30_00_507",
+                                  "7090083":  "it30_00_701",
+                                  "7090084":  "it30_00_702",
+                                  "7090085":  "it30_00_703",
+                                  "7090086":  "it30_00_704",
+                                  "7090087":  "it30_00_705",
+                                  "7090088":  "it30_00_706",
+                                  "7090089":  "it40_00_000",
+                                  "7090090":  "it40_01_000",
+                                  "7090091":  "it40_02_000",
+                                  "7090092":  "it40_03_000",
+                                  "7090093":  "it40_05_000",
+                                  "7090094":  "it40_20_001",
+                                  "7090095":  "it50_00_001",
+                                  "7090096":  "it50_00_002",
+                                  "7090097":  "it50_00_006",
+                                  "7090098":  "it50_00_012",
+                                  "7090099":  "it50_00_014",
+                                  "7090100":  "it50_00_017",
+                                  "7090101":  "it50_00_018",
+                                  "7090102":  "it60_00_002",
+                                  "7090103":  "it60_00_004",
+                                  "7090104":  "it60_00_013",
+                                  "7090105":  "it60_00_038",
+                                  "7090106":  "it60_00_039",
+                                  "7090107":  "it60_00_040",
+                                  "7090108":  "it60_00_041",
+                                  "7090109":  "it60_00_042",
+                                  "7090110":  "it60_00_045",
+                                  "7090111":  "it60_00_046",
+                                  "7090112":  "it60_00_047",
+                                  "7090113":  "it60_00_048",
+                                  "7090114":  "it60_00_049",
+                                  "7090115":  "it60_00_050",
+                                  "7090116":  "it60_00_051",
+                                  "7090117":  "it60_00_053",
+                                  "7090118":  "it60_00_055",
+                                  "7090119":  "it60_00_063",
+                                  "7090120":  "it60_00_064",
+                                  "7090121":  "it60_00_065",
+                                  "7090122":  "it60_00_067",
+                                  "7090123":  "it60_00_068",
+                                  "7090124":  "it60_00_069",
+                                  "7090125":  "it60_00_073",
+                                  "7090126":  "it60_00_074",
+                                  "7090127":  "it60_00_075",
+                                  "7090128":  "it60_00_076",
+                                  "7090129":  "it60_00_077",
+                                  "7090130":  "it60_00_080",
+                                  "7090131":  "it60_00_081",
+                                  "7090132":  "it60_00_082",
+                                  "7090133":  "it60_00_083",
+                                  "7090134":  "it60_00_084",
+                                  "7090135":  "it60_00_085",
+                                  "7090136":  "it60_00_086",
+                                  "7090137":  "it60_00_087",
+                                  "7090138":  "it60_00_088",
+                                  "7090139":  "it60_00_089",
+                                  "7090140":  "it60_00_090",
+                                  "7090141":  "it60_00_091",
+                                  "7090142":  "it60_00_092",
+                                  "7090143":  "it60_00_093",
+                                  "7090144":  "it60_00_094",
+                                  "7090145":  "it60_00_095",
+                                  "7090146":  "it60_00_096",
+                                  "7090147":  "it60_00_097",
+                                  "7090148":  "it60_00_098",
+                                  "7090149":  "it60_00_103",
+                                  "7090150":  "it60_00_104",
+                                  "7090151":  "it60_00_105",
+                                  "7090152":  "it60_00_107",
+                                  "7090153":  "it60_00_108",
+                                  "7090154":  "it60_00_109",
+                                  "7090155":  "it60_00_110",
+                                  "7090156":  "it60_00_111",
+                                  "7090157":  "it60_00_112",
+                                  "7090158":  "it60_00_113",
+                                  "7090159":  "it60_00_114",
+                                  "7090160":  "it60_00_115",
+                                  "7090161":  "it60_00_116",
+                                  "7090162":  "it60_00_117",
+                                  "7090163":  "it60_00_118",
+                                  "7090164":  "it60_00_119",
+                                  "7090165":  "it60_00_120",
+                                  "7090166":  "it60_00_121",
+                                  "7090167":  "it60_00_122",
+                                  "7090168":  "it70_01_000",
+                                  "7090169":  "it70_03_000",
+                                  "7090170":  "it99_00_001",
+                                  "7090171":  "it99_00_002",
+                                  "7090172":  "it99_00_004",
+                                  "7090173":  "it99_00_006",
+                                  "7090174":  "it99_00_007",
+                                  "7090175":  "it99_00_008",
+                                  "7090176":  "it99_00_009",
+                                  "7090177":  "it99_00_010",
+                                  "7090178":  "it99_01_000",
+                                  "7090179":  "it99_01_001",
+                                  "7090180":  "it99_02_002",
+                                  "7090181":  "it99_02_004",
+                                  "7090182":  "it99_05_000",
+                                  "7090183":  "it99_05_001",
+                                  "7090184":  "it99_06_000",
+                                  "7090185":  "it99_06_003",
+                                  "7090186":  "it99_06_004",
+                                  "7090187":  "it99_06_010",
+                                  "7090188":  "it99_07_001",
+                                  "7090189":  "it99_07_002",
+                                  "7090190":  "it99_07_003",
+                                  "7090191":  "it99_50_001",
+                                  "7090192":  "it99_50_003",
+                                  "7090193":  "it99_50_005",
+                                  "7090194":  "it99_50_006",
+                                  "7090195":  "it99_50_007",
+                                  "7090196":  "it99_50_008",
+                                  "7090197":  "it99_50_009",
+                                  "7090198":  "it99_50_010",
+                                  "7090199":  "it99_50_011"
+                              }
+}

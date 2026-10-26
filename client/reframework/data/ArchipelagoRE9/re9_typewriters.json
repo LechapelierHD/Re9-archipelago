@@ -1,0 +1,98 @@
+{
+    "maingame/chap3_03/chap3_03_gimmick/chap3_03_gimmick_unique/st30_021_gimmick_unique": {
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_021_Gimmick_Unique",
+        "ink_ribbon": true,
+        "key": "maingame/chap3_03/chap3_03_gimmick/chap3_03_gimmick_unique/st30_021_gimmick_unique",
+        "name": "Gm14_003",
+        "place_id": "Place_0212",
+        "scene": "Chap3_03",
+        "stage": "st30_021",
+        "x": -2.42,
+        "y": -8.12,
+        "z": 45.02
+    },
+    "maingame/chap3_03/chap3_03_gimmick/chap3_03_gimmick_unique/st30_070_gimmick_unique": {
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique",
+        "ink_ribbon": true,
+        "key": "maingame/chap3_03/chap3_03_gimmick/chap3_03_gimmick_unique/st30_070_gimmick_unique",
+        "name": "Gm14_003",
+        "place_id": "Place_0216",
+        "scene": "Chap3_03",
+        "stage": "st30_070",
+        "x": -36.09,
+        "y": -5.84,
+        "z": 67.15
+    },
+    "place::place_0201": {
+        "folder_path": "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_003_Gimmick_Unique",
+        "ink_ribbon": true,
+        "key": "place::place_0201",
+        "name": "Gm14_003",
+        "place_id": "Place_0201",
+        "scene": "Chap3_01",
+        "stage": "st30_003",
+        "x": 17.79,
+        "y": 8.02,
+        "z": 16.59
+    },
+    "place::place_0205": {
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_006_Gimmick_Common/Typewriter",
+        "ink_ribbon": true,
+        "key": "place::place_0205",
+        "name": "Gm14_003",
+        "place_id": "Place_0205",
+        "scene": "MainGame",
+        "stage": "st30_006",
+        "x": -7.77,
+        "y": 2.54,
+        "z": 44.52
+    },
+    "place::place_0206": {
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_039_Gimmick_Common/Typewriter",
+        "ink_ribbon": true,
+        "key": "place::place_0206",
+        "name": "Gm14_003",
+        "place_id": "Place_0206",
+        "scene": "MainGame",
+        "stage": "st30_039",
+        "x": -37.53,
+        "y": 3.14,
+        "z": 46.36
+    },
+    "place::place_0212": {
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_021_Gimmick_Unique",
+        "ink_ribbon": true,
+        "key": "place::place_0212",
+        "name": "Gm14_003",
+        "place_id": "Place_0212",
+        "scene": "MainGame",
+        "stage": "st30_021",
+        "x": -2.42,
+        "y": -8.12,
+        "z": 45.02
+    },
+    "place::place_0216": {
+        "folder_path": "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique",
+        "ink_ribbon": true,
+        "key": "place::place_0216",
+        "name": "Gm14_003",
+        "place_id": "Place_0216",
+        "scene": "MainGame",
+        "stage": "st30_070",
+        "x": -36.09,
+        "y": -5.84,
+        "z": 67.15
+    },
+    "place::place_0221": {
+        "folder_path": "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common/Typewriter",
+        "ink_ribbon": true,
+        "key": "place::place_0221",
+        "name": "Gm14_003",
+        "place_id": "Place_0221",
+        "scene": "MainGame",
+        "stage": "st30_066",
+        "x": 49.76,
+        "y": 8.09,
+        "z": 55.95
+    }
+}

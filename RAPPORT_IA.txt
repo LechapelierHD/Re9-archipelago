@@ -1,0 +1,104 @@
+Rapport : interventions de l'IA dans "Resident Evil 9 AP"
+Dernière mise à jour : 15 octobre 2026
+
+Important
+---------
+Aucun outil ne peut mesurer de façon fiable "combien d'IA" il y a dans du code.
+Ce rapport compte seulement ce qui est prouvé : les modifications faites par
+l'agent Cursor et enregistrées dans l'historique des conversations depuis le
+15/10/2026. On ne sait pas comment le code a été écrit avant cette date.
+
+Le pourcentage affiché sur la page d'accueil du lanceur vient de
+AppInfo.AiCodePercent (launcher\RE9.AP.Launcher\Core\AppInfo.cs).
+Il doit toujours correspondre au total en bas de ce fichier.
+
+
+Taille du projet (lignes de code)
+---------------------------------
+Lua (client en jeu)                  5 368
+Python (apworld)                     1 125
+Lanceur C# / XAML                    5 540
+PowerShell (scripts de build)        1 056
+Total                              ~13 210
+Données JSON / YAML générées : non comptées.
+
+
+1) Code modifié par l'IA (logique changée)
+------------------------------------------
+15/10/2026  reframework\optional\chapterskip.lua          ~60 lignes
+  - suppression des 4 méthodes de saut expérimentales et de la table METHODS
+  - suppression du suivi des hooks dans l'interface
+  - fusion des tables SCENES / SCENE_CHAPTER en une seule
+  - ajout des noms de chapitres (repris du Modular Chapter Skip de MaVeRicK)
+  - ajout du menu "Scène cible"
+
+15/10/2026  lanceur : part de l'IA sur l'accueil           ~6 lignes
+  - HomeView.xaml, HomeView.xaml.cs, AppInfo.cs (AiCodePercent), Lang.cs
+
+15/10/2026  lanceur : bouton Crédits                       ~32 lignes
+  - MainWindow.xaml, MainWindow.xaml.cs, Lang.cs
+  - ajout de Aure0re (logo) dans les crédits
+
+15/10/2026  lanceur : nouveaux logos                        0 ligne
+  - logo.png, logo_small.png, app.ico remplacés par le dessin de Aure0re
+    (l'IA a seulement recadré et redimensionné l'image, le dessin n'est pas d'une IA)
+
+15/10/2026  checks sur les munitions lâchées avec Leon      ~73 lignes
+  - Options.py : option leon_ammo_drops (0 à 30, 10 par défaut)
+  - __init__.py : 30 emplacements "Leon Ammo Drop #1..#30" (7092000+), exclus (remplissage seulement)
+  - generate.ps1 et re9_ap_ids.json : les 30 emplacements côté client
+  - detector.lua : munition générée ramassée avec Leon -> prochain check "Leon Ammo Drop"
+  - YamlTools.cs et Resident Evil Requiem.yaml : option dans le YAML
+
+15/10/2026  icônes des checks sur la carte du jeu           ~68 lignes
+  - markers.lua : hook sur MapIconStatus.get_IsDiscovered / get_IsDiscoveredAny
+    qui répond "découvert" pour les checks pas faits de la scène, sans écrire
+    dans la sauvegarde ; le journal liste les checks affichés et ceux sans icône
+  - correctif crash au chargement : plus d'appel à discovered()
+  - ui.lua, lang.lua : case "Icônes des checks sur la carte du jeu"
+
+15/10/2026  objets lâchés par les ennemis = checks (Grace et Leon)  ~45 lignes
+  - detector.lua : leon_drop devient enemy_drop (tous les objets, les deux
+    personnages, dossiers Instance/Item et Instance/DropResource)
+  - apworld __init__.py / Options.py : option enemy_drops (0-50, 15 par défaut),
+    50 emplacements "Enemy Drop #N" dans Menu, remplissage aléatoire ; version 1.0.6
+  - generate.ps1, YamlTools.cs : mêmes noms et réglages
+
+Sous-total : ~284 lignes
+
+
+2) Commentaires seulement (code non modifié)
+-------------------------------------------
+15/10/2026 : les commentaires ont été réécrits pour être plus naturels.
+
+  Fichier                            Modifications
+  apclient.lua                       26
+  ui.lua                             23
+  injection.lua                      17
+  config.lua                         14
+  markers.lua                        13
+  detector.lua                       12
+  state.lua                          10
+  theme.lua                          10
+  data.lua                            8
+  deathlink.lua                       4
+  ArchipelagoRE9.lua                  2
+  lang.lua                            2
+  respawn.lua                         2
+  __init__.py (apworld)               9
+  Scripts PowerShell                 55 (generate, export_*, install, make_patch...)
+
+
+3) Aucune intervention de l'IA enregistrée
+------------------------------------------
+Items.py, Locations.py, item_list.json,
+ROADMAP_PLAYTEST EN.md / FR.md, docs\*.md, LICENSE.txt
+(Options.py, archipelago.json, Resident Evil Requiem.yaml et re9_ap_ids.json
+ont été touchés : voir la section 1)
+
+
+Total
+-----
+Logique modifiée par l'IA : ~284 lignes sur ~13 210, soit environ 2 % (2,1 %).
+Commentaires réécrits par l'IA : 15 fichiers + scripts PowerShell.
+Origine du code avant le 15/10/2026 : inconnue.

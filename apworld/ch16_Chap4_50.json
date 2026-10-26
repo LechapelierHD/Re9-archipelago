@@ -1,0 +1,277 @@
+{
+    "numero":  16,
+    "chapitre":  "Chap4_50",
+    "nombre":  18,
+    "items":  [
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_BattleArea",
+                      "position":  {
+                                       "x":  -112.25,
+                                       "y":  -186.41,
+                                       "z":  -425.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_BattleArea/it00_01_000@-112.3,-186.4,-425.3",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_BattleArea"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleHigh",
+                      "position":  {
+                                       "x":  1.91,
+                                       "y":  -18.04,
+                                       "z":  -280.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh/it00_00_000@1.9,-18.0,-280.1",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleHigh",
+                      "position":  {
+                                       "x":  -23,
+                                       "y":  -10.56,
+                                       "z":  -261.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh/it50_00_014@-23.0,-10.6,-261.0",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleHigh",
+                      "position":  {
+                                       "x":  -8.2,
+                                       "y":  -16.94,
+                                       "z":  -276.09
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh/it40_05_000_01@-8.2,-16.9,-276.1",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleHigh"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow",
+                      "position":  {
+                                       "x":  -121.2,
+                                       "y":  -183.53,
+                                       "z":  -399.37
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/it00_00_000@-121.2,-183.5,-399.4",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow",
+                      "position":  {
+                                       "x":  -99.47,
+                                       "y":  -180.8,
+                                       "z":  -374.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/it00_00_000@-99.5,-180.8,-374.8",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow",
+                      "position":  {
+                                       "x":  -86.32,
+                                       "y":  -178.77,
+                                       "z":  -368.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/it50_00_014@-86.3,-178.8,-368.2",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow",
+                      "position":  {
+                                       "x":  -80.37,
+                                       "y":  -177.97,
+                                       "z":  -350.37
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/it50_00_002@-80.4,-178.0,-350.4",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow/Itembox",
+                      "position":  {
+                                       "x":  -70.52,
+                                       "y":  -172.43,
+                                       "z":  -345.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox/it40_02_000@-70.5,-172.4,-345.1",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow/Itembox",
+                      "position":  {
+                                       "x":  -70.52,
+                                       "y":  -172.43,
+                                       "z":  -345.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox/it00_01_000@-70.5,-172.4,-345.1",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow/Itembox",
+                      "position":  {
+                                       "x":  -70.52,
+                                       "y":  -172.43,
+                                       "z":  -345.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox/it40_05_000@-70.5,-172.4,-345.1",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleLow/Itembox",
+                      "position":  {
+                                       "x":  -91.62,
+                                       "y":  -173.31,
+                                       "z":  -365.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox/it99_50_008@-91.6,-173.3,-365.3",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleLow/Itembox"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle",
+                      "position":  {
+                                       "x":  -8.76,
+                                       "y":  -58.94,
+                                       "z":  -339.3
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/it00_00_000@-8.8,-58.9,-339.3",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle"
+                  },
+                  {
+                      "nom":  "Gunpowder (Small)",
+                      "item_id":  "it50_00_001",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle",
+                      "position":  {
+                                       "x":  -0.69,
+                                       "y":  -59.19,
+                                       "z":  -328.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/it50_00_001@-0.7,-59.2,-328.3",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle",
+                      "position":  {
+                                       "x":  -4.33,
+                                       "y":  -58.36,
+                                       "z":  -325.78
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/it50_00_002_01@-4.3,-58.4,-325.8",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle/Itembox",
+                      "position":  {
+                                       "x":  -23.7,
+                                       "y":  -60,
+                                       "z":  -330.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox/it40_00_000@-23.7,-60.0,-330.5",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle/Itembox",
+                      "position":  {
+                                       "x":  -23.7,
+                                       "y":  -60,
+                                       "z":  -330.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox/it40_03_000@-23.7,-60.0,-330.5",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_50_Item/Item_LargeHoleMiddle/Itembox",
+                      "position":  {
+                                       "x":  -23.7,
+                                       "y":  -60,
+                                       "z":  -330.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox/it40_01_000@-23.7,-60.0,-330.5",
+                      "dossier":  "MainGame/Chap4_50/Chap4_50_Item/Item_LargeHoleMiddle/Itembox"
+                  }
+              ]
+}

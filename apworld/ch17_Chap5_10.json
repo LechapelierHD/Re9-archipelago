@@ -1,0 +1,202 @@
+{
+    "numero":  17,
+    "chapitre":  "Chap5_10",
+    "nombre":  13,
+    "items":  [
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -119.27,
+                                       "y":  53.92,
+                                       "z":  42.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it00_00_000@-119.3,53.9,42.1",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -113.49,
+                                       "y":  54.06,
+                                       "z":  78.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it00_00_000@-113.5,54.1,78.3",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -131.87,
+                                       "y":  54.47,
+                                       "z":  69.97
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it50_00_014@-131.9,54.5,70.0",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -97.37,
+                                       "y":  54.46,
+                                       "z":  20.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it50_00_014@-97.4,54.5,20.2",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -126.47,
+                                       "y":  58.68,
+                                       "z":  24.9
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it00_01_000@-126.5,58.7,24.9",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -95.04,
+                                       "y":  57.83,
+                                       "z":  31.53
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it00_01_000@-95.0,57.8,31.5",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -43.55,
+                                       "y":  51.39,
+                                       "z":  6.71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it00_01_000@-43.6,51.4,6.7",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Mortal Edge",
+                      "item_id":  "it10_20_006",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -44.69,
+                                       "y":  51.39,
+                                       "z":  9.93
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it10_20_006@-44.7,51.4,9.9",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -158.77,
+                                       "y":  57.93,
+                                       "z":  71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it50_00_002@-158.8,57.9,71.0",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item",
+                      "position":  {
+                                       "x":  -121.32,
+                                       "y":  54.16,
+                                       "z":  96.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/it99_50_008@-121.3,54.2,96.1",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item/LMD",
+                      "position":  {
+                                       "x":  -61.99,
+                                       "y":  57.66,
+                                       "z":  10.69
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/LMD/it70_05_000@-62.0,57.7,10.7",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item/LMD"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item/LMD",
+                      "position":  {
+                                       "x":  -41.51,
+                                       "y":  51.39,
+                                       "z":  -6.41
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/LMD/it70_05_000@-41.5,51.4,-6.4",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item/LMD"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap5_10_Item/LMD",
+                      "position":  {
+                                       "x":  -48.09,
+                                       "y":  52.73,
+                                       "z":  -5.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap5_10/Chap5_10_Item/LMD/it00_01_000@-48.1,52.7,-5.4",
+                      "dossier":  "MainGame/Chap5_10/Chap5_10_Item/LMD"
+                  }
+              ]
+}

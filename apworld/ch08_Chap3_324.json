@@ -1,0 +1,2662 @@
+{
+    "numero":  8,
+    "chapitre":  "Chap3_324",
+    "nombre":  177,
+    "items":  [
+                  {
+                      "nom":  "Moon Quartz",
+                      "item_id":  "it60_00_049",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_049@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Star Quartz",
+                      "item_id":  "it60_00_050",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_050@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Sun Quartz",
+                      "item_id":  "it60_00_048",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_048@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "East Wing Keycard",
+                      "item_id":  "it60_00_046",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common",
+                      "position":  {
+                                       "x":  -23.84,
+                                       "y":  2.28,
+                                       "z":  32.09
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/it60_00_046@-23.8,2.3,32.1",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -21.2,
+                                       "y":  3.08,
+                                       "z":  38.98
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_005@-21.2,3.1,39.0",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -21.04,
+                                       "y":  3.08,
+                                       "z":  39.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_005@-21.0,3.1,39.6",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -20.9,
+                                       "y":  3.08,
+                                       "z":  39.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_005@-20.9,3.1,39.2",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  30,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.48,
+                                       "y":  3.49,
+                                       "z":  38.69
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it40_00_000@-25.5,3.5,38.7",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Hip Pouch",
+                      "item_id":  "it99_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.44,
+                                       "y":  3.43,
+                                       "z":  39.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_01_000@-25.4,3.4,39.4",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Override Manual",
+                      "item_id":  "it99_50_011",
+                      "categorie":  "Flag",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.5,
+                                       "y":  3.51,
+                                       "z":  36.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_50_011@-25.5,3.5,36.8",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "R.I.P. Knife",
+                      "item_id":  "it10_20_007",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.55,
+                                       "y":  3.53,
+                                       "z":  37.37
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it10_20_007@-25.6,3.5,37.4",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Stabilizer",
+                      "item_id":  "it99_02_004",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.5,
+                                       "y":  3.5,
+                                       "z":  38.72
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_004@-25.5,3.5,38.7",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Steroids",
+                      "item_id":  "it99_02_002",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker",
+                      "position":  {
+                                       "x":  -25.5,
+                                       "y":  3.52,
+                                       "z":  37.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker/it99_02_002@-25.5,3.5,37.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_031_Gimmick_Common/CoinLocker"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  60,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_034_Gimmick_Common",
+                      "position":  {
+                                       "x":  -39.27,
+                                       "y":  2.64,
+                                       "z":  32.2
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_034_Gimmick_Common/it70_01_000@-39.3,2.6,32.2",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_034_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common",
+                      "position":  {
+                                       "x":  -42.83,
+                                       "y":  2.63,
+                                       "z":  31.94
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common/it70_01_000@-42.8,2.6,31.9",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common",
+                      "position":  {
+                                       "x":  -42.81,
+                                       "y":  2.63,
+                                       "z":  32.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common/it70_01_000@-42.8,2.6,32.9",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_035_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_044_Gimmick_Common",
+                      "position":  {
+                                       "x":  -49.04,
+                                       "y":  7.65,
+                                       "z":  11.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_044_Gimmick_Common/it70_01_000@-49.0,7.7,11.3",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_044_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Moon Quartz",
+                      "item_id":  "it60_00_049",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_047_Gimmick_Common",
+                      "position":  {
+                                       "x":  -23.98,
+                                       "y":  8.78,
+                                       "z":  38.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_047_Gimmick_Common/it60_00_049@-24.0,8.8,38.3",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_047_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_057_Gimmick_Common",
+                      "position":  {
+                                       "x":  22.96,
+                                       "y":  2.62,
+                                       "z":  19.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_057_Gimmick_Common/it70_01_000@23.0,2.6,19.4",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_057_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  60,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_059_Gimmick_Common",
+                      "position":  {
+                                       "x":  41.47,
+                                       "y":  2.62,
+                                       "z":  22.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_059_Gimmick_Common/it70_01_000@41.5,2.6,22.4",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_059_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Leatherbound Notebook",
+                      "item_id":  "it60_00_122",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common",
+                      "position":  {
+                                       "x":  50.82,
+                                       "y":  8.63,
+                                       "z":  60.68
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common/it60_00_122@50.8,8.6,60.7",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Sun Quartz",
+                      "item_id":  "it60_00_048",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common",
+                      "position":  {
+                                       "x":  50.89,
+                                       "y":  8.79,
+                                       "z":  60.84
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common/it60_00_048@50.9,8.8,60.8",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_066_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common",
+                      "position":  {
+                                       "x":  18.11,
+                                       "y":  16.15,
+                                       "z":  30.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common/it00_01_000@18.1,16.2,30.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common",
+                      "position":  {
+                                       "x":  24.61,
+                                       "y":  16.02,
+                                       "z":  30.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common/it40_01_000_01_01_02@24.6,16.0,30.5",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Common/st30_076_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Double Helix Model",
+                      "item_id":  "it60_00_086",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Gimmick/Chap3_324_Gimmick_Unique/st30_088_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -30,
+                                       "y":  -1.41,
+                                       "z":  -35.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Unique/st30_088_Gimmick_Unique/it60_00_086@-30.0,-1.4,-35.3",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Gimmick/Chap3_324_Gimmick_Unique/st30_088_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  -9.51,
+                                       "y":  14.59,
+                                       "z":  40.83
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it40_02_000@-9.5,14.6,40.8",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  -3.95,
+                                       "y":  -0.14,
+                                       "z":  14.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it99_50_005@-4.0,-0.1,14.4",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  0.74,
+                                       "y":  -2.35,
+                                       "z":  -27.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it00_00_000@0.7,-2.4,-27.1",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  0.48,
+                                       "y":  -3.75,
+                                       "z":  -19.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it10_20_003@0.5,-3.8,-20.0",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Severed Hand",
+                      "item_id":  "it60_00_084",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  21.47,
+                                       "y":  1.95,
+                                       "z":  51.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it60_00_084@21.5,2.0,51.1",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Star Quartz",
+                      "item_id":  "it60_00_050",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_324_Item",
+                      "position":  {
+                                       "x":  20.78,
+                                       "y":  1.81,
+                                       "z":  51.71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/Chap3_324_Item/it60_00_050@20.8,1.8,51.7",
+                      "dossier":  "MainGame/Chap3_324/Chap3_324_Item"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  52.21,
+                                       "y":  3.39,
+                                       "z":  41.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it99_50_005@52.2,3.4,41.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  -68.03,
+                                       "y":  1.59,
+                                       "z":  69.02
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it40_00_000@-68.0,1.6,69.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Lockpick",
+                      "item_id":  "it99_50_006",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  -34.3,
+                                       "y":  2.29,
+                                       "z":  48.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it99_50_006@-34.3,2.3,48.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  -32.63,
+                                       "y":  8.49,
+                                       "z":  30.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it10_20_003@-32.6,8.5,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  -44.14,
+                                       "y":  9.79,
+                                       "z":  55.65
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it50_00_002@-44.1,9.8,55.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd",
+                      "position":  {
+                                       "x":  -19.43,
+                                       "y":  7.82,
+                                       "z":  35.68
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/it50_00_002@-19.4,7.8,35.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd"
+                  },
+                  {
+                      "nom":  "Blood Specimen (Polymerized)",
+                      "item_id":  "it60_00_120",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  27.55,
+                                       "y":  3.2,
+                                       "z":  48.29
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it60_00_120@27.6,3.2,48.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  26.73,
+                                       "y":  3.2,
+                                       "z":  48.26
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it20_00_003@26.7,3.2,48.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  70.51,
+                                       "y":  2.77,
+                                       "z":  25.96
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY/it99_50_003@70.5,2.8,26.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/クラフト系",
+                      "position":  {
+                                       "x":  48.23,
+                                       "y":  2.28,
+                                       "z":  25.58
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系/it00_00_000_01@48.2,2.3,25.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/クラフト系",
+                      "position":  {
+                                       "x":  69.42,
+                                       "y":  2.54,
+                                       "z":  22.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系/it00_00_000_01@69.4,2.5,22.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/クラフト系"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  26.04,
+                                       "y":  3.19,
+                                       "z":  48.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it40_02_000@26.0,3.2,48.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Empty Injector",
+                      "item_id":  "it50_00_018",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  48,
+                                       "y":  3.24,
+                                       "z":  20.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_018@48.0,3.2,20.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  9,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  50.86,
+                                       "y":  3.28,
+                                       "z":  21.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it40_00_000@50.9,3.3,21.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  12,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  65.3,
+                                       "y":  3.24,
+                                       "z":  25.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it40_00_000@65.3,3.2,25.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  47.8,
+                                       "y":  3.91,
+                                       "z":  21.74
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002_02@47.8,3.9,21.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  55.85,
+                                       "y":  3.16,
+                                       "z":  9.4
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002@55.9,3.2,9.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  66.54,
+                                       "y":  3.2,
+                                       "z":  22.24
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it50_00_002@66.5,3.2,22.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  46.38,
+                                       "y":  3.48,
+                                       "z":  18.92
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it99_06_004@46.4,3.5,18.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  52.34,
+                                       "y":  3.02,
+                                       "z":  24.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it99_06_004@52.3,3.0,24.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/東2nd/直置き系",
+                      "position":  {
+                                       "x":  61.7,
+                                       "y":  3.28,
+                                       "z":  6.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系/it99_06_004@61.7,3.3,7.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/東2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd",
+                      "position":  {
+                                       "x":  -19.28,
+                                       "y":  3.14,
+                                       "z":  32.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/it99_50_005@-19.3,3.1,32.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -45.26,
+                                       "y":  3.61,
+                                       "z":  30.97
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_50_003_01@-45.3,3.6,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -37.66,
+                                       "y":  3.02,
+                                       "z":  47.08
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_50_003_01@-37.7,3.0,47.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -62.35,
+                                       "y":  2.13,
+                                       "z":  8.2
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012@-62.4,2.1,8.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -62.31,
+                                       "y":  2.13,
+                                       "z":  8.54
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012@-62.3,2.1,8.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -30.45,
+                                       "y":  8.58,
+                                       "z":  34.13
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012@-30.5,8.6,34.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  48.82,
+                                       "y":  8.09,
+                                       "z":  55.84
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it50_00_012@48.8,8.1,55.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -33.13,
+                                       "y":  7.94,
+                                       "z":  37.38
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY/it99_06_004@-33.1,7.9,37.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/クラフト系",
+                      "position":  {
+                                       "x":  -58.71,
+                                       "y":  2.19,
+                                       "z":  7.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系/it50_00_002_02@-58.7,2.2,8.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/クラフト系",
+                      "position":  {
+                                       "x":  -42.25,
+                                       "y":  3.61,
+                                       "z":  34.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系/it50_00_002_02@-42.3,3.6,34.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/クラフト系",
+                      "position":  {
+                                       "x":  -36.07,
+                                       "y":  3.25,
+                                       "z":  51.71
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系/it50_00_002_02@-36.1,3.3,51.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/クラフト系"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -42.62,
+                                       "y":  3.13,
+                                       "z":  28.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it40_02_000@-42.6,3.1,28.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -38.72,
+                                       "y":  8.08,
+                                       "z":  33.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it20_00_003@-38.7,8.1,33.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -21.29,
+                                       "y":  3.57,
+                                       "z":  14.64
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it20_00_003@-21.3,3.6,14.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Empty Injector",
+                      "item_id":  "it50_00_018",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -28.49,
+                                       "y":  8.48,
+                                       "z":  31.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it50_00_018@-28.5,8.5,31.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -41.45,
+                                       "y":  3.28,
+                                       "z":  42.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it00_00_000_01@-41.5,3.3,42.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -40.34,
+                                       "y":  8.09,
+                                       "z":  22.94
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it00_00_000_01@-40.3,8.1,22.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -31.43,
+                                       "y":  3.3,
+                                       "z":  18.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it40_00_000@-31.4,3.3,18.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/2nd以降/西2nd/直置き系",
+                      "position":  {
+                                       "x":  -65.15,
+                                       "y":  2.29,
+                                       "z":  11.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系/it99_06_004@-65.2,2.3,11.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/2nd以降/西2nd/直置き系"
+                  },
+                  {
+                      "nom":  "B934",
+                      "item_id":  "it10_00_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  -15.73,
+                                       "y":  2.29,
+                                       "z":  14.18
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it10_00_003@-15.7,2.3,14.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Blood Collector",
+                      "item_id":  "it99_06_000",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  40.07,
+                                       "y":  3.13,
+                                       "z":  21.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it99_06_000@40.1,3.1,21.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Blood Specimen (Converged)",
+                      "item_id":  "it60_00_065",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  30.12,
+                                       "y":  3.41,
+                                       "z":  48.41
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_065@30.1,3.4,48.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Blood Specimen (Denatured)",
+                      "item_id":  "it60_00_064",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  36.31,
+                                       "y":  3.12,
+                                       "z":  21.7
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_064@36.3,3.1,21.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Blood Specimen (Reversible)",
+                      "item_id":  "it60_00_067",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  47.69,
+                                       "y":  3.26,
+                                       "z":  19.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_067@47.7,3.3,19.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Corrosive",
+                      "item_id":  "it60_00_063",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  28.14,
+                                       "y":  8.22,
+                                       "z":  50.44
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_063@28.1,8.2,50.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "ID Wristband (Level 1)",
+                      "item_id":  "it60_00_055",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  43.99,
+                                       "y":  7.31,
+                                       "z":  48.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_055@44.0,7.3,48.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Pantry Key",
+                      "item_id":  "it60_00_069",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  -28.53,
+                                       "y":  2.29,
+                                       "z":  42.93
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_069@-28.5,2.3,42.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Pencil",
+                      "item_id":  "it60_00_004",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  -20.94,
+                                       "y":  8.06,
+                                       "z":  43.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it60_00_004@-20.9,8.1,43.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "S\u0026S M232",
+                      "item_id":  "it10_00_001",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/キーアイテム系",
+                      "position":  {
+                                       "x":  -32.24,
+                                       "y":  8.13,
+                                       "z":  11.01
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系/it10_00_001@-32.2,8.1,11.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/キーアイテム系"
+                  },
+                  {
+                      "nom":  "Compensator",
+                      "item_id":  "it30_00_507",
+                      "categorie":  "Attachment",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -9.93,
+                                       "y":  14.57,
+                                       "z":  41.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it30_00_507@-9.9,14.6,41.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Connoisseur Charm",
+                      "item_id":  "it30_00_702",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -45.41,
+                                       "y":  3.42,
+                                       "z":  35.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it30_00_702@-45.4,3.4,35.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  15,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -34.66,
+                                       "y":  8.41,
+                                       "z":  31.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_00_000@-34.7,8.4,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -31.47,
+                                       "y":  3.42,
+                                       "z":  17.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_00_000@-31.5,3.4,17.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  40,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -31.4,
+                                       "y":  3.42,
+                                       "z":  17.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_03_000@-31.4,3.4,17.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  20,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -29.49,
+                                       "y":  8.4,
+                                       "z":  28.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_03_000@-29.5,8.4,28.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -31.53,
+                                       "y":  3.42,
+                                       "z":  16.96
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it00_01_000@-31.5,3.4,17.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Mixed Herb (G+G)",
+                      "item_id":  "it00_00_100",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -35.11,
+                                       "y":  8.42,
+                                       "z":  31.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it00_00_100@-35.1,8.4,31.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -45.4,
+                                       "y":  3.41,
+                                       "z":  36.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_05_000@-45.4,3.4,36.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  3,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -34.91,
+                                       "y":  8.41,
+                                       "z":  31.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_05_000@-34.9,8.4,31.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -45.39,
+                                       "y":  3.41,
+                                       "z":  36.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_01_000@-45.4,3.4,36.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -31.42,
+                                       "y":  3.42,
+                                       "z":  16.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_01_000@-31.4,3.4,16.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -29.46,
+                                       "y":  8.39,
+                                       "z":  28.25
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it40_01_000@-29.5,8.4,28.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -45.36,
+                                       "y":  3.41,
+                                       "z":  35.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it99_50_008@-45.4,3.4,35.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/トマホーク棚",
+                      "position":  {
+                                       "x":  -29.47,
+                                       "y":  8.4,
+                                       "z":  28.04
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚/it99_50_008@-29.5,8.4,28.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/トマホーク棚"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CASUAL_MODERN_ONLY",
+                      "position":  {
+                                       "x":  -15.83,
+                                       "y":  2.29,
+                                       "z":  28.42
+                                   },
+                      "difficulte":  "ID0010, ID0020",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CASUAL_MODERN_ONLY/it00_00_000_01@-15.8,2.3,28.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CASUAL_MODERN_ONLY"
+                  },
+                  {
+                      "nom":  "Blood Specimen (Converged)",
+                      "item_id":  "it60_00_065",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -29.38,
+                                       "y":  8.58,
+                                       "z":  33.22
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it60_00_065@-29.4,8.6,33.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Empty Injector",
+                      "item_id":  "it50_00_018",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -29.94,
+                                       "y":  3.21,
+                                       "z":  36.07
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_018@-29.9,3.2,36.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -14.87,
+                                       "y":  3.18,
+                                       "z":  25.6
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_50_003@-14.9,3.2,25.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -9.59,
+                                       "y":  2.78,
+                                       "z":  42.13
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_50_003@-9.6,2.8,42.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -18.44,
+                                       "y":  3.04,
+                                       "z":  41.76
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012@-18.4,3.0,41.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -18.19,
+                                       "y":  3.04,
+                                       "z":  41.85
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012@-18.2,3.0,41.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -10.02,
+                                       "y":  2.78,
+                                       "z":  42.15
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012@-10.0,2.8,42.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -9.8,
+                                       "y":  2.78,
+                                       "z":  42.14
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it50_00_012@-9.8,2.8,42.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Transfusion Bag",
+                      "item_id":  "it99_06_004",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -20.99,
+                                       "y":  3.21,
+                                       "z":  14.88
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY/it99_06_004@-21.0,3.2,14.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/引き出し系",
+                      "position":  {
+                                       "x":  -46.71,
+                                       "y":  2.28,
+                                       "z":  7.14
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系/it40_00_000@-46.7,2.3,7.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/引き出し系",
+                      "position":  {
+                                       "x":  24.76,
+                                       "y":  2.25,
+                                       "z":  19.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系/it40_00_000@24.8,2.3,19.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/引き出し系",
+                      "position":  {
+                                       "x":  -23.41,
+                                       "y":  3.5,
+                                       "z":  12.9
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系/it10_20_003@-23.4,3.5,12.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Rare Metal",
+                      "item_id":  "it50_00_006",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/引き出し系",
+                      "position":  {
+                                       "x":  -41.16,
+                                       "y":  2.28,
+                                       "z":  22.06
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系/it50_00_006@-41.2,2.3,22.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Rare Metal",
+                      "item_id":  "it50_00_006",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/引き出し系",
+                      "position":  {
+                                       "x":  -21.15,
+                                       "y":  7.28,
+                                       "z":  31.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系/it50_00_006@-21.2,7.3,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/敵が持っている",
+                      "position":  {
+                                       "x":  -23.74,
+                                       "y":  7.28,
+                                       "z":  8.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/敵が持っている/it99_50_005@-23.7,7.3,8.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/敵が持っている"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -49.31,
+                                       "y":  12.3,
+                                       "z":  10.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-49.3,12.3,10.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -35.18,
+                                       "y":  3.2,
+                                       "z":  16.1
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-35.2,3.2,16.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -27.26,
+                                       "y":  8.08,
+                                       "z":  6.36
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-27.3,8.1,6.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -26.32,
+                                       "y":  3.29,
+                                       "z":  33.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-26.3,3.3,33.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -14.69,
+                                       "y":  8.08,
+                                       "z":  25.5
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-14.7,8.1,25.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -10.4,
+                                       "y":  1.78,
+                                       "z":  45.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-10.4,1.8,45.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -6.97,
+                                       "y":  8.28,
+                                       "z":  45.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@-7.0,8.3,45.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  43.58,
+                                       "y":  8.75,
+                                       "z":  60.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it00_00_000_01@43.6,8.8,60.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -51,
+                                       "y":  13.19,
+                                       "z":  20.99
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it40_00_000@-51.0,13.2,21.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  2,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -23.77,
+                                       "y":  3.14,
+                                       "z":  15.21
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it40_00_000@-23.8,3.1,15.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -19.41,
+                                       "y":  8.04,
+                                       "z":  25.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it40_00_000@-19.4,8.0,25.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/直置き系",
+                      "position":  {
+                                       "x":  -41.96,
+                                       "y":  3.18,
+                                       "z":  26
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系/it10_20_003@-42.0,3.2,26.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/直置き系"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  100,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  -43.93,
+                                       "y":  2.96,
+                                       "z":  19.27
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@-43.9,3.0,19.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  70,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  -21.7,
+                                       "y":  7.29,
+                                       "z":  45.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@-21.7,7.3,46.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  70,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  -16.37,
+                                       "y":  0.8,
+                                       "z":  52.8
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@-16.4,0.8,52.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  60,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  -15.55,
+                                       "y":  2.29,
+                                       "z":  10.98
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@-15.6,2.3,11.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  30,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  30.3,
+                                       "y":  2.28,
+                                       "z":  44.83
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@30.3,2.3,44.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  80,
+                      "zone":  "ChapX_JCT001_Item/ホール＋西1st/血液",
+                      "position":  {
+                                       "x":  42.71,
+                                       "y":  7.28,
+                                       "z":  42.24
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液/it70_01_000@42.7,7.3,42.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/ホール＋西1st/血液"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -38.68,
+                                       "y":  3.18,
+                                       "z":  8.46
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@-38.7,3.2,8.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -27.96,
+                                       "y":  7.97,
+                                       "z":  15.93
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@-28.0,8.0,15.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -20.57,
+                                       "y":  3.13,
+                                       "z":  40.15
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@-20.6,3.1,40.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -19.81,
+                                       "y":  3.39,
+                                       "z":  33.45
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@-19.8,3.4,33.5",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -5.38,
+                                       "y":  2.64,
+                                       "z":  43.85
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@-5.4,2.6,43.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  20.56,
+                                       "y":  3.46,
+                                       "z":  41.27
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@20.6,3.5,41.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  20.58,
+                                       "y":  3.46,
+                                       "z":  41.13
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@20.6,3.5,41.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  31.06,
+                                       "y":  8.14,
+                                       "z":  39.23
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@31.1,8.1,39.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  32.73,
+                                       "y":  3.07,
+                                       "z":  39.68
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@32.7,3.1,39.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  48.59,
+                                       "y":  2.75,
+                                       "z":  41.62
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_005@48.6,2.8,41.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Hip Pouch",
+                      "item_id":  "it99_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -31.56,
+                                       "y":  3.28,
+                                       "z":  19.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_01_000@-31.6,3.3,19.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Lockpick",
+                      "item_id":  "it99_50_006",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -42.38,
+                                       "y":  8.08,
+                                       "z":  29.38
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_006@-42.4,8.1,29.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Lockpick",
+                      "item_id":  "it99_50_006",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  56.56,
+                                       "y":  8.18,
+                                       "z":  57.69
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_50_006@56.6,8.2,57.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Stakeout Takeout Charm",
+                      "item_id":  "it99_07_001",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系",
+                      "position":  {
+                                       "x":  -43.07,
+                                       "y":  3.33,
+                                       "z":  27.84
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/it99_07_001@-43.1,3.3,27.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -40.61,
+                                       "y":  2.65,
+                                       "z":  19.91
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@-40.6,2.7,19.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -31.44,
+                                       "y":  3.35,
+                                       "z":  29.98
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@-31.4,3.4,30.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  22.91,
+                                       "y":  3.1,
+                                       "z":  19.93
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@22.9,3.1,19.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  29.91,
+                                       "y":  2.31,
+                                       "z":  45.04
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@29.9,2.3,45.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  4,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  35.39,
+                                       "y":  2.45,
+                                       "z":  30.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@35.4,2.5,30.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  55.89,
+                                       "y":  7.62,
+                                       "z":  49.93
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it99_50_005@55.9,7.6,49.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Pantry Key",
+                      "item_id":  "it60_00_069",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  28.65,
+                                       "y":  3.63,
+                                       "z":  48.33
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY/it60_00_069@28.7,3.6,48.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/収集系/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "B934",
+                      "item_id":  "it10_00_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  23.19,
+                                       "y":  3.42,
+                                       "z":  42.36
+                                   },
+                      "difficulte":  "ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it10_00_003_01@23.2,3.4,42.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  28.81,
+                                       "y":  3.01,
+                                       "z":  46.08
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it99_50_003_01@28.8,3.0,46.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  40.56,
+                                       "y":  3.03,
+                                       "z":  27.41
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it50_00_012@40.6,3.0,27.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  28.87,
+                                       "y":  8.29,
+                                       "z":  49.24
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it99_50_008@28.9,8.3,49.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  52.31,
+                                       "y":  3.39,
+                                       "z":  42.84
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY/it99_50_008@52.3,3.4,42.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/クラフト系",
+                      "position":  {
+                                       "x":  27.02,
+                                       "y":  3.2,
+                                       "z":  48.42
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/クラフト系/it50_00_002_02@27.0,3.2,48.4",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/クラフト系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  -34.9,
+                                       "y":  8.12,
+                                       "z":  30.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it40_00_000@-34.9,8.1,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Rare Metal",
+                      "item_id":  "it50_00_006",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  16.77,
+                                       "y":  2.33,
+                                       "z":  42.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_006@16.8,2.3,42.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  23,
+                                       "y":  2.28,
+                                       "z":  42.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_002@23.0,2.3,42.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  26.46,
+                                       "y":  2.9,
+                                       "z":  38.66
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_002@26.5,2.9,38.7",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  43.1,
+                                       "y":  2.28,
+                                       "z":  16.13
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_002@43.1,2.3,16.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  46.51,
+                                       "y":  7.28,
+                                       "z":  43.97
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_002@46.5,7.3,44.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/引き出し系",
+                      "position":  {
+                                       "x":  56.33,
+                                       "y":  7.33,
+                                       "z":  51.89
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系/it50_00_002@56.3,7.3,51.9",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/引き出し系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/敵が持っている1",
+                      "position":  {
+                                       "x":  32.43,
+                                       "y":  7.29,
+                                       "z":  53.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1/it99_50_005@32.4,7.3,53.8",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1"
+                  },
+                  {
+                      "nom":  "Eye Spy Charm",
+                      "item_id":  "it99_07_003",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/敵が持っている1",
+                      "position":  {
+                                       "x":  35.39,
+                                       "y":  2.45,
+                                       "z":  30.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1/it99_07_003@35.4,2.5,30.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/敵が持っている1",
+                      "position":  {
+                                       "x":  23.39,
+                                       "y":  2.36,
+                                       "z":  27.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1/it00_01_000@23.4,2.4,27.1",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/敵が持っている1",
+                      "position":  {
+                                       "x":  32.76,
+                                       "y":  7.28,
+                                       "z":  43.19
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1/it00_01_000@32.8,7.3,43.2",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/敵が持っている1"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/直置き系",
+                      "position":  {
+                                       "x":  14,
+                                       "y":  2.28,
+                                       "z":  21.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系/it00_00_000_01@14.0,2.3,21.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  8,
+                      "zone":  "ChapX_JCT001_Item/東1st/直置き系",
+                      "position":  {
+                                       "x":  27.99,
+                                       "y":  3.19,
+                                       "z":  48.26
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系/it40_00_000@28.0,3.2,48.3",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系"
+                  },
+                  {
+                      "nom":  "Hemolytic Injector",
+                      "item_id":  "it99_50_001",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/東1st/直置き系",
+                      "position":  {
+                                       "x":  26.94,
+                                       "y":  3.14,
+                                       "z":  24.96
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系/it99_50_001@26.9,3.1,25.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/東1st/直置き系"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  -34.23,
+                                       "y":  8.38,
+                                       "z":  7.62
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@-34.2,8.4,7.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  -34.23,
+                                       "y":  8.38,
+                                       "z":  7.62
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@-34.2,8.4,7.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  -34.23,
+                                       "y":  8.38,
+                                       "z":  7.62
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@-34.2,8.4,7.6",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  25.66,
+                                       "y":  3.25,
+                                       "z":  31.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@25.7,3.3,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  25.66,
+                                       "y":  3.25,
+                                       "z":  31.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@25.7,3.3,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "ChapX_JCT001_Item/金庫",
+                      "position":  {
+                                       "x":  25.66,
+                                       "y":  3.25,
+                                       "z":  31.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_324/ChapX_JCT001_Item/金庫/it99_50_005@25.7,3.3,31.0",
+                      "dossier":  "MainGame/Chap3_324/ChapX_JCT001_Item/金庫"
+                  }
+              ]
+}

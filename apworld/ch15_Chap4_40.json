@@ -1,0 +1,352 @@
+{
+    "numero":  15,
+    "chapitre":  "Chap4_40",
+    "nombre":  23,
+    "items":  [
+                  {
+                      "nom":  "Locker Key",
+                      "item_id":  "it60_00_110",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_412_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -70.92,
+                                       "y":  1.84,
+                                       "z":  -15.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_412_Gimmick_Unique/it60_00_110@-70.9,1.8,-15.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_412_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Power Shades Charm",
+                      "item_id":  "it30_00_706",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_422_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -71.45,
+                                       "y":  4.97,
+                                       "z":  -17.99
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_422_Gimmick_Unique/it30_00_706@-71.5,5.0,-18.0",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Gimmick/Chap4_40_Gimmick_Unique/st40_422_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Cute Bear Charm",
+                      "item_id":  "it30_00_703",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item",
+                      "position":  {
+                                       "x":  -63.94,
+                                       "y":  -5.67,
+                                       "z":  1.07
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/it30_00_703@-63.9,-5.7,1.1",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item"
+                  },
+                  {
+                      "nom":  "it30_00_707",
+                      "item_id":  "it30_00_707",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item",
+                      "position":  {
+                                       "x":  7.34,
+                                       "y":  -0.86,
+                                       "z":  -73.7
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/it30_00_707@7.3,-0.9,-73.7",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item"
+                  },
+                  {
+                      "nom":  "Mechanic Jack",
+                      "item_id":  "it60_00_090",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item",
+                      "position":  {
+                                       "x":  -61.57,
+                                       "y":  4.4,
+                                       "z":  -12.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/it60_00_090@-61.6,4.4,-13.0",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item"
+                  },
+                  {
+                      "nom":  "S.T.A.R.S. Emblem Charm",
+                      "item_id":  "it30_00_705",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item",
+                      "position":  {
+                                       "x":  -65.25,
+                                       "y":  0.43,
+                                       "z":  -1.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/it30_00_705@-65.3,0.4,-1.4",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item"
+                  },
+                  {
+                      "nom":  "it70_05_000",
+                      "item_id":  "it70_05_000",
+                      "categorie":  "?",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/LMD",
+                      "position":  {
+                                       "x":  10.78,
+                                       "y":  -0.77,
+                                       "z":  -122.84
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/LMD/it70_05_000@10.8,-0.8,-122.8",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/LMD"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/LMD",
+                      "position":  {
+                                       "x":  -1.29,
+                                       "y":  -0.35,
+                                       "z":  -159.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/LMD/it00_01_000@-1.3,-0.4,-159.2",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/LMD"
+                  },
+                  {
+                      "nom":  "W870 Police",
+                      "item_id":  "it10_01_002",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/GunShop",
+                      "position":  {
+                                       "x":  -17.09,
+                                       "y":  0.24,
+                                       "z":  -86.78
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/GunShop/it10_01_002@-17.1,0.2,-86.8",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/GunShop"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/Spawner",
+                      "position":  {
+                                       "x":  4.79,
+                                       "y":  -0.55,
+                                       "z":  -112.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Spawner/it40_03_000@4.8,-0.6,-112.4",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Spawner"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/Spawner",
+                      "position":  {
+                                       "x":  -8.43,
+                                       "y":  -0.8,
+                                       "z":  -134.27
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Spawner/it40_05_000@-8.4,-0.8,-134.3",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Spawner"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  60,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  -13.23,
+                                       "y":  -0.61,
+                                       "z":  -104.67
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it40_03_000@-13.2,-0.6,-104.7",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  -13,
+                                       "y":  -0.62,
+                                       "z":  -104.55
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it00_01_000@-13.0,-0.6,-104.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  11.01,
+                                       "y":  0.22,
+                                       "z":  -112.55
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it00_01_000@11.0,0.2,-112.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  -17.08,
+                                       "y":  0.25,
+                                       "z":  -101.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it40_05_000@-17.1,0.3,-101.2",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  -50.45,
+                                       "y":  6.81,
+                                       "z":  -8.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it40_01_000@-50.5,6.8,-8.2",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_40_Item/newFolder/Street",
+                      "position":  {
+                                       "x":  -17.14,
+                                       "y":  0.25,
+                                       "z":  -101.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Street/it40_01_000@-17.1,0.3,-101.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Street"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  5,
+                      "zone":  "Chap4_40_Item/newFolder/Sub",
+                      "position":  {
+                                       "x":  -54.28,
+                                       "y":  -0.48,
+                                       "z":  6.56
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub/it40_00_000@-54.3,-0.5,6.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/newFolder/Sub",
+                      "position":  {
+                                       "x":  -53.33,
+                                       "y":  -5.05,
+                                       "z":  1.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub/it00_01_000@-53.3,-5.1,1.5",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "Chap4_40_Item/newFolder/Sub",
+                      "position":  {
+                                       "x":  -56.77,
+                                       "y":  -4.72,
+                                       "z":  7.58
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub/it40_05_000@-56.8,-4.7,7.6",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_40_Item/newFolder/Sub/West2F/OperationConferenceRoom",
+                      "position":  {
+                                       "x":  -76.33,
+                                       "y":  0.1,
+                                       "z":  -11.01
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub/West2F/OperationConferenceRoom/it40_00_000@-76.3,0.1,-11.0",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/newFolder/Sub/West2F/OperationConferenceRoom"
+                  },
+                  {
+                      "nom":  "Silver Finish Scope",
+                      "item_id":  "it30_00_401",
+                      "categorie":  "Attachment",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/Parking",
+                      "position":  {
+                                       "x":  -56.76,
+                                       "y":  -4.75,
+                                       "z":  6.87
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/Parking/it30_00_401@-56.8,-4.8,6.9",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/Parking"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_40_Item/Parking",
+                      "position":  {
+                                       "x":  -58.92,
+                                       "y":  -5.16,
+                                       "z":  4.5
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_40/Chap4_40_Item/Parking/it99_50_008@-58.9,-5.2,4.5",
+                      "dossier":  "MainGame/Chap4_40/Chap4_40_Item/Parking"
+                  }
+              ]
+}

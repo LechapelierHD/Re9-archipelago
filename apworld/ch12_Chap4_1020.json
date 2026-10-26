@@ -1,0 +1,172 @@
+{
+    "numero":  12,
+    "chapitre":  "Chap4_1020",
+    "nombre":  11,
+    "items":  [
+                  {
+                      "nom":  "BSAA Emblem Charm",
+                      "item_id":  "it30_00_704",
+                      "categorie":  "Charm",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/st40_100_Item_Common",
+                      "position":  {
+                                       "x":  -81.88,
+                                       "y":  -2.46,
+                                       "z":  -410.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/st40_100_Item_Common/it30_00_704@-81.9,-2.5,-410.4",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/st40_100_Item_Common"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/st40_100_Item_Common",
+                      "position":  {
+                                       "x":  -82.73,
+                                       "y":  -2.12,
+                                       "z":  -409.34
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/st40_100_Item_Common/it99_50_008@-82.7,-2.1,-409.3",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/st40_100_Item_Common"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/ホテル",
+                      "position":  {
+                                       "x":  -66.68,
+                                       "y":  -2.77,
+                                       "z":  -395.35
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/ホテル/it00_01_000@-66.7,-2.8,-395.4",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/ホテル"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/ホテル",
+                      "position":  {
+                                       "x":  -78.21,
+                                       "y":  -2.45,
+                                       "z":  -390.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/ホテル/it50_00_002@-78.2,-2.5,-390.6",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/ホテル"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  4,
+                      "zone":  "Chap4_1020_Item/ホテル",
+                      "position":  {
+                                       "x":  -69.45,
+                                       "y":  -3.21,
+                                       "z":  -386.12
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/ホテル/it40_01_000@-69.5,-3.2,-386.1",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/ホテル"
+                  },
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  -63.1,
+                                       "y":  -17.02,
+                                       "z":  -359.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it40_02_000@-63.1,-17.0,-359.3",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  13.67,
+                                       "y":  -16.12,
+                                       "z":  -342.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it00_00_000@13.7,-16.1,-342.8",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  },
+                  {
+                      "nom":  "Machine Gun Ammo",
+                      "item_id":  "it40_03_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  -63.19,
+                                       "y":  -17.03,
+                                       "z":  -358.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it40_03_000@-63.2,-17.0,-359.0",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  },
+                  {
+                      "nom":  "Rifle Ammo",
+                      "item_id":  "it40_05_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  -63.25,
+                                       "y":  -17.02,
+                                       "z":  -359.52
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it40_05_000@-63.3,-17.0,-359.5",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  -59.34,
+                                       "y":  -2.3,
+                                       "z":  -386.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it50_00_002@-59.3,-2.3,-387.0",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap4_1020_Item/地下鉄",
+                      "position":  {
+                                       "x":  -59.37,
+                                       "y":  -2.23,
+                                       "z":  -385.44
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap4_1020/Chap4_1020_Item/地下鉄/it99_50_008@-59.4,-2.2,-385.4",
+                      "dossier":  "MainGame/Chap4_1020/Chap4_1020_Item/地下鉄"
+                  }
+              ]
+}

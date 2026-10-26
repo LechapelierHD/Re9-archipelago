@@ -1,0 +1,232 @@
+{
+    "numero":  3,
+    "chapitre":  "Chap3_01",
+    "nombre":  15,
+    "items":  [
+                  {
+                      "nom":  "Fuse",
+                      "item_id":  "it60_00_040",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_001_Gimmick_Common",
+                      "position":  {
+                                       "x":  12.15,
+                                       "y":  8.61,
+                                       "z":  38.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_001_Gimmick_Common/it60_00_040@12.2,8.6,38.5",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_001_Gimmick_Common"
+                  },
+                  {
+                      "nom":  "Moon Quartz",
+                      "item_id":  "it60_00_049",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_049@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Star Quartz",
+                      "item_id":  "it60_00_050",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_050@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Sun Quartz",
+                      "item_id":  "it60_00_048",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door",
+                      "position":  {
+                                       "x":  0.01,
+                                       "y":  5.93,
+                                       "z":  23.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door/it60_00_048@0.0,5.9,23.5",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Common/st30_005_Gimmick_Common/Door"
+                  },
+                  {
+                      "nom":  "Fuse",
+                      "item_id":  "it60_00_040",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_003_Gimmick_Unique",
+                      "position":  {
+                                       "x":  8.48,
+                                       "y":  8.86,
+                                       "z":  15.16
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_003_Gimmick_Unique/it60_00_040@8.5,8.9,15.2",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_003_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique",
+                      "position":  {
+                                       "x":  50.64,
+                                       "y":  7.28,
+                                       "z":  35.6
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique/it20_00_003@50.6,7.3,35.6",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Screwdriver",
+                      "item_id":  "it60_00_039",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique",
+                      "position":  {
+                                       "x":  51.27,
+                                       "y":  9.77,
+                                       "z":  33.63
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique/it60_00_039@51.3,9.8,33.6",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Gimmick/Chap3_01_Gimmick_Unique/st30_004_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Antique Coin",
+                      "item_id":  "it99_50_005",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  47.51,
+                                       "y":  9.29,
+                                       "z":  28.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it99_50_005@47.5,9.3,28.8",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Cherub Key",
+                      "item_id":  "it60_00_013",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  13.95,
+                                       "y":  7.99,
+                                       "z":  44.83
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it60_00_013@14.0,8.0,44.8",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  12.79,
+                                       "y":  8.44,
+                                       "z":  19.18
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it20_00_003@12.8,8.4,19.2",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  48.94,
+                                       "y":  8.11,
+                                       "z":  22.86
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it20_00_003@48.9,8.1,22.9",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  47.64,
+                                       "y":  8.5,
+                                       "z":  28.88
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it00_00_000@47.6,8.5,28.9",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Lighter",
+                      "item_id":  "it99_05_000",
+                      "categorie":  "Flag",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  8.86,
+                                       "y":  8.47,
+                                       "z":  15.68
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it99_05_000@8.9,8.5,15.7",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Med Injector",
+                      "item_id":  "it00_01_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item",
+                      "position":  {
+                                       "x":  42.39,
+                                       "y":  7.29,
+                                       "z":  35.73
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/it00_01_000@42.4,7.3,35.7",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_01_Item/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  13.93,
+                                       "y":  8.08,
+                                       "z":  14.69
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_01/Chap3_01_Item/CLASSIC_INSANITY_ONLY/it99_50_003@13.9,8.1,14.7",
+                      "dossier":  "MainGame/Chap3_01/Chap3_01_Item/CLASSIC_INSANITY_ONLY"
+                  }
+              ]
+}

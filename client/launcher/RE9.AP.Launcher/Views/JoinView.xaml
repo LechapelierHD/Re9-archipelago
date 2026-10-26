@@ -1,0 +1,155 @@
+<UserControl x:Class="RE9.AP.Launcher.Views.JoinView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+    <StackPanel x:Name="Step1">
+      <TextBlock Style="{StaticResource PageTitleStyle}" Text="Configurer les réglages Archipelago" />
+      <TextBlock Style="{StaticResource BodyTextStyle}" Text="Archipelago appelle ces réglages un YAML : un petit fichier texte qui décrit comment se joue ton RE Requiem (difficulté, objets clés). Chaque joueur d'un multimonde en a un pour son jeu, et ton hôte a besoin du tien avant de pouvoir générer le multimonde." />
+      <TextBlock Style="{StaticResource BodyTextStyle}" Text="Enregistre ou copie ton fichier de réglages et envoie-le à la personne qui héberge le multimonde (généralement sur Discord). Elle générera le multimonde et te renverra l'adresse de la partie. Déjà envoyé ? Continue directement." />
+
+      <Border Style="{StaticResource SectionRuleStyle}">
+        <TextBlock Style="{StaticResource SectionHeaderStyle}" Text="À QUOI JOUES-TU" />
+      </Border>
+      <StackPanel Margin="14,0,0,0">
+        <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Nom de slot" />
+        <TextBox x:Name="SlotBox" Style="{StaticResource FieldBoxStyle}" MaxLength="16" TextChanged="SlotBox_TextChanged" />
+        <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="560" HorizontalAlignment="Left" Text="Ton nom de joueur (16 caractères max.). Tu taperas ce nom exact pour rejoindre : les majuscules comptent." />
+      </StackPanel>
+
+      <Border Style="{StaticResource SectionRuleStyle}">
+        <TextBlock Style="{StaticResource SectionHeaderStyle}" Text="CONTENU INCLUS" />
+      </Border>
+      <TextBlock Style="{StaticResource BodyTextStyle}" Text="Choisis ce que deviennent les objets clés (clés, cartes, fusibles, quartz, briquet, crochet...)." />
+      <WrapPanel>
+        <ToggleButton x:Name="TileVanilla" Style="{StaticResource ContentTileStyle}" Click="TileVanilla_Click">
+          <StackPanel>
+            <Grid>
+              <TextBlock Style="{StaticResource TileTitleStyle}" Text="Campagne principale" />
+              <TextBlock x:Name="CheckVanilla" HorizontalAlignment="Right" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" Foreground="{DynamicResource AccentBrush}" Text="&#xE73E;" />
+            </Grid>
+            <TextBlock Style="{StaticResource TileBodyStyle}" Text="L'histoire de Grace, randomisée par Archipelago. Chaque objet ramassé devient un check. Les objets clés restent à leur place : impossible de rester bloqué." />
+            <TextBlock x:Name="CountVanilla" Style="{StaticResource TileCountStyle}" />
+          </StackPanel>
+        </ToggleButton>
+        <ToggleButton x:Name="TileShuffled" Style="{StaticResource ContentTileStyle}" Click="TileShuffled_Click">
+          <StackPanel>
+            <Grid>
+              <TextBlock Style="{StaticResource TileTitleStyle}" Text="Objets clés mélangés" />
+              <TextBlock x:Name="CheckShuffled" HorizontalAlignment="Right" FontFamily="Segoe Fluent Icons, Segoe MDL2 Assets" Foreground="{DynamicResource AccentBrush}" Text="&#xE73E;" />
+            </Grid>
+            <TextBlock Style="{StaticResource TileBodyStyle}" Text="Les objets clés entrent aussi dans le pool : ils peuvent venir d'autres mondes et arrivent dans le coffre. Plus de checks, plus d'échanges." />
+            <TextBlock x:Name="CountShuffled" Style="{StaticResource TileCountStyle}" />
+          </StackPanel>
+        </ToggleButton>
+        <ToggleButton Style="{StaticResource ContentTileStyle}" IsEnabled="False">
+          <StackPanel>
+            <TextBlock Style="{StaticResource TileTitleStyle}" Text="DLC 2027 coming soon" />
+            <TextBlock Style="{StaticResource TileBodyStyle}" Text="Le scénariste du jeu, Haris Orkin, a confirmé que l'extension se concentrera sur Oswell E. Spencer (l'un des cofondateurs d'Umbrella), afin d'explorer plus en profondeur son histoire et ses agissements dans le prolongement de l'intrigue du jeu." />
+          </StackPanel>
+        </ToggleButton>
+      </WrapPanel>
+      <TextBlock x:Name="TotalText" FontWeight="SemiBold" Margin="0,4,0,0" />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Margin="0,8,0,6" Text="Difficulté" />
+      <ListBox x:Name="DifficultyPicker" Style="{StaticResource SegmentedPickerStyle}" SelectionChanged="DifficultyPicker_SelectionChanged">
+        <ListBoxItem Content="Casual" />
+        <ListBoxItem Content="Standard" />
+        <ListBoxItem Content="Classique" />
+        <ListBoxItem Content="Insanity" />
+      </ListBox>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="La difficulté à laquelle tu joues vraiment. Classique et Insanity ajoutent quelques emplacements (pièces, objets placés seulement dans ces modes), donc elle doit correspondre à ta sauvegarde. Ne change pas de difficulté en cours de partie." />
+
+      <Border Style="{StaticResource SectionRuleStyle}">
+        <TextBlock Style="{StaticResource SectionHeaderStyle}" Text="OPTIONS" />
+      </Border>
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Margin="0,0,0,6" Text="Drops ennemis" />
+      <DockPanel Width="420" HorizontalAlignment="Left">
+        <TextBlock x:Name="EnemyDropsValue" DockPanel.Dock="Right" MinWidth="28" Margin="10,0,0,0" VerticalAlignment="Center" />
+        <Slider x:Name="EnemyDropsSlider" Minimum="0" Maximum="50" TickFrequency="1" IsSnapToTickEnabled="True" VerticalAlignment="Center" ValueChanged="EnemyDrops_Changed" />
+      </DockPanel>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="Chaque ennemi tué ou pot cassé envoie le check suivant, dans l'ordre. Seulement du filler. 0 les coupe." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Supply Box" />
+      <ListBox x:Name="SupplyBoxPicker" Style="{StaticResource SegmentedPickerStyle}" SelectionChanged="SupplyBoxPicker_SelectionChanged">
+        <ListBoxItem Content="Désactivé" />
+        <ListBoxItem Content="Activé" />
+      </ListBox>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="Le marchand se débloque après avoir fini le jeu une fois. Désactivé : ses 11 lignes d'achat ne sont pas des checks. Activé : Archipelago choisit l'objet de chaque ligne." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Death Link" />
+      <ListBox x:Name="DeathLinkPicker" Style="{StaticResource SegmentedPickerStyle}" SelectionChanged="DeathLinkPicker_SelectionChanged">
+        <ListBoxItem Content="Désactivé" />
+        <ListBoxItem Content="Activé" />
+      </ListBox>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="Quand tu meurs, les autres joueurs qui ont Death Link meurent aussi, et l'inverse." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Équilibrage de la progression" />
+      <ListBox x:Name="BalancePicker" Style="{StaticResource SegmentedPickerStyle}" SelectionChanged="BalancePicker_SelectionChanged">
+        <ListBoxItem Content="Désactivé" />
+        <ListBoxItem Content="Normal" />
+        <ListBoxItem Content="Extrême" />
+      </ListBox>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="Plus c'est haut, plus Archipelago avance les objets importants pour éviter de rester bloqué au début." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Accessibilité" />
+      <ListBox x:Name="AccessPicker" Style="{StaticResource SegmentedPickerStyle}" SelectionChanged="AccessPicker_SelectionChanged">
+        <ListBoxItem Content="Complète" />
+        <ListBoxItem Content="Minimale" />
+      </ListBox>
+      <TextBlock Style="{StaticResource HintTextStyle}" MaxWidth="640" HorizontalAlignment="Left" Text="Complète : tout est accessible. Minimale : seul ce qui mène à la victoire est garanti." />
+    </StackPanel>
+
+    <StackPanel x:Name="Step2" Visibility="Collapsed">
+      <TextBlock Style="{StaticResource PageTitleStyle}" Text="Envoyer ton YAML à l'hôte" />
+      <TextBlock Style="{StaticResource BodyTextStyle}" Text="Ton fichier de réglages est prêt. Envoie-le à la personne qui héberge (Discord, mail...). Si c'est toi qui héberges, il est déjà ajouté à la liste de la page « Héberger un multimonde »." />
+      <Border Style="{StaticResource CardStyle}">
+        <StackPanel>
+          <TextBlock FontWeight="SemiBold" Text="Fichier enregistré" />
+          <TextBlock x:Name="YamlPathText" Margin="0,4,0,10" Foreground="{DynamicResource SubtleTextBrush}" TextWrapping="Wrap" />
+          <WrapPanel>
+            <Button Style="{StaticResource InlinePrimaryButtonStyle}" Content="Enregistrer sous..." Click="SaveAs_Click" />
+            <Button Style="{StaticResource InlineButtonStyle}" Content="Copier le texte" Click="Copy_Click" />
+            <Button Style="{StaticResource InlineButtonStyle}" Content="Afficher dans l'explorateur" Click="Reveal_Click" />
+          </WrapPanel>
+        </StackPanel>
+      </Border>
+      <TextBox x:Name="YamlPreview" FontFamily="Consolas" FontSize="13" IsReadOnly="True" TextWrapping="NoWrap" HorizontalScrollBarVisibility="Auto" Padding="10" MinHeight="240" />
+    </StackPanel>
+
+    <StackPanel x:Name="Step3" Visibility="Collapsed">
+      <TextBlock Style="{StaticResource PageTitleStyle}" Text="Rejoindre la partie" />
+      <TextBlock Style="{StaticResource BodyTextStyle}" Text="L'hôte t'a renvoyé l'adresse de la room (par exemple archipelago.gg:38281). Le lanceur la teste, installe le client dans RE Requiem et enregistre la connexion : le jeu se connectera tout seul." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Adresse de la room" />
+      <TextBox x:Name="ServerBox" Style="{StaticResource FieldBoxStyle}" />
+      <TextBlock Style="{StaticResource HintTextStyle}" Text="Une commande « /connect archipelago.gg:38281 » collée telle quelle fonctionne aussi." />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Nom de slot" />
+      <TextBox x:Name="JoinSlotBox" Style="{StaticResource FieldBoxStyle}" MaxLength="16" />
+      <TextBlock Style="{StaticResource FieldLabelStyle}" Text="Mot de passe" />
+      <PasswordBox x:Name="PasswordBox" Width="420" HorizontalAlignment="Left" Padding="6,5" Background="{DynamicResource ControlBackgroundBrush}" Foreground="{DynamicResource TextBrush}" BorderBrush="{DynamicResource SubtleBorderBrush}" CaretBrush="{DynamicResource TextBrush}" />
+      <TextBlock Style="{StaticResource HintTextStyle}" Text="Laisse vide si la room n'en a pas." />
+      <WrapPanel Margin="0,16,0,0">
+        <Button x:Name="TestButton" Style="{StaticResource InlineButtonStyle}" Content="Tester la connexion" Click="Test_Click" />
+      </WrapPanel>
+      <Border x:Name="ProbeBanner" Style="{StaticResource BannerStyle}" Visibility="Collapsed" Margin="0,6,0,0">
+        <TextBlock x:Name="ProbeText" TextWrapping="Wrap" />
+      </Border>
+      <Border x:Name="GameWarning" Style="{StaticResource BannerStyle}" Background="{DynamicResource WarningBackgroundBrush}" BorderBrush="{DynamicResource WarningBorderBrush}" Visibility="Collapsed">
+        <StackPanel>
+          <TextBlock x:Name="GameWarningText" Foreground="{DynamicResource WarningTextBrush}" TextWrapping="Wrap" />
+          <Button Style="{StaticResource InlineButtonStyle}" Margin="0,8,0,0" HorizontalAlignment="Left" Content="Ouvrir l'état de la configuration" Click="OpenSetup_Click" />
+        </StackPanel>
+      </Border>
+    </StackPanel>
+
+    <StackPanel x:Name="Step4" Visibility="Collapsed">
+      <TextBlock Style="{StaticResource PageTitleStyle}" Text="Tout est prêt !" />
+      <Border Style="{StaticResource BannerStyle}" Background="{DynamicResource SuccessBackgroundBrush}" BorderBrush="{DynamicResource SuccessBorderBrush}">
+        <TextBlock x:Name="DoneText" Foreground="{DynamicResource SuccessTextBrush}" TextWrapping="Wrap" FontWeight="SemiBold" />
+      </Border>
+      <Border Style="{StaticResource CardStyle}">
+        <StackPanel>
+          <TextBlock Style="{StaticResource StepTitleStyle}" Text="En jeu" />
+          <TextBlock Style="{StaticResource BodyTextStyle}" Margin="0,8,0,0" Text="1. Lance RE Requiem depuis Steam (ou le bouton ci-dessous). Le client se connecte tout seul à la room." />
+          <TextBlock Style="{StaticResource BodyTextStyle}" Text="2. Attends la notification « Connecté » en haut à droite avant de ramasser quoi que ce soit : le client doit connaître la liste de tes checks." />
+          <TextBlock Style="{StaticResource BodyTextStyle}" Text="3. Sur un emplacement Archipelago, l'objet d'origine est remplacé par le check. Les objets reçus arrivent dans le coffre." />
+          <TextBlock Style="{StaticResource BodyTextStyle}" Text="4. Touche Insert : fenêtre « Archipelago - Resident Evil Requiem » (connexion, progression par chapitre, messages, victoire)." />
+        </StackPanel>
+      </Border>
+    </StackPanel>
+  </Grid>
+</UserControl>

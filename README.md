@@ -41,6 +41,17 @@ may be found in other games.
   (or their items go to the item box when offline). Save before skipping.
 - **`resident_evil_requiem` apworld**: the Archipelago world used to generate games.
 
+## Source code
+
+The source of the project is this repository.
+
+- `apworld/` — Archipelago world (Python)
+- `client/reframework/` — in-game Lua client
+- `client/launcher/` — C# launcher
+- `client/native/` — lua-apclientpp
+
+The playable client stays on the site: https://lechapelierhd.github.io/Re9-AP-site/
+
 <a id="screenshots"></a>
 
 ## Screenshots
@@ -184,6 +195,17 @@ objets peuvent être trouvés dans d'autres jeux.
   chapitres. Les checks des chapitres sautés sont envoyés
   (ou leurs objets vont au coffre hors connexion). Sauvegarde avant de sauter.
 - **apworld `resident_evil_requiem`** : le monde Archipelago pour générer les parties.
+
+## Code source
+
+Le code du projet est ce dépôt.
+
+- `apworld/` — monde Archipelago (Python)
+- `client/reframework/` — client Lua en jeu
+- `client/launcher/` — lanceur C#
+- `client/native/` — lua-apclientpp
+
+Le client jouable reste sur le site : https://lechapelierhd.github.io/Re9-AP-site/
 
 ## Captures d'écran
 

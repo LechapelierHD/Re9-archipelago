@@ -1,0 +1,997 @@
+{
+    "numero":  7,
+    "chapitre":  "Chap3_03",
+    "nombre":  66,
+    "items":  [
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_017_Gimmick_Unique",
+                      "position":  {
+                                       "x":  8.37,
+                                       "y":  -7.86,
+                                       "z":  49.28
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_017_Gimmick_Unique/it60_00_038@8.4,-7.9,49.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_017_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_018_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -15.79,
+                                       "y":  -7.21,
+                                       "z":  46.85
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_018_Gimmick_Unique/it60_00_038@-15.8,-7.2,46.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_018_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_020_Gimmick_Unique",
+                      "position":  {
+                                       "x":  16.17,
+                                       "y":  -7.86,
+                                       "z":  33.08
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_020_Gimmick_Unique/it60_00_038@16.2,-7.9,33.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_020_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique",
+                      "position":  {
+                                       "x":  8.58,
+                                       "y":  -8,
+                                       "z":  35.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique/it60_00_038@8.6,-8.0,35.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique",
+                      "position":  {
+                                       "x":  8.58,
+                                       "y":  -8,
+                                       "z":  35.68
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique/it60_00_038@8.6,-8.0,35.7",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique",
+                      "position":  {
+                                       "x":  8.58,
+                                       "y":  -8,
+                                       "z":  35.86
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique/it60_00_038@8.6,-8.0,35.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_022_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -8.58,
+                                       "y":  -8.62,
+                                       "z":  61.79
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique/it60_00_038@-8.6,-8.6,61.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -8.54,
+                                       "y":  -8.62,
+                                       "z":  62.04
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique/it60_00_038@-8.5,-8.6,62.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_023_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -41.9,
+                                       "y":  -7.85,
+                                       "z":  38.22
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique/it60_00_038@-41.9,-7.9,38.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Raccoon Roundup Map (Rhodes Hill)",
+                      "item_id":  "it99_00_008",
+                      "categorie":  "Map",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -33.3,
+                                       "y":  -8.13,
+                                       "z":  30.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique/it99_00_008@-33.3,-8.1,31.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_027_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_028_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -19.05,
+                                       "y":  -7.85,
+                                       "z":  34.19
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_028_Gimmick_Unique/it60_00_038@-19.1,-7.9,34.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_028_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Joint Plug",
+                      "item_id":  "it60_00_038",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique",
+                      "position":  {
+                                       "x":  -39.08,
+                                       "y":  -5.35,
+                                       "z":  73.78
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique/it60_00_038@-39.1,-5.4,73.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Gimmick/Chap3_03_Gimmick_Unique/st30_070_Gimmick_Unique"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -42.65,
+                                       "y":  -8.99,
+                                       "z":  37.58
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it20_00_003@-42.7,-9.0,37.6",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Empty Bottle",
+                      "item_id":  "it20_00_003",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  1.16,
+                                       "y":  -8.92,
+                                       "z":  46.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it20_00_003@1.2,-8.9,46.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Empty Injector",
+                      "item_id":  "it50_00_018",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -10.21,
+                                       "y":  -8.26,
+                                       "z":  32.88
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_018@-10.2,-8.3,32.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -41.37,
+                                       "y":  -6.49,
+                                       "z":  65.52
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it00_00_000@-41.4,-6.5,65.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -29.75,
+                                       "y":  -9.03,
+                                       "z":  73.6
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it00_00_000@-29.8,-9.0,73.6",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -6.38,
+                                       "y":  -14.49,
+                                       "z":  65.99
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it00_00_000@-6.4,-14.5,66.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -1.38,
+                                       "y":  -9.01,
+                                       "z":  52.29
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it00_00_000@-1.4,-9.0,52.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  9.42,
+                                       "y":  -9.01,
+                                       "z":  40.11
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it00_00_000@9.4,-9.0,40.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -52.3,
+                                       "y":  -5.36,
+                                       "z":  72.13
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@-52.3,-5.4,72.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  15,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -45.7,
+                                       "y":  -8.18,
+                                       "z":  67.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@-45.7,-8.2,67.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -43.04,
+                                       "y":  -7.94,
+                                       "z":  48.26
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@-43.0,-7.9,48.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  8,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -37.93,
+                                       "y":  -8.18,
+                                       "z":  73.49
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@-37.9,-8.2,73.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -33.2,
+                                       "y":  -8.13,
+                                       "z":  31.14
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@-33.2,-8.1,31.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  6,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  9.98,
+                                       "y":  -8.27,
+                                       "z":  60.17
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it40_00_000@10.0,-8.3,60.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Hip Pouch",
+                      "item_id":  "it99_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -50.03,
+                                       "y":  -5.55,
+                                       "z":  70.94
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it99_01_000@-50.0,-5.6,70.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -43.66,
+                                       "y":  -9.01,
+                                       "z":  45.54
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-43.7,-9.0,45.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -42.05,
+                                       "y":  -6.5,
+                                       "z":  73.73
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-42.1,-6.5,73.7",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  30,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -40.51,
+                                       "y":  -9.01,
+                                       "z":  33.46
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-40.5,-9.0,33.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  30,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -39.79,
+                                       "y":  -9.01,
+                                       "z":  50.65
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-39.8,-9.0,50.7",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -35.66,
+                                       "y":  -6.49,
+                                       "z":  65.98
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-35.7,-6.5,66.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -27.02,
+                                       "y":  -9.01,
+                                       "z":  31.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-27.0,-9.0,32.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  40,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -18.48,
+                                       "y":  -9.01,
+                                       "z":  31.41
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-18.5,-9.0,31.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -14.69,
+                                       "y":  -16.3,
+                                       "z":  63.3
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-14.7,-16.3,63.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -13.08,
+                                       "y":  -16.3,
+                                       "z":  62.12
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-13.1,-16.3,62.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -12.95,
+                                       "y":  -16.3,
+                                       "z":  64.8
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-13.0,-16.3,64.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -11.56,
+                                       "y":  -16.3,
+                                       "z":  59.43
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-11.6,-16.3,59.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -10.79,
+                                       "y":  -16.3,
+                                       "z":  61.81
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-10.8,-16.3,61.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -9.26,
+                                       "y":  -16.3,
+                                       "z":  62.22
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-9.3,-16.3,62.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  70,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -7.75,
+                                       "y":  -9.01,
+                                       "z":  32.42
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-7.8,-9.0,32.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  30,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -6.39,
+                                       "y":  -9.81,
+                                       "z":  63.12
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@-6.4,-9.8,63.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  60,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  0.88,
+                                       "y":  -9.03,
+                                       "z":  44.76
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@0.9,-9.0,44.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  3.88,
+                                       "y":  -9.01,
+                                       "z":  31.94
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@3.9,-9.0,31.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Infected Blood",
+                      "item_id":  "it70_01_000",
+                      "categorie":  "Procedure",
+                      "quantite":  50,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  7.93,
+                                       "y":  -9.02,
+                                       "z":  59.32
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it70_01_000@7.9,-9.0,59.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Lockpick",
+                      "item_id":  "it99_50_006",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -40.14,
+                                       "y":  -9.02,
+                                       "z":  27.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it99_50_006@-40.1,-9.0,27.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Lockpick",
+                      "item_id":  "it99_50_006",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  13.76,
+                                       "y":  -9.01,
+                                       "z":  45.03
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it99_50_006@13.8,-9.0,45.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -39.15,
+                                       "y":  -8.34,
+                                       "z":  52.65
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it10_20_003@-39.2,-8.3,52.7",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Makeshift Knife",
+                      "item_id":  "it10_20_003",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -37.78,
+                                       "y":  -8.58,
+                                       "z":  37.02
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it10_20_003@-37.8,-8.6,37.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Molotov Cocktail",
+                      "item_id":  "it20_00_002",
+                      "categorie":  "SubWeapon",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -41.22,
+                                       "y":  -8.18,
+                                       "z":  73.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it20_00_002@-41.2,-8.2,73.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Rare Metal",
+                      "item_id":  "it50_00_006",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -38.88,
+                                       "y":  -7.78,
+                                       "z":  39.57
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_006@-38.9,-7.8,39.6",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Rare Metal",
+                      "item_id":  "it50_00_006",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  18.63,
+                                       "y":  -7.8,
+                                       "z":  57.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_006@18.6,-7.8,57.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -34.75,
+                                       "y":  -8.1,
+                                       "z":  29.61
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_002@-34.8,-8.1,29.6",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -21.82,
+                                       "y":  -8.09,
+                                       "z":  36.45
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_002@-21.8,-8.1,36.5",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -17.1,
+                                       "y":  -8.21,
+                                       "z":  82.59
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_002@-17.1,-8.2,82.6",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  -14.03,
+                                       "y":  -9.81,
+                                       "z":  58.83
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_002@-14.0,-9.8,58.8",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Scrap",
+                      "item_id":  "it50_00_002",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem",
+                      "position":  {
+                                       "x":  2.92,
+                                       "y":  -8.26,
+                                       "z":  32.31
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/it50_00_002@2.9,-8.3,32.3",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -51.15,
+                                       "y":  -5.55,
+                                       "z":  71.07
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it99_50_003@-51.2,-5.6,71.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -35.52,
+                                       "y":  -5.65,
+                                       "z":  67.06
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it99_50_003@-35.5,-5.7,67.1",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon",
+                      "item_id":  "it99_50_003",
+                      "categorie":  "Other",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -2.54,
+                                       "y":  -8.09,
+                                       "z":  44.38
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it99_50_003@-2.5,-8.1,44.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -52.54,
+                                       "y":  -5.36,
+                                       "z":  72.19
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it50_00_012@-52.5,-5.4,72.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -5.14,
+                                       "y":  -8.23,
+                                       "z":  47.41
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it50_00_012@-5.1,-8.2,47.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Ink Ribbon Tin",
+                      "item_id":  "it50_00_012",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY",
+                      "position":  {
+                                       "x":  -2.6,
+                                       "y":  -8.12,
+                                       "z":  44.17
+                                   },
+                      "difficulte":  "ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY/it50_00_012@-2.6,-8.1,44.2",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/ConsumptionItem/NEW_ConsumptionItem/CLASSIC_INSANITY_ONLY"
+                  },
+                  {
+                      "nom":  "Care Center Basement Floor Plan",
+                      "item_id":  "it99_00_006",
+                      "categorie":  "Map",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/KeyItem",
+                      "position":  {
+                                       "x":  -50.49,
+                                       "y":  -5.55,
+                                       "z":  70.95
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/KeyItem/it99_00_006@-50.5,-5.6,71.0",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/KeyItem"
+                  },
+                  {
+                      "nom":  "Forklift Key",
+                      "item_id":  "it60_00_042",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/KeyItem",
+                      "position":  {
+                                       "x":  -46.59,
+                                       "y":  -6.49,
+                                       "z":  72.91
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/KeyItem/it60_00_042@-46.6,-6.5,72.9",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/KeyItem"
+                  },
+                  {
+                      "nom":  "Square Socket Wrench",
+                      "item_id":  "it60_00_041",
+                      "categorie":  "KeyItem",
+                      "quantite":  1,
+                      "zone":  "Chap3_03_Item/KeyItem",
+                      "position":  {
+                                       "x":  1.24,
+                                       "y":  -8.87,
+                                       "z":  46.43
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap3_03/Chap3_03_Item/KeyItem/it60_00_041@1.2,-8.9,46.4",
+                      "dossier":  "MainGame/Chap3_03/Chap3_03_Item/KeyItem"
+                  }
+              ]
+}

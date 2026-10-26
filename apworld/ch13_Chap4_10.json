@@ -1,0 +1,142 @@
+{
+    "numero":  13,
+    "chapitre":  "Chap4_10",
+    "nombre":  9,
+    "items":  [
+                  {
+                      "nom":  "12.7x55mm Ammo",
+                      "item_id":  "it40_02_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -36.74,
+                                       "y":  -3.45,
+                                       "z":  -454.51
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it40_02_000@-36.7,-3.5,-454.5",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Classic 70",
+                      "item_id":  "it10_05_000",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  5.48,
+                                       "y":  10.56,
+                                       "z":  -466.39
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it10_05_000@5.5,10.6,-466.4",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Gunpowder (Large)",
+                      "item_id":  "it50_00_014",
+                      "categorie":  "Material",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -48.61,
+                                       "y":  5.4,
+                                       "z":  -357.27
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it50_00_014@-48.6,5.4,-357.3",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -62.11,
+                                       "y":  0.77,
+                                       "z":  -359.21
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it40_00_000@-62.1,0.8,-359.2",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -47.28,
+                                       "y":  -2.49,
+                                       "z":  -367.57
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it40_00_000_05@-47.3,-2.5,-367.6",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  10,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -11.65,
+                                       "y":  -2.09,
+                                       "z":  -436.47
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it40_00_000_03@-11.7,-2.1,-436.5",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Requiem",
+                      "item_id":  "it10_02_000",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -36.75,
+                                       "y":  -3.45,
+                                       "z":  -454.27
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it10_02_000@-36.8,-3.5,-454.3",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Requiem",
+                      "item_id":  "it10_02_000",
+                      "categorie":  "Weapon",
+                      "quantite":  1,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  17.16,
+                                       "y":  1.78,
+                                       "z":  50.15
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it10_02_000@17.2,1.8,50.2",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  },
+                  {
+                      "nom":  "Shotgun Shells",
+                      "item_id":  "it40_01_000",
+                      "categorie":  "Ammo",
+                      "quantite":  5,
+                      "zone":  "Chap4_10_Item",
+                      "position":  {
+                                       "x":  -48.6,
+                                       "y":  5.4,
+                                       "z":  -343.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap4_10/Chap4_10_Item/it40_01_000_01@-48.6,5.4,-343.5",
+                      "dossier":  "MainGame/Chap4_10/Chap4_10_Item"
+                  }
+              ]
+}

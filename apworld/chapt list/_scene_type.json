@@ -1,0 +1,150 @@
+{
+  "fullName": "via.Scene",
+  "namespace": "via",
+  "isValueType": false,
+  "isEnum": false,
+  "size": 1586416,
+  "parentType": "System.Object",
+  "declaringType": null,
+  "fieldCount": 0,
+  "methodCount": 34,
+  "fields": [],
+  "methods": [
+    {
+      "returnType": "System.Guid",
+      "signature": "createRefId(via.GameObject)"
+    },
+    {
+      "returnType": "!!0[]",
+      "signature": "findComponents()"
+    },
+    {
+      "returnType": "via.Component[]",
+      "signature": "findComponents(System.Type)"
+    },
+    {
+      "returnType": "via.Folder",
+      "signature": "findFolder(System.String)"
+    },
+    {
+      "returnType": "via.GameObject",
+      "signature": "findGameObject(System.Guid)"
+    },
+    {
+      "returnType": "via.GameObject",
+      "signature": "findGameObject(System.String)"
+    },
+    {
+      "returnType": "via.GameObject[]",
+      "signature": "findGameObjects(System.Predicate\u00601\u003Cvia.GameObject\u003E)"
+    },
+    {
+      "returnType": "via.GameObject[]",
+      "signature": "findGameObjectsWithTag(System.UInt32, via.Folder)"
+    },
+    {
+      "returnType": "via.GameObject[]",
+      "signature": "findGameObjectsWithTag(System.String, via.Folder)"
+    },
+    {
+      "returnType": "via.vec3",
+      "signature": "fromUniversalPosition(via.Position)"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_Animation()"
+    },
+    {
+      "returnType": "System.Collections.Generic.IEnumerable\u00601\u003Cvia.Transform\u003E",
+      "signature": "get_Children()"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_Construct()"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_Enabled()"
+    },
+    {
+      "returnType": "via.Transform",
+      "signature": "get_FirstTransform()"
+    },
+    {
+      "returnType": "System.UInt32",
+      "signature": "get_FrameCount()"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_MainScene()"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_Monitor()"
+    },
+    {
+      "returnType": "System.String",
+      "signature": "get_Name()"
+    },
+    {
+      "returnType": "void___",
+      "signature": "get_OnUpdate()"
+    },
+    {
+      "returnType": "System.Boolean",
+      "signature": "get_Pause()"
+    },
+    {
+      "returnType": "System.Single",
+      "signature": "get_TimeScale()"
+    },
+    {
+      "returnType": "via.Transform",
+      "signature": "getNextTransform(via.Transform)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Animation(System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Construct(System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Enabled(System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Monitor(System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Name(System.String)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_OnUpdate(void___)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_Pause(System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "set_TimeScale(System.Single)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "setDraw(System.UInt32, System.Boolean)"
+    },
+    {
+      "returnType": "System.Void",
+      "signature": "setUpdate(System.UInt32, System.Boolean)"
+    },
+    {
+      "returnType": "via.Position",
+      "signature": "toUniversalPosition(via.vec3)"
+    }
+  ]
+}

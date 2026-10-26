@@ -1,0 +1,82 @@
+{
+    "numero":  2,
+    "chapitre":  "Chap1_10",
+    "nombre":  5,
+    "items":  [
+                  {
+                      "nom":  "Green Herb",
+                      "item_id":  "it00_00_000",
+                      "categorie":  "Heal",
+                      "quantite":  1,
+                      "zone":  "Chap1_10_Item",
+                      "position":  {
+                                       "x":  -50.22,
+                                       "y":  0.5,
+                                       "z":  -42.33
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_10/Chap1_10_Item/it00_00_000@-50.2,0.5,-42.3",
+                      "dossier":  "MainGame/Chap1_10/Chap1_10_Item"
+                  },
+                  {
+                      "nom":  "Handgun Ammo",
+                      "item_id":  "it40_00_000",
+                      "categorie":  "Ammo",
+                      "quantite":  1,
+                      "zone":  "Chap1_10_Item",
+                      "position":  {
+                                       "x":  -51.74,
+                                       "y":  0.02,
+                                       "z":  -37.48
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_10/Chap1_10_Item/it40_00_000@-51.7,0.0,-37.5",
+                      "dossier":  "MainGame/Chap1_10/Chap1_10_Item"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap1_10_Item",
+                      "position":  {
+                                       "x":  -47.91,
+                                       "y":  0.56,
+                                       "z":  -9.05
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_01@-47.9,0.6,-9.1",
+                      "dossier":  "MainGame/Chap1_10/Chap1_10_Item"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap1_10_Item",
+                      "position":  {
+                                       "x":  -37.96,
+                                       "y":  0.65,
+                                       "z":  5.89
+                                   },
+                      "difficulte":  "toutes",
+                      "cle":  "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008_02@-38.0,0.7,5.9",
+                      "dossier":  "MainGame/Chap1_10/Chap1_10_Item"
+                  },
+                  {
+                      "nom":  "Tracking Module (Common)",
+                      "item_id":  "it99_50_008",
+                      "categorie":  "Storage",
+                      "quantite":  1,
+                      "zone":  "Chap1_10_Item",
+                      "position":  {
+                                       "x":  7.8,
+                                       "y":  0.89,
+                                       "z":  9.16
+                                   },
+                      "difficulte":  "ID0010, ID0020, ID0030, ID0040",
+                      "cle":  "fp::MainGame/Chap1_10/Chap1_10_Item/it99_50_008@7.8,0.9,9.2",
+                      "dossier":  "MainGame/Chap1_10/Chap1_10_Item"
+                  }
+              ]
+}
