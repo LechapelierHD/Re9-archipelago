@@ -1,14 +1,16 @@
 # Resident Evil Requiem
 
+Client **1.0.121**, apworld **1.0.7**. Download the client at https://lechapelierhd.github.io/Re9-AP-site/. Source: https://github.com/LechapelierHD/Re9-archipelago
+
 ## What is randomized?
 
-Every item lying in the world (floor, drawers, safes, coin lockers, enemy drops...) of every chapter
-is a check. Picking it up sends the check; the original item is not given. Items received from the
-multiworld arrive in the item box.
+Items lying in the world (floor, drawers, safes, lockers) are checks. Enemy drops and broken pots send the next Enemy Drop check, up to the `enemy_drops` count (default 50). They only hold filler.
 
-With `key_items: vanilla` (default), key items stay in place and are not checks, so the story cannot
-be blocked. With `key_items: shuffled`, they are shuffled too and every key item of a chapter is
-required before that chapter is in logic.
+These stay on the ground and are never checks: Screwdriver, Lighter, Flashlight, Override Manual, Unknown Item, and the first fuse.
+
+With `supply_box: true`, the 11 merchant rows are checks. The Ch13 ground crates stay checks either way.
+
+Credit packs (500, 1000, 2500, 5000) can replace filler. A new seed generated with apworld 1.0.7 is required for them and for the Care Center logic.
 
 ## Which difficulty?
 
@@ -16,4 +18,4 @@ Some pickups only exist on some difficulties. Set `game_difficulty` to the diffi
 
 ## What is the goal?
 
-Finish the game.
+Finish the game. The client sends the victory when the final boss is beaten.

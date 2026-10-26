@@ -1,6 +1,6 @@
 <a id="english"></a>
 
-# Re9 archipelago — 1.0.0 ( Alpha )
+# Re9 archipelago — client 1.0.121, apworld 1.0.7
 
 **English** | [Français](#francais)
 
@@ -10,24 +10,13 @@ Items lying in the world become checks shared with the other players of the mult
 Picking up an item sends its check; what you find may belong to another player, and your own items
 may be found in other games.
 
-> **Alpha version**: the mod is playable from start to finish, but bugs may remain.
 > Back up your RE9 saves before playing.
 
-## What's new in the latest update (1.0.23)
+## What's new (client 1.0.121, apworld 1.0.7)
 
-> **New game required** (apworld 1.0.4): games generated with an older version are no longer compatible.
-
-- No more starting items.
-- Received items go straight into the **played character's inventory** (ammo, healing, key items of the
-  current chapter); the rest, or what does not fit, goes to the **item box**. While playing Leon, items wait for Grace.
-- **F7** opens the item box from anywhere.
-- **Debug** tab: take an item from the item box into your inventory, give yourself an item if a check failed.
-- New notifications: type, big item name, sender and destination, rarity color, timer bar ("Test" button in Customize).
-- Reorganized window: chapter skip in **Guidance**; problems, journal and item box tools in **Debug**;
-  "Hints and commands" renamed **Commands**.
-- Launcher: click the latest update on the **Updates** page to show or hide its notes.
-- Fixes: joining the same game no longer resets the session (no more duplicate items); no startup error
-  when session files are missing.
+- **Guidance**: tick “When changing chapter, send the missed checks” to send the unfinished checks of the chapter you leave. Off by default. The chapter does not restart.
+- Credits received from another player stay when you change chapter.
+- Apworld **1.0.7**. A new seed is required for the credit packs and the hospital (Care Center) logic. The client update alone does not need one.
 
 ## What the mod includes
 
@@ -69,9 +58,9 @@ The playable client stays on the site: https://lechapelierhd.github.io/Re9-AP-si
 ## How it works in game
 
 - Items on the floor, in drawers, safes, lockers, etc. across the 20 chapters (**Ch1 to Ch20**, in story
-  order) are checks. Their number depends on the difficulty and options (for example **535 checks** on
-  Modern with shuffled key items). No items are given at the start of a game.
-- The Old Key and the Wire Cutters at the very start are not checks: you pick them up normally.
+  order) are checks. The count depends on the difficulty and the options. No items are given at the start.
+- These pickups stay in the world and are never checks: Screwdriver, Lighter, Flashlight, Override Manual,
+  Unknown Item, and the first fuse (`Ch3 st30_001 - Fuse`).
 - Locations are named `ChN Area - Item` (e.g. `Ch1 AbandonedHotel - Wire Cutters`).
 - Picking up a check that holds **one of your own AP items** puts it straight into your inventory
   (option; if there is no room, it goes to the item box).
@@ -86,16 +75,17 @@ The playable client stays on the site: https://lechapelierhd.github.io/Re9-AP-si
   REFramework menu), customizable colors, English / French.
 - **Debug** tab (enable "Developer tools" in **Customize**): resend checks, redeliver lost items, take an
   item from the item box into your inventory, give yourself an item if a check failed, journal.
-- **Goal**: beat the final boss, then click "Yes, I beat the final boss" in the client's **Debug** tab
-  to send the victory.
+- **Goal**: beat the final boss. The client sends the victory.
 
 ## YAML options
 
 | Option | Values | Effect |
 |---|---|---|
 | `game_difficulty` | `casual`, `modern` (default), `classic`, `insanity` | Must match the difficulty of your save: some items only exist on some difficulties. |
-| `key_items` | `vanilla` (default), `shuffled` | `vanilla`: key items stay in place, the story can never be blocked. `shuffled`: key items are shuffled into the multiworld; a chapter's key items are required before its checks are in logic. |
-| `exclude_locations` | location names or chapters | A chapter name (`Ch5`) excludes the whole chapter: no progression item will be placed there. |
+| `key_items` | `vanilla` (default), `shuffled` | Progressive keys are checks. The cinematic pickups listed above stay on the ground. |
+| `supply_box` | `false` (default), `true` | `true`: the 11 merchant rows are checks. The Ch13 ground crates stay checks either way. |
+| `enemy_drops` | `0`–`50` (default `50`) | Enemy deaths and broken pots send the next of these checks, in order. They only hold filler. `0` turns them off. |
+| `death_link` | off / on | Archipelago death link. |
 
 The launcher's **Join a multiworld** page creates a full YAML in the Archipelago template format, with
 every option explained (including the common ones: `progression_balancing`, `accessibility`,
@@ -114,28 +104,27 @@ Resident Evil Requiem:
   accessibility: full
   game_difficulty: modern
   key_items: vanilla
-  exclude_locations: [Ch5]
+  supply_box: false
+  enemy_drops: 50
 ```
 
 ## Install
 
 Requirements: Resident Evil Requiem (Steam), Windows, and [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) 0.6.8 or newer to host or generate.
 
-1. Download `Resident-Evil-9-AP-1.0.0-alpha.zip` from the [latest release](https://github.com/LechapelierHD/Re9-archipelago/releases/latest) and extract it anywhere.
+1. Download the client from the [site](https://lechapelierhd.github.io/Re9-AP-site/) (`RE9-AP-Client-1.0.121.zip`) and extract it anywhere.
 2. Run `RE9.AP.Launcher.exe`.
 3. Choose **Join a multiworld** (or **Host a multiworld**) and follow the steps:
    the launcher installs REFramework, the client and the apworld.
-4. In game, open the REFramework menu (**Insert**) and connect **before** picking anything up.
+4. In game, open the REFramework menu and connect **before** picking anything up.
 
 Updates then arrive in the launcher: "Update available" banner at the top, **Update** button.
 The launcher updates itself too: it closes and restarts on its own.
 
-## Known limitations (alpha)
+## Known limitations
 
-- Items dropped randomly by enemies (zombie ammo, etc.) are not checks.
 - Weapons have no logic: they are shuffled like everything else, with no guarantee of getting them early.
-- `key_items: shuffled` is less tested than `vanilla`.
-- Victory is sent manually with the client's button.
+- Credit packs and the Care Center logic need a seed generated with apworld 1.0.7.
 
 ## Reporting a bug
 
@@ -153,7 +142,7 @@ desktop. Send it with a description of what happened.
 
 <a id="francais"></a>
 
-# Re9 archipelago — 1.0.0 alpha — Français
+# Re9 archipelago — client 1.0.121, apworld 1.0.7 — Français
 
 [English](#english) | **Français**
 
@@ -163,25 +152,13 @@ Les objets posés dans le monde deviennent des checks partagés avec les autres 
 Ramasser un objet envoie son check ; ce que tu trouves peut appartenir à un autre joueur, et tes propres
 objets peuvent être trouvés dans d'autres jeux.
 
-> **Version alpha** : le mod est jouable du début à la fin, mais il peut rester des bugs.
 > Fais une sauvegarde de tes parties RE9 avant de jouer.
 
-## Nouveautés de la dernière mise à jour (1.0.23)
+## Nouveautés (client 1.0.121, apworld 1.0.7)
 
-> **Nouvelle partie à générer** (apworld 1.0.4) : les parties créées avec une ancienne version ne sont plus compatibles.
-
-- Plus aucun objet donné au départ.
-- Les objets reçus vont directement dans l'**inventaire du personnage joué** (munitions, soins, objets clés
-  du chapitre en cours) ; le reste, ou ce qui ne tient pas, va au **coffre**. Pendant Leon, ils attendent Grace.
-- **F7** ouvre le coffre de n'importe où.
-- Onglet **Debug** : prendre un objet du coffre dans son inventaire, se donner un objet si un check a raté.
-- Nouvelles notifications : type, nom de l'objet en grand, expéditeur et destination, couleur de rareté,
-  barre de temps (bouton « Tester » dans Personnaliser).
-- Fenêtre réorganisée : saut de chapitre dans **Guidage** ; « Un problème ? », journal et outils du coffre
-  dans **Debug** ; « Indices et commandes » devient **Commandes**.
-- Lanceur : sur la page **Mises à jour**, clique sur la dernière mise à jour pour afficher ou cacher ses notes.
-- Corrections : rejoindre la même partie ne remet plus la session à zéro (plus d'objets en double) ; plus
-  d'erreur au démarrage quand les fichiers de session n'existent pas.
+- **Guidage** : cocher « Au changement de chapitre, envoyer les checks oubliés » envoie les checks pas faits du chapitre quitté. Décoché par défaut. Le chapitre ne recommence pas.
+- Les crédits reçus d'un autre joueur restent au changement de chapitre.
+- Apworld **1.0.7**. Une nouvelle seed est nécessaire pour les paquets de crédits et la logique de l'hôpital (Care Center). La mise à jour du client seule n'en demande pas.
 
 ## Ce que contient le mod
 
@@ -215,9 +192,9 @@ langue par défaut).
 ## Fonctionnement en jeu
 
 - Les objets au sol, dans les tiroirs, coffres-forts, casiers, etc. des 20 chapitres (**Ch1 à Ch20**,
-  dans l'ordre de l'histoire) sont des checks. Leur nombre dépend de la difficulté et des options (par
-  exemple **535 checks** en Modern avec les objets clés mélangés). Aucun objet n'est donné au départ.
-- L'Old Key et les Wire Cutters du tout début ne sont pas des checks : elles se ramassent normalement.
+  dans l'ordre de l'histoire) sont des checks. Le nombre dépend de la difficulté et des options. Aucun objet n'est donné au départ.
+- Ces ramassages restent au sol et ne sont jamais des checks : tournevis, briquet, lampe, manuel,
+  objet inconnu, et le premier fusible (`Ch3 st30_001 - Fuse`).
 - Les locations s'appellent `ChN Zone - Objet` (ex. `Ch1 AbandonedHotel - Wire Cutters`).
 - Ramasser un check contenant **ton propre objet AP** te le donne directement dans l'inventaire
   (option ; s'il n'y a pas de place, il part au coffre).
@@ -233,16 +210,17 @@ langue par défaut).
 - Onglet **Debug** (case « Outils développeur » dans **Personnaliser**) : renvoyer les checks, redonner
   des objets perdus, prendre un objet du coffre dans son inventaire, se donner un objet si un check a
   raté, journal.
-- **Objectif** : battre le dernier boss, puis cliquer sur « Oui, j'ai battu le dernier boss » dans
-  l'onglet **Debug** du client pour envoyer la victoire.
+- **Objectif** : battre le dernier boss. Le client envoie la victoire.
 
 ## Options du YAML
 
 | Option | Valeurs | Effet |
 |---|---|---|
 | `game_difficulty` | `casual`, `modern` (défaut), `classic`, `insanity` | Doit correspondre à la difficulté de ta sauvegarde : certains objets n'existent que dans certaines difficultés. |
-| `key_items` | `vanilla` (défaut), `shuffled` | `vanilla` : les objets clés restent à leur place, l'histoire ne peut pas être bloquée. `shuffled` : les objets clés sont mélangés dans le multimonde ; ceux d'un chapitre sont requis avant que ses checks soient dans la logique. |
-| `exclude_locations` | noms de locations ou chapitres | Un nom de chapitre (`Ch5`) exclut tout le chapitre : aucun objet de progression n'y sera placé. |
+| `key_items` | `vanilla` (défaut), `shuffled` | Les clés progressives sont des checks. Les ramassages de cinématique listés plus haut restent au sol. |
+| `supply_box` | `false` (défaut), `true` | `true` : les 11 lignes du marchand sont des checks. Les caisses au sol du Ch13 restent des checks dans les deux cas. |
+| `enemy_drops` | `0`–`50` (défaut `50`) | Une mort d'ennemi ou un pot cassé envoie le prochain de ces checks, dans l'ordre. Ils ne contiennent que du filler. `0` les coupe. |
+| `death_link` | off / on | Death link Archipelago. |
 
 La page **Rejoindre un multimonde** du lanceur crée un YAML complet au format des modèles Archipelago,
 avec toutes les options expliquées (y compris les options communes : `progression_balancing`,
@@ -261,28 +239,27 @@ Resident Evil Requiem:
   accessibility: full
   game_difficulty: modern
   key_items: vanilla
-  exclude_locations: [Ch5]
+  supply_box: false
+  enemy_drops: 50
 ```
 
 ## Installer
 
 Prérequis : Resident Evil Requiem (Steam), Windows, et [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) 0.6.8 ou plus récent pour héberger ou générer.
 
-1. Télécharge `Resident-Evil-9-AP-1.0.0-alpha.zip` dans la [dernière release](https://github.com/LechapelierHD/Re9-archipelago/releases/latest) et décompresse-le où tu veux.
+1. Télécharge le client sur le [site](https://lechapelierhd.github.io/Re9-AP-site/) (`RE9-AP-Client-1.0.121.zip`) et décompresse-le où tu veux.
 2. Lance `RE9.AP.Launcher.exe`.
 3. Choisis **Rejoindre un multimonde** (ou **Héberger un multimonde**) et suis les étapes :
    le lanceur installe REFramework, le client et l'apworld.
-4. En jeu, ouvre le menu REFramework (**Insert**) et connecte-toi **avant** de ramasser quoi que ce soit.
+4. En jeu, ouvre le menu REFramework et connecte-toi **avant** de ramasser quoi que ce soit.
 
 Les mises à jour arrivent ensuite dans le lanceur : bandeau « Mise à jour disponible » en haut,
 bouton **Mettre à jour**. Le lanceur se met aussi à jour lui-même : il se ferme et se relance tout seul.
 
-## Limites connues (alpha)
+## Limites connues
 
-- Les objets lâchés aléatoirement par les ennemis (munitions des zombies, etc.) ne sont pas des checks.
 - Les armes n'ont pas de logique : elles sont mélangées comme le reste, sans garantie de les avoir tôt.
-- Le mode `key_items: shuffled` est moins testé que `vanilla`.
-- La victoire s'envoie à la main avec le bouton du client.
+- Les paquets de crédits et la logique du Care Center demandent une seed générée avec l'apworld 1.0.7.
 
 ## Signaler un bug
 
