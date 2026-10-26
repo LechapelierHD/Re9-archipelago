@@ -51,7 +51,7 @@ The playable client stays on the site: https://lechapelierhd.github.io/Re9-AP-si
 | **Host a multiworld** | **Setup status** |
 | ![Host](docs/screenshots/host.png) | ![Setup](docs/screenshots/setup.png) |
 
-**In-game client** (REFramework menu, Insert key):
+**In-game client** (REFramework menu):
 
 ![In-game client](docs/screenshots/client_ingame.jpg)
 
@@ -71,8 +71,7 @@ The playable client stays on the site: https://lechapelierhd.github.io/Re9-AP-si
 - **F7** opens the item box screen from anywhere.
 - The item name and its owner are shown on pickup ("Found: Green Herb for Bob"), in the game's language.
 - Names are shown above nearby checks not done yet (Guidance tab).
-- Notifications (item, sender, destination, rarity color), progress bar and client window (**Insert** key,
-  REFramework menu), customizable colors, English / French.
+- Notifications (item, sender, destination, rarity color), progress bar and client window (REFramework menu), customizable colors, English / French.
 - **Debug** tab (enable "Developer tools" in **Customize**): resend checks, redeliver lost items, take an
   item from the item box into your inventory, give yourself an item if a check failed, journal.
 - **Goal**: beat the final boss. The client sends the victory.
@@ -206,7 +205,7 @@ langue par défaut).
 - Nom de l'objet et du joueur affiché au ramassage (« Trouvé : Herbe verte pour Bob »), dans la langue du jeu.
 - Noms affichés au-dessus des checks proches pas encore faits (onglet Guidage).
 - Notifications (objet, expéditeur, destination, couleur de rareté), bandeau de progression et fenêtre du
-  client (touche **Insert**, menu REFramework), couleurs personnalisables, français / anglais.
+  client (menu REFramework), couleurs personnalisables, français / anglais.
 - Onglet **Debug** (case « Outils développeur » dans **Personnaliser**) : renvoyer les checks, redonner
   des objets perdus, prendre un objet du coffre dans son inventaire, se donner un objet si un check a
   raté, journal.
